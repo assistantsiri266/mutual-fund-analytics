@@ -1,0 +1,9 @@
+####Day 1 Data Quality Observations####
+
+1. All 10 CSV datasets loaded successfully.
+2. No duplicate rows found in any dataset.
+3. Most columns have appropriate data types.
+4. Date columns are currently stored as string/object datatype and may require conversion to datetime.
+5. File 04_monthly_sip_inflows.csv contains 12 missing values in yoy_growth_pct column.
+6. No missing values found in other datasets.
+7. AMFI codes are available in fund_master and nav_history datasets.
