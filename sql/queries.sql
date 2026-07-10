@@ -56,3 +56,20 @@ SELECT
     COUNT(*) AS total
 FROM fact_transactions
 GROUP BY transaction_type;
+
+-- Total Funds
+SELECT COUNT(*) FROM "01_fund_master";
+
+-- Top 10 NAV Records
+SELECT * FROM "02_nav_history"
+LIMIT 10;
+
+-- Average NAV
+SELECT AVG(nav)
+FROM "02_nav_history";
+
+-- Top 5 Funds by Sharpe Ratio
+SELECT scheme_name, sharpe_ratio
+FROM "07_scheme_performance"
+ORDER BY sharpe_ratio DESC
+LIMIT 5;

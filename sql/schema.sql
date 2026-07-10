@@ -57,3 +57,18 @@ CREATE TABLE fact_aum (
     FOREIGN KEY (fund_id) REFERENCES dim_fund(fund_id),
     FOREIGN KEY (date_id) REFERENCES dim_date(date_id)
 );
+
+CREATE TABLE "01_fund_master" (
+    amfi_code INTEGER,
+    fund_house TEXT,
+    scheme_name TEXT,
+    category TEXT,
+    sub_category TEXT,
+    plan TEXT
+);
+
+CREATE TABLE "02_nav_history" (
+    amfi_code INTEGER,
+    date DATE,
+    nav REAL
+);
