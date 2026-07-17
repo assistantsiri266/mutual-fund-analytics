@@ -1,0 +1,5963 @@
+Ratio Edge Case Log
+============================================================
+
+ROCE DIFFERENCES
+----------------------------------------
+Company ID : ABB
+Calculated ROCE : 31.22
+Source ROCE : 46.00
+Difference : 14.78
+
+Company ID : ABB
+Calculated ROCE : 33.88
+Source ROCE : 46.00
+Difference : 12.12
+
+Company ID : ABB
+Calculated ROCE : 33.30
+Source ROCE : 46.00
+Difference : 12.70
+
+Company ID : ABB
+Calculated ROCE : 30.54
+Source ROCE : 46.00
+Difference : 15.46
+
+Company ID : ABB
+Calculated ROCE : 28.70
+Source ROCE : 46.00
+Difference : 17.30
+
+Company ID : ABB
+Calculated ROCE : 31.01
+Source ROCE : 46.00
+Difference : 14.99
+
+Company ID : ABB
+Calculated ROCE : 30.13
+Source ROCE : 46.00
+Difference : 15.87
+
+Company ID : ABB
+Calculated ROCE : 29.05
+Source ROCE : 46.00
+Difference : 16.95
+
+Company ID : ABB
+Calculated ROCE : 33.47
+Source ROCE : 46.00
+Difference : 12.53
+
+Company ID : ABB
+Calculated ROCE : 36.41
+Source ROCE : 46.00
+Difference : 9.59
+
+Company ID : ABB
+Calculated ROCE : 36.53
+Source ROCE : 46.00
+Difference : 9.47
+
+Company ID : ABB
+Calculated ROCE : 38.42
+Source ROCE : 46.00
+Difference : 7.58
+
+Company ID : ADANIENSOL
+Calculated ROCE : 0.00
+Source ROCE : 9.00
+Difference : 9.00
+
+Company ID : ADANIENSOL
+Calculated ROCE : 0.94
+Source ROCE : 9.00
+Difference : 8.06
+
+Company ID : ADANIENSOL
+Calculated ROCE : 17.12
+Source ROCE : 9.00
+Difference : 8.12
+
+Company ID : ADANIENSOL
+Calculated ROCE : 16.63
+Source ROCE : 9.00
+Difference : 7.63
+
+Company ID : ADANIENSOL
+Calculated ROCE : 17.14
+Source ROCE : 9.00
+Difference : 8.14
+
+Company ID : ADANIENT
+Calculated ROCE : 5.17
+Source ROCE : 11.60
+Difference : 6.43
+
+Company ID : ADANIENT
+Calculated ROCE : 5.44
+Source ROCE : 11.60
+Difference : 6.16
+
+Company ID : ADANIENT
+Calculated ROCE : 6.23
+Source ROCE : 11.60
+Difference : 5.37
+
+Company ID : ADANIENT
+Calculated ROCE : 5.82
+Source ROCE : 11.60
+Difference : 5.78
+
+Company ID : ADANIGREEN
+Calculated ROCE : 7.26
+Source ROCE : 96.50
+Difference : 89.24
+
+Company ID : ADANIGREEN
+Calculated ROCE : 7.52
+Source ROCE : 96.50
+Difference : 88.98
+
+Company ID : ADANIGREEN
+Calculated ROCE : 11.67
+Source ROCE : 96.50
+Difference : 84.83
+
+Company ID : ADANIGREEN
+Calculated ROCE : 8.42
+Source ROCE : 96.50
+Difference : 88.08
+
+Company ID : ADANIGREEN
+Calculated ROCE : 8.49
+Source ROCE : 96.50
+Difference : 88.01
+
+Company ID : ADANIGREEN
+Calculated ROCE : 6.33
+Source ROCE : 96.50
+Difference : 90.17
+
+Company ID : ADANIGREEN
+Calculated ROCE : 8.08
+Source ROCE : 96.50
+Difference : 88.42
+
+Company ID : ADANIGREEN
+Calculated ROCE : 9.80
+Source ROCE : 96.50
+Difference : 86.70
+
+Company ID : ADANIPOWER
+Calculated ROCE : 2.08
+Source ROCE : 32.20
+Difference : 30.12
+
+Company ID : ADANIPOWER
+Calculated ROCE : 9.06
+Source ROCE : 32.20
+Difference : 23.14
+
+Company ID : ADANIPOWER
+Calculated ROCE : 9.27
+Source ROCE : 32.20
+Difference : 22.93
+
+Company ID : ADANIPOWER
+Calculated ROCE : 14.62
+Source ROCE : 32.20
+Difference : 17.58
+
+Company ID : ADANIPOWER
+Calculated ROCE : 10.78
+Source ROCE : 32.20
+Difference : 21.42
+
+Company ID : ADANIPOWER
+Calculated ROCE : 10.12
+Source ROCE : 32.20
+Difference : 22.08
+
+Company ID : ADANIPOWER
+Calculated ROCE : 9.11
+Source ROCE : 32.20
+Difference : 23.09
+
+Company ID : ADANIPOWER
+Calculated ROCE : 9.30
+Source ROCE : 32.20
+Difference : 22.90
+
+Company ID : ADANIPOWER
+Calculated ROCE : 13.24
+Source ROCE : 32.20
+Difference : 18.96
+
+Company ID : ADANIPOWER
+Calculated ROCE : 14.62
+Source ROCE : 32.20
+Difference : 17.58
+
+Company ID : ADANIPOWER
+Calculated ROCE : 13.98
+Source ROCE : 32.20
+Difference : 18.22
+
+Company ID : ADANIPOWER
+Calculated ROCE : 23.44
+Source ROCE : 32.20
+Difference : 8.76
+
+Company ID : AMBUJACEM
+Calculated ROCE : 27.92
+Source ROCE : 12.80
+Difference : 15.12
+
+Company ID : AMBUJACEM
+Calculated ROCE : 19.14
+Source ROCE : 12.80
+Difference : 6.34
+
+Company ID : AMBUJACEM
+Calculated ROCE : 18.64
+Source ROCE : 12.80
+Difference : 5.84
+
+Company ID : AMBUJACEM
+Calculated ROCE : 17.90
+Source ROCE : 12.80
+Difference : 5.10
+
+Company ID : AMBUJACEM
+Calculated ROCE : 19.06
+Source ROCE : 12.80
+Difference : 6.26
+
+Company ID : AMBUJACEM
+Calculated ROCE : 21.55
+Source ROCE : 12.80
+Difference : 8.75
+
+Company ID : AMBUJACEM
+Calculated ROCE : 24.04
+Source ROCE : 12.80
+Difference : 11.24
+
+Company ID : APOLLOHOSP
+Calculated ROCE : 11.09
+Source ROCE : 17.20
+Difference : 6.11
+
+Company ID : APOLLOHOSP
+Calculated ROCE : 11.40
+Source ROCE : 17.20
+Difference : 5.80
+
+Company ID : APOLLOHOSP
+Calculated ROCE : 11.99
+Source ROCE : 17.20
+Difference : 5.21
+
+Company ID : APOLLOHOSP
+Calculated ROCE : 22.94
+Source ROCE : 17.20
+Difference : 5.74
+
+Company ID : APOLLOHOSP
+Calculated ROCE : 22.59
+Source ROCE : 17.20
+Difference : 5.39
+
+Company ID : ASIANPAINT
+Calculated ROCE : 47.79
+Source ROCE : 41.75
+Difference : 6.04
+
+Company ID : ASIANPAINT
+Calculated ROCE : 47.79
+Source ROCE : 41.75
+Difference : 6.04
+
+Company ID : ASIANPAINT
+Calculated ROCE : 36.67
+Source ROCE : 41.75
+Difference : 5.08
+
+Company ID : ASIANPAINT
+Calculated ROCE : 36.67
+Source ROCE : 41.75
+Difference : 5.08
+
+Company ID : ASIANPAINT
+Calculated ROCE : 35.83
+Source ROCE : 41.75
+Difference : 5.92
+
+Company ID : ASIANPAINT
+Calculated ROCE : 35.83
+Source ROCE : 41.75
+Difference : 5.92
+
+Company ID : ASIANPAINT
+Calculated ROCE : 34.89
+Source ROCE : 41.75
+Difference : 6.86
+
+Company ID : ASIANPAINT
+Calculated ROCE : 34.89
+Source ROCE : 41.75
+Difference : 6.86
+
+Company ID : ASIANPAINT
+Calculated ROCE : 34.94
+Source ROCE : 41.75
+Difference : 6.81
+
+Company ID : ASIANPAINT
+Calculated ROCE : 34.94
+Source ROCE : 41.75
+Difference : 6.81
+
+Company ID : ASIANPAINT
+Calculated ROCE : 31.20
+Source ROCE : 41.75
+Difference : 10.55
+
+Company ID : ASIANPAINT
+Calculated ROCE : 31.20
+Source ROCE : 41.75
+Difference : 10.55
+
+Company ID : ASIANPAINT
+Calculated ROCE : 34.92
+Source ROCE : 41.75
+Difference : 6.83
+
+Company ID : ASIANPAINT
+Calculated ROCE : 34.92
+Source ROCE : 41.75
+Difference : 6.83
+
+Company ID : ASIANPAINT
+Calculated ROCE : 35.77
+Source ROCE : 41.75
+Difference : 5.98
+
+Company ID : ASIANPAINT
+Calculated ROCE : 35.77
+Source ROCE : 41.75
+Difference : 5.98
+
+Company ID : ATGL
+Calculated ROCE : 15.50
+Source ROCE : 21.20
+Difference : 5.70
+
+Company ID : ATGL
+Calculated ROCE : 30.41
+Source ROCE : 21.20
+Difference : 9.21
+
+Company ID : ATGL
+Calculated ROCE : 31.33
+Source ROCE : 21.20
+Difference : 10.13
+
+Company ID : ATGL
+Calculated ROCE : 28.58
+Source ROCE : 21.20
+Difference : 7.38
+
+Company ID : BAJAJ-AUTO
+Calculated ROCE : 44.69
+Source ROCE : 33.50
+Difference : 11.19
+
+Company ID : BAJAJ-AUTO
+Calculated ROCE : 40.71
+Source ROCE : 33.50
+Difference : 7.21
+
+Company ID : BAJAJ-AUTO
+Calculated ROCE : 24.64
+Source ROCE : 33.50
+Difference : 8.86
+
+Company ID : BAJAJ-AUTO
+Calculated ROCE : 23.59
+Source ROCE : 33.50
+Difference : 9.91
+
+Company ID : BAJAJ-AUTO
+Calculated ROCE : 22.25
+Source ROCE : 33.50
+Difference : 11.25
+
+Company ID : BAJAJ-AUTO
+Calculated ROCE : 23.45
+Source ROCE : 33.50
+Difference : 10.05
+
+Company ID : BAJAJ-AUTO
+Calculated ROCE : 18.03
+Source ROCE : 33.50
+Difference : 15.47
+
+Company ID : BAJAJ-AUTO
+Calculated ROCE : 17.54
+Source ROCE : 33.50
+Difference : 15.96
+
+Company ID : BAJAJ-AUTO
+Calculated ROCE : 21.93
+Source ROCE : 33.50
+Difference : 11.57
+
+Company ID : BAJAJ-AUTO
+Calculated ROCE : 28.39
+Source ROCE : 33.50
+Difference : 5.11
+
+Company ID : BAJAJFINSV
+Calculated ROCE : 15.58
+Source ROCE : 21.14
+Difference : 5.56
+
+Company ID : BAJAJFINSV
+Calculated ROCE : 14.73
+Source ROCE : 21.14
+Difference : 6.41
+
+Company ID : BAJAJFINSV
+Calculated ROCE : 13.57
+Source ROCE : 21.14
+Difference : 7.57
+
+Company ID : BAJAJFINSV
+Calculated ROCE : 13.52
+Source ROCE : 21.14
+Difference : 7.62
+
+Company ID : BAJAJFINSV
+Calculated ROCE : 12.52
+Source ROCE : 21.14
+Difference : 8.62
+
+Company ID : BAJAJFINSV
+Calculated ROCE : 12.18
+Source ROCE : 21.14
+Difference : 8.96
+
+Company ID : BAJAJFINSV
+Calculated ROCE : 11.52
+Source ROCE : 21.14
+Difference : 9.62
+
+Company ID : BAJAJFINSV
+Calculated ROCE : 11.96
+Source ROCE : 21.14
+Difference : 9.18
+
+Company ID : BAJAJFINSV
+Calculated ROCE : 10.65
+Source ROCE : 21.14
+Difference : 10.49
+
+Company ID : BAJAJFINSV
+Calculated ROCE : 11.55
+Source ROCE : 21.14
+Difference : 9.59
+
+Company ID : BAJAJFINSV
+Calculated ROCE : 11.71
+Source ROCE : 21.14
+Difference : 9.43
+
+Company ID : BAJAJHLDNG
+Calculated ROCE : 3.11
+Source ROCE : 13.10
+Difference : 9.99
+
+Company ID : BAJAJHLDNG
+Calculated ROCE : 3.33
+Source ROCE : 13.10
+Difference : 9.77
+
+Company ID : BAJAJHLDNG
+Calculated ROCE : 3.61
+Source ROCE : 13.10
+Difference : 9.49
+
+Company ID : BAJAJHLDNG
+Calculated ROCE : 2.81
+Source ROCE : 13.10
+Difference : 10.29
+
+Company ID : BAJAJHLDNG
+Calculated ROCE : 3.52
+Source ROCE : 13.10
+Difference : 9.58
+
+Company ID : BAJAJHLDNG
+Calculated ROCE : 1.41
+Source ROCE : 13.10
+Difference : 11.69
+
+Company ID : BAJAJHLDNG
+Calculated ROCE : 1.29
+Source ROCE : 13.10
+Difference : 11.81
+
+Company ID : BAJAJHLDNG
+Calculated ROCE : 1.08
+Source ROCE : 13.10
+Difference : 12.02
+
+Company ID : BAJAJHLDNG
+Calculated ROCE : 0.94
+Source ROCE : 13.10
+Difference : 12.16
+
+Company ID : BAJAJHLDNG
+Calculated ROCE : 0.85
+Source ROCE : 13.10
+Difference : 12.25
+
+Company ID : BAJAJHLDNG
+Calculated ROCE : 0.86
+Source ROCE : 13.10
+Difference : 12.24
+
+Company ID : BAJAJHLDNG
+Calculated ROCE : 2.88
+Source ROCE : 13.10
+Difference : 10.22
+
+Company ID : BAJFINANCE
+Calculated ROCE : 5.57
+Source ROCE : 11.90
+Difference : 6.33
+
+Company ID : BAJFINANCE
+Calculated ROCE : 5.30
+Source ROCE : 11.90
+Difference : 6.60
+
+Company ID : BAJFINANCE
+Calculated ROCE : 5.52
+Source ROCE : 11.90
+Difference : 6.38
+
+Company ID : BAJFINANCE
+Calculated ROCE : 4.99
+Source ROCE : 11.90
+Difference : 6.91
+
+Company ID : BAJFINANCE
+Calculated ROCE : 4.50
+Source ROCE : 11.90
+Difference : 7.40
+
+Company ID : BAJFINANCE
+Calculated ROCE : 5.65
+Source ROCE : 11.90
+Difference : 6.25
+
+Company ID : BAJFINANCE
+Calculated ROCE : 6.43
+Source ROCE : 11.90
+Difference : 5.47
+
+Company ID : BAJFINANCE
+Calculated ROCE : 5.69
+Source ROCE : 11.90
+Difference : 6.21
+
+Company ID : BAJFINANCE
+Calculated ROCE : 4.68
+Source ROCE : 11.90
+Difference : 7.22
+
+Company ID : BAJFINANCE
+Calculated ROCE : 4.35
+Source ROCE : 11.90
+Difference : 7.55
+
+Company ID : BHARTIARTL
+Calculated ROCE : 19.61
+Source ROCE : 13.10
+Difference : 6.51
+
+Company ID : BHARTIARTL
+Calculated ROCE : 19.54
+Source ROCE : 13.10
+Difference : 6.44
+
+Company ID : BHARTIARTL
+Calculated ROCE : 27.28
+Source ROCE : 13.10
+Difference : 14.18
+
+Company ID : BHARTIARTL
+Calculated ROCE : 20.30
+Source ROCE : 13.10
+Difference : 7.20
+
+Company ID : BHARTIARTL
+Calculated ROCE : 20.22
+Source ROCE : 13.10
+Difference : 7.12
+
+Company ID : BHARTIARTL
+Calculated ROCE : 20.42
+Source ROCE : 13.10
+Difference : 7.32
+
+Company ID : BHARTIARTL
+Calculated ROCE : 24.35
+Source ROCE : 13.10
+Difference : 11.25
+
+Company ID : BHARTIARTL
+Calculated ROCE : 23.48
+Source ROCE : 13.10
+Difference : 10.38
+
+Company ID : BHARTIARTL
+Calculated ROCE : 26.25
+Source ROCE : 13.10
+Difference : 13.15
+
+Company ID : BEL
+Calculated ROCE : 2230.00
+Source ROCE : 34.60
+Difference : 2195.40
+
+Company ID : BEL
+Calculated ROCE : 3303.57
+Source ROCE : 34.60
+Difference : 3268.97
+
+Company ID : BEL
+Calculated ROCE : 3572.73
+Source ROCE : 34.60
+Difference : 3538.13
+
+Company ID : BEL
+Calculated ROCE : 3764.86
+Source ROCE : 34.60
+Difference : 3730.26
+
+Company ID : BEL
+Calculated ROCE : 4072.73
+Source ROCE : 34.60
+Difference : 4038.13
+
+Company ID : BEL
+Calculated ROCE : 2581.01
+Source ROCE : 34.60
+Difference : 2546.41
+
+Company ID : BEL
+Calculated ROCE : 3030.21
+Source ROCE : 34.60
+Difference : 2995.61
+
+Company ID : BEL
+Calculated ROCE : 2786.87
+Source ROCE : 34.60
+Difference : 2752.27
+
+Company ID : BEL
+Calculated ROCE : 2975.93
+Source ROCE : 34.60
+Difference : 2941.33
+
+Company ID : BEL
+Calculated ROCE : 2633.07
+Source ROCE : 34.60
+Difference : 2598.47
+
+Company ID : BEL
+Calculated ROCE : 3587.72
+Source ROCE : 34.60
+Difference : 3553.12
+
+Company ID : BEL
+Calculated ROCE : 3977.17
+Source ROCE : 34.60
+Difference : 3942.57
+
+Company ID : BHEL
+Calculated ROCE : 28.52
+Source ROCE : 3.28
+Difference : 25.24
+
+Company ID : BHEL
+Calculated ROCE : 12.09
+Source ROCE : 3.28
+Difference : 8.81
+
+Company ID : BHEL
+Calculated ROCE : -4.17
+Source ROCE : 3.28
+Difference : 7.45
+
+Company ID : BHEL
+Calculated ROCE : -9.86
+Source ROCE : 3.28
+Difference : 13.14
+
+Company ID : BOSCHLTD
+Calculated ROCE : 26.56
+Source ROCE : 20.60
+Difference : 5.96
+
+Company ID : BOSCHLTD
+Calculated ROCE : 11.77
+Source ROCE : 20.60
+Difference : 8.83
+
+Company ID : BOSCHLTD
+Calculated ROCE : 13.59
+Source ROCE : 20.60
+Difference : 7.01
+
+Company ID : BPCL
+Calculated ROCE : 13.44
+Source ROCE : 32.10
+Difference : 18.66
+
+Company ID : BPCL
+Calculated ROCE : 17.90
+Source ROCE : 32.10
+Difference : 14.20
+
+Company ID : BPCL
+Calculated ROCE : 20.35
+Source ROCE : 32.10
+Difference : 11.75
+
+Company ID : BPCL
+Calculated ROCE : 25.34
+Source ROCE : 32.10
+Difference : 6.76
+
+Company ID : BPCL
+Calculated ROCE : 20.71
+Source ROCE : 32.10
+Difference : 11.39
+
+Company ID : BPCL
+Calculated ROCE : 20.62
+Source ROCE : 32.10
+Difference : 11.48
+
+Company ID : BPCL
+Calculated ROCE : 18.08
+Source ROCE : 32.10
+Difference : 14.02
+
+Company ID : BPCL
+Calculated ROCE : 8.80
+Source ROCE : 32.10
+Difference : 23.30
+
+Company ID : BPCL
+Calculated ROCE : 19.43
+Source ROCE : 32.10
+Difference : 12.67
+
+Company ID : BPCL
+Calculated ROCE : 16.44
+Source ROCE : 32.10
+Difference : 15.66
+
+Company ID : BPCL
+Calculated ROCE : 8.87
+Source ROCE : 32.10
+Difference : 23.23
+
+Company ID : BRITANNIA
+Calculated ROCE : 66.14
+Source ROCE : 48.90
+Difference : 17.24
+
+Company ID : BRITANNIA
+Calculated ROCE : 62.59
+Source ROCE : 48.90
+Difference : 13.69
+
+Company ID : BRITANNIA
+Calculated ROCE : 55.06
+Source ROCE : 48.90
+Difference : 6.16
+
+Company ID : BRITANNIA
+Calculated ROCE : 41.61
+Source ROCE : 48.90
+Difference : 7.29
+
+Company ID : BRITANNIA
+Calculated ROCE : 39.28
+Source ROCE : 48.90
+Difference : 9.62
+
+Company ID : BRITANNIA
+Calculated ROCE : 31.02
+Source ROCE : 48.90
+Difference : 17.88
+
+Company ID : BRITANNIA
+Calculated ROCE : 43.68
+Source ROCE : 48.90
+Difference : 5.22
+
+Company ID : BRITANNIA
+Calculated ROCE : 43.35
+Source ROCE : 48.90
+Difference : 5.55
+
+Company ID : CHOLAFIN
+Calculated ROCE : 4.00
+Source ROCE : 10.40
+Difference : 6.40
+
+Company ID : CHOLAFIN
+Calculated ROCE : 4.58
+Source ROCE : 10.40
+Difference : 5.82
+
+Company ID : CHOLAFIN
+Calculated ROCE : 4.69
+Source ROCE : 10.40
+Difference : 5.71
+
+Company ID : CHOLAFIN
+Calculated ROCE : 4.83
+Source ROCE : 10.40
+Difference : 5.57
+
+Company ID : CHOLAFIN
+Calculated ROCE : 4.66
+Source ROCE : 10.40
+Difference : 5.74
+
+Company ID : CHOLAFIN
+Calculated ROCE : 3.34
+Source ROCE : 10.40
+Difference : 7.06
+
+Company ID : CHOLAFIN
+Calculated ROCE : 2.87
+Source ROCE : 10.40
+Difference : 7.53
+
+Company ID : CHOLAFIN
+Calculated ROCE : 3.83
+Source ROCE : 10.40
+Difference : 6.57
+
+Company ID : CHOLAFIN
+Calculated ROCE : 3.97
+Source ROCE : 10.40
+Difference : 6.43
+
+Company ID : CHOLAFIN
+Calculated ROCE : 3.61
+Source ROCE : 10.40
+Difference : 6.79
+
+Company ID : CHOLAFIN
+Calculated ROCE : 3.24
+Source ROCE : 10.40
+Difference : 7.16
+
+Company ID : CHOLAFIN
+Calculated ROCE : 3.50
+Source ROCE : 10.40
+Difference : 6.90
+
+Company ID : CIPLA
+Calculated ROCE : 60.74
+Source ROCE : 22.80
+Difference : 37.94
+
+Company ID : CIPLA
+Calculated ROCE : 71.03
+Source ROCE : 22.80
+Difference : 48.23
+
+Company ID : CIPLA
+Calculated ROCE : 73.43
+Source ROCE : 22.80
+Difference : 50.63
+
+Company ID : CIPLA
+Calculated ROCE : 67.65
+Source ROCE : 22.80
+Difference : 44.85
+
+Company ID : CIPLA
+Calculated ROCE : 71.43
+Source ROCE : 22.80
+Difference : 48.63
+
+Company ID : CIPLA
+Calculated ROCE : 67.27
+Source ROCE : 22.80
+Difference : 44.47
+
+Company ID : CIPLA
+Calculated ROCE : 68.63
+Source ROCE : 22.80
+Difference : 45.83
+
+Company ID : CIPLA
+Calculated ROCE : 74.96
+Source ROCE : 22.80
+Difference : 52.16
+
+Company ID : CIPLA
+Calculated ROCE : 73.29
+Source ROCE : 22.80
+Difference : 50.49
+
+Company ID : CIPLA
+Calculated ROCE : 78.60
+Source ROCE : 22.80
+Difference : 55.80
+
+Company ID : CIPLA
+Calculated ROCE : 73.22
+Source ROCE : 22.80
+Difference : 50.42
+
+Company ID : CIPLA
+Calculated ROCE : 71.46
+Source ROCE : 22.80
+Difference : 48.66
+
+Company ID : COALINDIA
+Calculated ROCE : 100.88
+Source ROCE : 63.60
+Difference : 37.28
+
+Company ID : COALINDIA
+Calculated ROCE : 124.09
+Source ROCE : 63.60
+Difference : 60.49
+
+Company ID : COALINDIA
+Calculated ROCE : 139.29
+Source ROCE : 63.60
+Difference : 75.69
+
+Company ID : COALINDIA
+Calculated ROCE : 164.15
+Source ROCE : 63.60
+Difference : 100.55
+
+Company ID : COALINDIA
+Calculated ROCE : 238.69
+Source ROCE : 63.60
+Difference : 175.09
+
+Company ID : COALINDIA
+Calculated ROCE : 349.77
+Source ROCE : 63.60
+Difference : 286.17
+
+Company ID : COALINDIA
+Calculated ROCE : 260.17
+Source ROCE : 63.60
+Difference : 196.57
+
+Company ID : COALINDIA
+Calculated ROCE : 193.05
+Source ROCE : 63.60
+Difference : 129.45
+
+Company ID : COALINDIA
+Calculated ROCE : 168.38
+Source ROCE : 63.60
+Difference : 104.78
+
+Company ID : COALINDIA
+Calculated ROCE : 182.17
+Source ROCE : 63.60
+Difference : 118.57
+
+Company ID : COALINDIA
+Calculated ROCE : 144.26
+Source ROCE : 63.60
+Difference : 80.66
+
+Company ID : COALINDIA
+Calculated ROCE : 105.71
+Source ROCE : 63.60
+Difference : 42.11
+
+Company ID : DABUR
+Calculated ROCE : 30.56
+Source ROCE : 22.30
+Difference : 8.26
+
+Company ID : DABUR
+Calculated ROCE : 34.54
+Source ROCE : 22.30
+Difference : 12.24
+
+Company ID : DABUR
+Calculated ROCE : 32.29
+Source ROCE : 22.30
+Difference : 9.99
+
+Company ID : DABUR
+Calculated ROCE : 30.51
+Source ROCE : 22.30
+Difference : 8.21
+
+Company ID : DABUR
+Calculated ROCE : 27.48
+Source ROCE : 22.30
+Difference : 5.18
+
+Company ID : DIVISLAB
+Calculated ROCE : 32.20
+Source ROCE : 16.50
+Difference : 15.70
+
+Company ID : DIVISLAB
+Calculated ROCE : 34.14
+Source ROCE : 16.50
+Difference : 17.64
+
+Company ID : DIVISLAB
+Calculated ROCE : 33.30
+Source ROCE : 16.50
+Difference : 16.80
+
+Company ID : DIVISLAB
+Calculated ROCE : 32.83
+Source ROCE : 16.50
+Difference : 16.33
+
+Company ID : DIVISLAB
+Calculated ROCE : 26.89
+Source ROCE : 16.50
+Difference : 10.39
+
+Company ID : DIVISLAB
+Calculated ROCE : 26.53
+Source ROCE : 16.50
+Difference : 10.03
+
+Company ID : DIVISLAB
+Calculated ROCE : 24.85
+Source ROCE : 16.50
+Difference : 8.35
+
+Company ID : DIVISLAB
+Calculated ROCE : 30.83
+Source ROCE : 16.50
+Difference : 14.33
+
+Company ID : DIVISLAB
+Calculated ROCE : 33.11
+Source ROCE : 16.50
+Difference : 16.61
+
+Company ID : DMART
+Calculated ROCE : 24.47
+Source ROCE : 19.40
+Difference : 5.07
+
+Company ID : DMART
+Calculated ROCE : 26.49
+Source ROCE : 19.40
+Difference : 7.09
+
+Company ID : DMART
+Calculated ROCE : 25.97
+Source ROCE : 19.40
+Difference : 6.57
+
+Company ID : DMART
+Calculated ROCE : 13.87
+Source ROCE : 19.40
+Difference : 5.53
+
+Company ID : DRREDDY
+Calculated ROCE : 14.39
+Source ROCE : 26.50
+Difference : 12.11
+
+Company ID : DRREDDY
+Calculated ROCE : 13.33
+Source ROCE : 26.50
+Difference : 13.17
+
+Company ID : DRREDDY
+Calculated ROCE : 17.79
+Source ROCE : 26.50
+Difference : 8.71
+
+Company ID : DRREDDY
+Calculated ROCE : 13.91
+Source ROCE : 26.50
+Difference : 12.59
+
+Company ID : DRREDDY
+Calculated ROCE : 18.74
+Source ROCE : 26.50
+Difference : 7.76
+
+Company ID : DRREDDY
+Calculated ROCE : 16.68
+Source ROCE : 26.50
+Difference : 9.82
+
+Company ID : EICHERMOT
+Calculated ROCE : 43.43
+Source ROCE : 31.10
+Difference : 12.33
+
+Company ID : EICHERMOT
+Calculated ROCE : 45.97
+Source ROCE : 31.10
+Difference : 14.87
+
+Company ID : EICHERMOT
+Calculated ROCE : 39.84
+Source ROCE : 31.10
+Difference : 8.74
+
+Company ID : EICHERMOT
+Calculated ROCE : 39.12
+Source ROCE : 31.10
+Difference : 8.02
+
+Company ID : EICHERMOT
+Calculated ROCE : 21.34
+Source ROCE : 31.10
+Difference : 9.76
+
+Company ID : EICHERMOT
+Calculated ROCE : 15.30
+Source ROCE : 31.10
+Difference : 15.80
+
+Company ID : EICHERMOT
+Calculated ROCE : 17.13
+Source ROCE : 31.10
+Difference : 13.97
+
+Company ID : EICHERMOT
+Calculated ROCE : 22.56
+Source ROCE : 31.10
+Difference : 8.54
+
+Company ID : EICHERMOT
+Calculated ROCE : 23.45
+Source ROCE : 31.10
+Difference : 7.65
+
+Company ID : GAIL
+Calculated ROCE : 20.61
+Source ROCE : 14.70
+Difference : 5.91
+
+Company ID : GAIL
+Calculated ROCE : 20.68
+Source ROCE : 14.70
+Difference : 5.98
+
+Company ID : GAIL
+Calculated ROCE : 9.06
+Source ROCE : 14.70
+Difference : 5.64
+
+Company ID : GODREJCP
+Calculated ROCE : 17.25
+Source ROCE : 26.49
+Difference : 9.24
+
+Company ID : GODREJCP
+Calculated ROCE : 19.01
+Source ROCE : 26.49
+Difference : 7.48
+
+Company ID : GODREJCP
+Calculated ROCE : 19.62
+Source ROCE : 26.49
+Difference : 6.87
+
+Company ID : GODREJCP
+Calculated ROCE : 20.50
+Source ROCE : 26.49
+Difference : 5.99
+
+Company ID : GODREJCP
+Calculated ROCE : 21.34
+Source ROCE : 26.49
+Difference : 5.15
+
+Company ID : GODREJCP
+Calculated ROCE : 20.02
+Source ROCE : 26.49
+Difference : 6.47
+
+Company ID : GODREJCP
+Calculated ROCE : 18.77
+Source ROCE : 26.49
+Difference : 7.72
+
+Company ID : GODREJCP
+Calculated ROCE : 21.22
+Source ROCE : 26.49
+Difference : 5.27
+
+Company ID : GODREJCP
+Calculated ROCE : 18.17
+Source ROCE : 26.49
+Difference : 8.32
+
+Company ID : GODREJCP
+Calculated ROCE : 16.37
+Source ROCE : 26.49
+Difference : 10.12
+
+Company ID : GODREJCP
+Calculated ROCE : 18.69
+Source ROCE : 26.49
+Difference : 7.80
+
+Company ID : GRASIM
+Calculated ROCE : 20.28
+Source ROCE : 9.30
+Difference : 10.98
+
+Company ID : GRASIM
+Calculated ROCE : 15.70
+Source ROCE : 9.30
+Difference : 6.40
+
+Company ID : GRASIM
+Calculated ROCE : 14.67
+Source ROCE : 9.30
+Difference : 5.37
+
+Company ID : GRASIM
+Calculated ROCE : 14.80
+Source ROCE : 9.30
+Difference : 5.50
+
+Company ID : GRASIM
+Calculated ROCE : 18.19
+Source ROCE : 9.30
+Difference : 8.89
+
+Company ID : HAL
+Calculated ROCE : 1795.65
+Source ROCE : 38.90
+Difference : 1756.75
+
+Company ID : HAL
+Calculated ROCE : 2397.04
+Source ROCE : 38.90
+Difference : 2358.14
+
+Company ID : HAL
+Calculated ROCE : 2601.50
+Source ROCE : 38.90
+Difference : 2562.60
+
+Company ID : HAL
+Calculated ROCE : 3240.43
+Source ROCE : 38.90
+Difference : 3201.53
+
+Company ID : HAL
+Calculated ROCE : 3485.71
+Source ROCE : 38.90
+Difference : 3446.81
+
+Company ID : HAL
+Calculated ROCE : 3560.67
+Source ROCE : 38.90
+Difference : 3521.77
+
+Company ID : HAL
+Calculated ROCE : 3284.85
+Source ROCE : 38.90
+Difference : 3245.95
+
+Company ID : HAL
+Calculated ROCE : 2977.23
+Source ROCE : 38.90
+Difference : 2938.33
+
+Company ID : HAL
+Calculated ROCE : 3027.64
+Source ROCE : 38.90
+Difference : 2988.74
+
+Company ID : HAVELLS
+Calculated ROCE : 33.68
+Source ROCE : 24.40
+Difference : 9.28
+
+Company ID : HCLTECH
+Calculated ROCE : 39.98
+Source ROCE : 29.60
+Difference : 10.38
+
+Company ID : HCLTECH
+Calculated ROCE : 39.07
+Source ROCE : 29.60
+Difference : 9.47
+
+Company ID : HDFCBANK
+Calculated ROCE : 2.60
+Source ROCE : 7.67
+Difference : 5.07
+
+Company ID : HDFCLIFE
+Calculated ROCE : 1012.34
+Source ROCE : 6.61
+Difference : 1005.73
+
+Company ID : HDFCLIFE
+Calculated ROCE : 858.97
+Source ROCE : 6.61
+Difference : 852.36
+
+Company ID : HDFCLIFE
+Calculated ROCE : 1036.64
+Source ROCE : 6.61
+Difference : 1030.03
+
+Company ID : HDFCLIFE
+Calculated ROCE : 553.88
+Source ROCE : 6.61
+Difference : 547.27
+
+Company ID : HDFCLIFE
+Calculated ROCE : 775.59
+Source ROCE : 6.61
+Difference : 768.98
+
+Company ID : HDFCLIFE
+Calculated ROCE : 662.83
+Source ROCE : 6.61
+Difference : 656.22
+
+Company ID : HDFCLIFE
+Calculated ROCE : 667.14
+Source ROCE : 6.61
+Difference : 660.53
+
+Company ID : HDFCLIFE
+Calculated ROCE : 414.85
+Source ROCE : 6.61
+Difference : 408.24
+
+Company ID : HDFCLIFE
+Calculated ROCE : 760.76
+Source ROCE : 6.61
+Difference : 754.15
+
+Company ID : HDFCLIFE
+Calculated ROCE : 409.20
+Source ROCE : 6.61
+Difference : 402.59
+
+Company ID : HDFCLIFE
+Calculated ROCE : 502.95
+Source ROCE : 6.61
+Difference : 496.34
+
+Company ID : HDFCLIFE
+Calculated ROCE : 646.46
+Source ROCE : 6.61
+Difference : 639.85
+
+Company ID : HEROMOTOCO
+Calculated ROCE : 367.73
+Source ROCE : 29.10
+Difference : 338.63
+
+Company ID : HEROMOTOCO
+Calculated ROCE : 361.72
+Source ROCE : 29.10
+Difference : 332.62
+
+Company ID : HEROMOTOCO
+Calculated ROCE : 265.09
+Source ROCE : 29.10
+Difference : 235.99
+
+Company ID : HEROMOTOCO
+Calculated ROCE : 227.14
+Source ROCE : 29.10
+Difference : 198.04
+
+Company ID : HEROMOTOCO
+Calculated ROCE : 222.33
+Source ROCE : 29.10
+Difference : 193.23
+
+Company ID : HEROMOTOCO
+Calculated ROCE : 215.50
+Source ROCE : 29.10
+Difference : 186.40
+
+Company ID : HEROMOTOCO
+Calculated ROCE : 169.49
+Source ROCE : 29.10
+Difference : 140.39
+
+Company ID : HEROMOTOCO
+Calculated ROCE : 168.14
+Source ROCE : 29.10
+Difference : 139.04
+
+Company ID : HEROMOTOCO
+Calculated ROCE : 159.83
+Source ROCE : 29.10
+Difference : 130.73
+
+Company ID : HEROMOTOCO
+Calculated ROCE : 174.52
+Source ROCE : 29.10
+Difference : 145.42
+
+Company ID : HEROMOTOCO
+Calculated ROCE : 177.84
+Source ROCE : 29.10
+Difference : 148.74
+
+Company ID : HINDALCO
+Calculated ROCE : 78.56
+Source ROCE : 11.30
+Difference : 67.26
+
+Company ID : HINDALCO
+Calculated ROCE : 75.62
+Source ROCE : 11.30
+Difference : 64.32
+
+Company ID : HINDALCO
+Calculated ROCE : 89.36
+Source ROCE : 11.30
+Difference : 78.06
+
+Company ID : HINDALCO
+Calculated ROCE : 84.12
+Source ROCE : 11.30
+Difference : 72.82
+
+Company ID : HINDALCO
+Calculated ROCE : 79.97
+Source ROCE : 11.30
+Difference : 68.67
+
+Company ID : HINDALCO
+Calculated ROCE : 94.91
+Source ROCE : 11.30
+Difference : 83.61
+
+Company ID : HINDALCO
+Calculated ROCE : 104.65
+Source ROCE : 11.30
+Difference : 93.35
+
+Company ID : HINDALCO
+Calculated ROCE : 81.95
+Source ROCE : 11.30
+Difference : 70.65
+
+Company ID : HINDALCO
+Calculated ROCE : 85.58
+Source ROCE : 11.30
+Difference : 74.28
+
+Company ID : HINDALCO
+Calculated ROCE : 116.85
+Source ROCE : 11.30
+Difference : 105.55
+
+Company ID : HINDALCO
+Calculated ROCE : 129.30
+Source ROCE : 11.30
+Difference : 118.00
+
+Company ID : HINDALCO
+Calculated ROCE : 118.21
+Source ROCE : 11.30
+Difference : 106.91
+
+Company ID : HINDUNILVR
+Calculated ROCE : 788.37
+Source ROCE : 27.20
+Difference : 761.17
+
+Company ID : HINDUNILVR
+Calculated ROCE : 683.09
+Source ROCE : 27.20
+Difference : 655.89
+
+Company ID : HINDUNILVR
+Calculated ROCE : 652.58
+Source ROCE : 27.20
+Difference : 625.38
+
+Company ID : HINDUNILVR
+Calculated ROCE : 389.27
+Source ROCE : 27.20
+Difference : 362.07
+
+Company ID : HINDUNILVR
+Calculated ROCE : 382.20
+Source ROCE : 27.20
+Difference : 355.00
+
+Company ID : HINDUNILVR
+Calculated ROCE : 385.19
+Source ROCE : 27.20
+Difference : 357.99
+
+Company ID : HINDUNILVR
+Calculated ROCE : 382.00
+Source ROCE : 27.20
+Difference : 354.80
+
+Company ID : HINDUNILVR
+Calculated ROCE : 363.62
+Source ROCE : 27.20
+Difference : 336.42
+
+Company ID : HINDUNILVR
+Calculated ROCE : 74.26
+Source ROCE : 27.20
+Difference : 47.06
+
+Company ID : HINDUNILVR
+Calculated ROCE : 79.01
+Source ROCE : 27.20
+Difference : 51.81
+
+Company ID : HINDUNILVR
+Calculated ROCE : 90.12
+Source ROCE : 27.20
+Difference : 62.92
+
+Company ID : HINDUNILVR
+Calculated ROCE : 89.63
+Source ROCE : 27.20
+Difference : 62.43
+
+Company ID : ICICIGI
+Calculated ROCE : 224.12
+Source ROCE : 22.50
+Difference : 201.62
+
+Company ID : ICICIGI
+Calculated ROCE : 191.23
+Source ROCE : 22.50
+Difference : 168.73
+
+Company ID : ICICIGI
+Calculated ROCE : 154.40
+Source ROCE : 22.50
+Difference : 131.90
+
+Company ID : ICICIGI
+Calculated ROCE : 162.77
+Source ROCE : 22.50
+Difference : 140.27
+
+Company ID : ICICIGI
+Calculated ROCE : 150.50
+Source ROCE : 22.50
+Difference : 128.00
+
+Company ID : ICICIGI
+Calculated ROCE : 142.74
+Source ROCE : 22.50
+Difference : 120.24
+
+Company ID : ICICIGI
+Calculated ROCE : 161.33
+Source ROCE : 22.50
+Difference : 138.83
+
+Company ID : ICICIGI
+Calculated ROCE : 147.23
+Source ROCE : 22.50
+Difference : 124.73
+
+Company ID : ICICIGI
+Calculated ROCE : 124.81
+Source ROCE : 22.50
+Difference : 102.31
+
+Company ID : ICICIGI
+Calculated ROCE : 158.87
+Source ROCE : 22.50
+Difference : 136.37
+
+Company ID : ICICIGI
+Calculated ROCE : 158.53
+Source ROCE : 22.50
+Difference : 136.03
+
+Company ID : ICICIGI
+Calculated ROCE : 146.32
+Source ROCE : 22.50
+Difference : 123.82
+
+Company ID : ICICIPRULI
+Calculated ROCE : 486.75
+Source ROCE : 8.75
+Difference : 478.00
+
+Company ID : ICICIPRULI
+Calculated ROCE : 465.07
+Source ROCE : 8.75
+Difference : 456.32
+
+Company ID : ICICIPRULI
+Calculated ROCE : 622.94
+Source ROCE : 8.75
+Difference : 614.19
+
+Company ID : ICICIPRULI
+Calculated ROCE : 299.24
+Source ROCE : 8.75
+Difference : 290.49
+
+Company ID : ICICIPRULI
+Calculated ROCE : 562.13
+Source ROCE : 8.75
+Difference : 553.38
+
+Company ID : ICICIPRULI
+Calculated ROCE : 563.77
+Source ROCE : 8.75
+Difference : 555.02
+
+Company ID : ICICIPRULI
+Calculated ROCE : 595.58
+Source ROCE : 8.75
+Difference : 586.83
+
+Company ID : ICICIPRULI
+Calculated ROCE : 295.91
+Source ROCE : 8.75
+Difference : 287.16
+
+Company ID : ICICIPRULI
+Calculated ROCE : 810.67
+Source ROCE : 8.75
+Difference : 801.92
+
+Company ID : ICICIPRULI
+Calculated ROCE : 634.56
+Source ROCE : 8.75
+Difference : 625.81
+
+Company ID : ICICIPRULI
+Calculated ROCE : 462.67
+Source ROCE : 8.75
+Difference : 453.92
+
+Company ID : ICICIPRULI
+Calculated ROCE : 754.90
+Source ROCE : 8.75
+Difference : 746.15
+
+Company ID : INDUSINDBK
+Calculated ROCE : 2.73
+Source ROCE : 7.93
+Difference : 5.20
+
+Company ID : INFY
+Calculated ROCE : 30.37
+Source ROCE : 40.00
+Difference : 9.63
+
+Company ID : INFY
+Calculated ROCE : 30.07
+Source ROCE : 40.00
+Difference : 9.93
+
+Company ID : INFY
+Calculated ROCE : 29.33
+Source ROCE : 40.00
+Difference : 10.67
+
+Company ID : INFY
+Calculated ROCE : 27.66
+Source ROCE : 40.00
+Difference : 12.34
+
+Company ID : INFY
+Calculated ROCE : 26.97
+Source ROCE : 40.00
+Difference : 13.03
+
+Company ID : INFY
+Calculated ROCE : 28.99
+Source ROCE : 40.00
+Difference : 11.01
+
+Company ID : INFY
+Calculated ROCE : 31.06
+Source ROCE : 40.00
+Difference : 8.94
+
+Company ID : INFY
+Calculated ROCE : 31.77
+Source ROCE : 40.00
+Difference : 8.23
+
+Company ID : INFY
+Calculated ROCE : 34.15
+Source ROCE : 40.00
+Difference : 5.85
+
+Company ID : IOC
+Calculated ROCE : 9.08
+Source ROCE : 21.31
+Difference : 12.23
+
+Company ID : IOC
+Calculated ROCE : 10.58
+Source ROCE : 21.31
+Difference : 10.73
+
+Company ID : IOC
+Calculated ROCE : 7.91
+Source ROCE : 21.31
+Difference : 13.40
+
+Company ID : IOC
+Calculated ROCE : 14.84
+Source ROCE : 21.31
+Difference : 6.47
+
+Company ID : IOC
+Calculated ROCE : 7.13
+Source ROCE : 21.31
+Difference : 14.18
+
+Company ID : IOC
+Calculated ROCE : 10.63
+Source ROCE : 21.31
+Difference : 10.68
+
+Company ID : IRCTC
+Calculated ROCE : 34.23
+Source ROCE : 53.80
+Difference : 19.57
+
+Company ID : IRCTC
+Calculated ROCE : 35.06
+Source ROCE : 53.80
+Difference : 18.74
+
+Company ID : IRCTC
+Calculated ROCE : 39.90
+Source ROCE : 53.80
+Difference : 13.90
+
+Company ID : IRCTC
+Calculated ROCE : 28.69
+Source ROCE : 53.80
+Difference : 25.11
+
+Company ID : IRCTC
+Calculated ROCE : 35.76
+Source ROCE : 53.80
+Difference : 18.04
+
+Company ID : IRCTC
+Calculated ROCE : 12.25
+Source ROCE : 53.80
+Difference : 41.55
+
+Company ID : IRCTC
+Calculated ROCE : 44.25
+Source ROCE : 53.80
+Difference : 9.55
+
+Company ID : IRCTC
+Calculated ROCE : 44.56
+Source ROCE : 53.80
+Difference : 9.24
+
+Company ID : ITC
+Calculated ROCE : 48.24
+Source ROCE : 34.76
+Difference : 13.48
+
+Company ID : ITC
+Calculated ROCE : 47.60
+Source ROCE : 34.76
+Difference : 12.84
+
+Company ID : ITC
+Calculated ROCE : 44.53
+Source ROCE : 34.76
+Difference : 9.77
+
+Company ID : ITC
+Calculated ROCE : 29.51
+Source ROCE : 34.76
+Difference : 5.25
+
+Company ID : ITC
+Calculated ROCE : 28.15
+Source ROCE : 34.76
+Difference : 6.61
+
+Company ID : JINDALSTEL
+Calculated ROCE : 4.34
+Source ROCE : 13.20
+Difference : 8.86
+
+Company ID : JINDALSTEL
+Calculated ROCE : 6.20
+Source ROCE : 13.20
+Difference : 7.00
+
+Company ID : JINDALSTEL
+Calculated ROCE : 31.58
+Source ROCE : 13.20
+Difference : 18.38
+
+Company ID : JINDALSTEL
+Calculated ROCE : 19.21
+Source ROCE : 13.20
+Difference : 6.01
+
+Company ID : JSWENERGY
+Calculated ROCE : 16.89
+Source ROCE : 8.59
+Difference : 8.30
+
+Company ID : JSWENERGY
+Calculated ROCE : 19.52
+Source ROCE : 8.59
+Difference : 10.93
+
+Company ID : JSWENERGY
+Calculated ROCE : 21.56
+Source ROCE : 8.59
+Difference : 12.97
+
+Company ID : JSWENERGY
+Calculated ROCE : 16.40
+Source ROCE : 8.59
+Difference : 7.81
+
+Company ID : JSWENERGY
+Calculated ROCE : 13.76
+Source ROCE : 8.59
+Difference : 5.17
+
+Company ID : JSWSTEEL
+Calculated ROCE : 18.65
+Source ROCE : 13.36
+Difference : 5.29
+
+Company ID : JSWSTEEL
+Calculated ROCE : 22.13
+Source ROCE : 13.36
+Difference : 8.77
+
+Company ID : JSWSTEEL
+Calculated ROCE : 23.03
+Source ROCE : 13.36
+Difference : 9.67
+
+Company ID : JSWSTEEL
+Calculated ROCE : 18.49
+Source ROCE : 13.36
+Difference : 5.13
+
+Company ID : JSWSTEEL
+Calculated ROCE : 28.03
+Source ROCE : 13.36
+Difference : 14.67
+
+Company ID : LICI
+Calculated ROCE : 2.19
+Source ROCE : 63.79
+Difference : 61.60
+
+Company ID : LICI
+Calculated ROCE : -2.73
+Source ROCE : 63.79
+Difference : 66.52
+
+Company ID : LICI
+Calculated ROCE : -3.66
+Source ROCE : 63.79
+Difference : 67.45
+
+Company ID : LICI
+Calculated ROCE : 29.33
+Source ROCE : 63.79
+Difference : 34.46
+
+Company ID : LICI
+Calculated ROCE : 73.99
+Source ROCE : 63.79
+Difference : 10.20
+
+Company ID : LICI
+Calculated ROCE : 39.61
+Source ROCE : 63.79
+Difference : 24.18
+
+Company ID : LODHA
+Calculated ROCE : 6.06
+Source ROCE : 11.10
+Difference : 5.04
+
+Company ID : LODHA
+Calculated ROCE : 6.07
+Source ROCE : 11.10
+Difference : 5.03
+
+Company ID : LT
+Calculated ROCE : 724.35
+Source ROCE : 17.18
+Difference : 707.17
+
+Company ID : LT
+Calculated ROCE : 818.95
+Source ROCE : 17.18
+Difference : 801.77
+
+Company ID : LT
+Calculated ROCE : 698.93
+Source ROCE : 17.18
+Difference : 681.75
+
+Company ID : LT
+Calculated ROCE : 710.37
+Source ROCE : 17.18
+Difference : 693.19
+
+Company ID : LT
+Calculated ROCE : 528.63
+Source ROCE : 17.18
+Difference : 511.45
+
+Company ID : LT
+Calculated ROCE : 521.01
+Source ROCE : 17.18
+Difference : 503.83
+
+Company ID : LT
+Calculated ROCE : 467.32
+Source ROCE : 17.18
+Difference : 450.14
+
+Company ID : LT
+Calculated ROCE : 388.74
+Source ROCE : 17.18
+Difference : 371.56
+
+Company ID : LT
+Calculated ROCE : 289.56
+Source ROCE : 17.18
+Difference : 272.38
+
+Company ID : LT
+Calculated ROCE : 167.15
+Source ROCE : 17.18
+Difference : 149.97
+
+Company ID : LT
+Calculated ROCE : 149.82
+Source ROCE : 17.18
+Difference : 132.64
+
+Company ID : LT
+Calculated ROCE : 135.20
+Source ROCE : 17.18
+Difference : 118.02
+
+Company ID : LTIM
+Calculated ROCE : 55.31
+Source ROCE : 34.10
+Difference : 21.21
+
+Company ID : LTIM
+Calculated ROCE : 66.69
+Source ROCE : 34.10
+Difference : 32.59
+
+Company ID : LTIM
+Calculated ROCE : 44.79
+Source ROCE : 34.10
+Difference : 10.69
+
+Company ID : LTIM
+Calculated ROCE : 47.16
+Source ROCE : 34.10
+Difference : 13.06
+
+Company ID : LTIM
+Calculated ROCE : 39.12
+Source ROCE : 34.10
+Difference : 5.02
+
+Company ID : LTIM
+Calculated ROCE : 28.91
+Source ROCE : 34.10
+Difference : 5.19
+
+Company ID : M&M
+Calculated ROCE : 18.73
+Source ROCE : 26.98
+Difference : 8.25
+
+Company ID : M&M
+Calculated ROCE : 17.39
+Source ROCE : 26.98
+Difference : 9.59
+
+Company ID : M&M
+Calculated ROCE : 13.79
+Source ROCE : 26.98
+Difference : 13.19
+
+Company ID : M&M
+Calculated ROCE : 14.82
+Source ROCE : 26.98
+Difference : 12.16
+
+Company ID : M&M
+Calculated ROCE : 13.67
+Source ROCE : 26.98
+Difference : 13.31
+
+Company ID : M&M
+Calculated ROCE : 14.27
+Source ROCE : 26.98
+Difference : 12.71
+
+Company ID : M&M
+Calculated ROCE : 13.72
+Source ROCE : 26.98
+Difference : 13.26
+
+Company ID : M&M
+Calculated ROCE : 8.32
+Source ROCE : 26.98
+Difference : 18.66
+
+Company ID : M&M
+Calculated ROCE : 9.40
+Source ROCE : 26.98
+Difference : 17.58
+
+Company ID : M&M
+Calculated ROCE : 11.77
+Source ROCE : 26.98
+Difference : 15.21
+
+Company ID : M&M
+Calculated ROCE : 13.65
+Source ROCE : 26.98
+Difference : 13.33
+
+Company ID : M&M
+Calculated ROCE : 14.24
+Source ROCE : 26.98
+Difference : 12.74
+
+Company ID : MARUTI
+Calculated ROCE : 29.25
+Source ROCE : 23.67
+Difference : 5.58
+
+Company ID : MARUTI
+Calculated ROCE : 14.83
+Source ROCE : 23.67
+Difference : 8.84
+
+Company ID : MARUTI
+Calculated ROCE : 10.20
+Source ROCE : 23.67
+Difference : 13.47
+
+Company ID : MARUTI
+Calculated ROCE : 10.32
+Source ROCE : 23.67
+Difference : 13.35
+
+Company ID : MARUTI
+Calculated ROCE : 17.30
+Source ROCE : 23.67
+Difference : 6.37
+
+Company ID : MOTHERSON
+Calculated ROCE : 20.58
+Source ROCE : 13.70
+Difference : 6.88
+
+Company ID : MOTHERSON
+Calculated ROCE : 30.73
+Source ROCE : 13.70
+Difference : 17.03
+
+Company ID : MOTHERSON
+Calculated ROCE : 33.64
+Source ROCE : 13.70
+Difference : 19.94
+
+Company ID : MOTHERSON
+Calculated ROCE : 33.90
+Source ROCE : 13.70
+Difference : 20.20
+
+Company ID : MOTHERSON
+Calculated ROCE : 22.40
+Source ROCE : 13.70
+Difference : 8.70
+
+Company ID : MOTHERSON
+Calculated ROCE : 25.31
+Source ROCE : 13.70
+Difference : 11.61
+
+Company ID : MOTHERSON
+Calculated ROCE : 23.77
+Source ROCE : 13.70
+Difference : 10.07
+
+Company ID : MOTHERSON
+Calculated ROCE : 19.08
+Source ROCE : 13.70
+Difference : 5.38
+
+Company ID : MOTHERSON
+Calculated ROCE : 20.23
+Source ROCE : 13.70
+Difference : 6.53
+
+Company ID : NAUKRI
+Calculated ROCE : 19.87
+Source ROCE : 3.65
+Difference : 16.22
+
+Company ID : NAUKRI
+Calculated ROCE : 14.41
+Source ROCE : 3.65
+Difference : 10.76
+
+Company ID : NAUKRI
+Calculated ROCE : 10.70
+Source ROCE : 3.65
+Difference : 7.05
+
+Company ID : NAUKRI
+Calculated ROCE : -15.40
+Source ROCE : 3.65
+Difference : 19.05
+
+Company ID : NESTLEIND
+Calculated ROCE : 54.77
+Source ROCE : 185.43
+Difference : 130.66
+
+Company ID : NESTLEIND
+Calculated ROCE : 71.37
+Source ROCE : 185.43
+Difference : 114.06
+
+Company ID : NESTLEIND
+Calculated ROCE : 54.85
+Source ROCE : 185.43
+Difference : 130.58
+
+Company ID : NESTLEIND
+Calculated ROCE : 55.81
+Source ROCE : 185.43
+Difference : 129.62
+
+Company ID : NESTLEIND
+Calculated ROCE : 60.69
+Source ROCE : 185.43
+Difference : 124.74
+
+Company ID : NESTLEIND
+Calculated ROCE : 70.60
+Source ROCE : 185.43
+Difference : 114.83
+
+Company ID : NESTLEIND
+Calculated ROCE : 138.87
+Source ROCE : 185.43
+Difference : 46.56
+
+Company ID : NESTLEIND
+Calculated ROCE : 147.83
+Source ROCE : 185.43
+Difference : 37.60
+
+Company ID : NESTLEIND
+Calculated ROCE : 161.03
+Source ROCE : 185.43
+Difference : 24.40
+
+Company ID : NESTLEIND
+Calculated ROCE : 135.75
+Source ROCE : 185.43
+Difference : 49.68
+
+Company ID : NESTLEIND
+Calculated ROCE : 163.77
+Source ROCE : 185.43
+Difference : 21.66
+
+Company ID : NESTLEIND
+Calculated ROCE : 157.75
+Source ROCE : 185.43
+Difference : 27.68
+
+Company ID : ONGC
+Calculated ROCE : 25.11
+Source ROCE : 19.71
+Difference : 5.40
+
+Company ID : ONGC
+Calculated ROCE : 13.97
+Source ROCE : 19.71
+Difference : 5.74
+
+Company ID : PFC
+Calculated ROCE : 3.67
+Source ROCE : 9.96
+Difference : 6.29
+
+Company ID : PFC
+Calculated ROCE : 4.07
+Source ROCE : 9.96
+Difference : 5.89
+
+Company ID : PFC
+Calculated ROCE : 3.83
+Source ROCE : 9.96
+Difference : 6.13
+
+Company ID : PFC
+Calculated ROCE : 3.87
+Source ROCE : 9.96
+Difference : 6.09
+
+Company ID : PFC
+Calculated ROCE : 2.20
+Source ROCE : 9.96
+Difference : 7.76
+
+Company ID : PFC
+Calculated ROCE : 2.44
+Source ROCE : 9.96
+Difference : 7.52
+
+Company ID : PFC
+Calculated ROCE : 3.03
+Source ROCE : 9.96
+Difference : 6.93
+
+Company ID : PFC
+Calculated ROCE : 2.17
+Source ROCE : 9.96
+Difference : 7.79
+
+Company ID : PFC
+Calculated ROCE : 2.76
+Source ROCE : 9.96
+Difference : 7.20
+
+Company ID : PFC
+Calculated ROCE : 3.19
+Source ROCE : 9.96
+Difference : 6.77
+
+Company ID : PFC
+Calculated ROCE : 3.17
+Source ROCE : 9.96
+Difference : 6.79
+
+Company ID : PFC
+Calculated ROCE : 3.49
+Source ROCE : 9.96
+Difference : 6.47
+
+Company ID : PIDILITIND
+Calculated ROCE : 43.16
+Source ROCE : 29.70
+Difference : 13.46
+
+Company ID : PIDILITIND
+Calculated ROCE : 35.36
+Source ROCE : 29.70
+Difference : 5.66
+
+Company ID : PIDILITIND
+Calculated ROCE : 36.25
+Source ROCE : 29.70
+Difference : 6.55
+
+Company ID : POWERGRID
+Calculated ROCE : 18.70
+Source ROCE : 13.20
+Difference : 5.50
+
+Company ID : POWERGRID
+Calculated ROCE : 18.70
+Source ROCE : 13.20
+Difference : 5.50
+
+Company ID : POWERGRID
+Calculated ROCE : 18.91
+Source ROCE : 13.20
+Difference : 5.71
+
+Company ID : POWERGRID
+Calculated ROCE : 18.91
+Source ROCE : 13.20
+Difference : 5.71
+
+Company ID : SBILIFE
+Calculated ROCE : 19.58
+Source ROCE : 13.20
+Difference : 6.38
+
+Company ID : SBILIFE
+Calculated ROCE : 19.44
+Source ROCE : 13.20
+Difference : 6.24
+
+Company ID : SBILIFE
+Calculated ROCE : 19.24
+Source ROCE : 13.20
+Difference : 6.04
+
+Company ID : SBILIFE
+Calculated ROCE : 20.40
+Source ROCE : 13.20
+Difference : 7.20
+
+Company ID : SBILIFE
+Calculated ROCE : 19.46
+Source ROCE : 13.20
+Difference : 6.26
+
+Company ID : SBILIFE
+Calculated ROCE : 6.28
+Source ROCE : 13.20
+Difference : 6.92
+
+Company ID : SBILIFE
+Calculated ROCE : 0.94
+Source ROCE : 13.20
+Difference : 12.26
+
+Company ID : SBILIFE
+Calculated ROCE : 1.65
+Source ROCE : 13.20
+Difference : 11.55
+
+Company ID : SHREECEM
+Calculated ROCE : 30.42
+Source ROCE : 14.80
+Difference : 15.62
+
+Company ID : SHREECEM
+Calculated ROCE : 23.52
+Source ROCE : 14.80
+Difference : 8.72
+
+Company ID : SHREECEM
+Calculated ROCE : 21.70
+Source ROCE : 14.80
+Difference : 6.90
+
+Company ID : SHREECEM
+Calculated ROCE : 27.95
+Source ROCE : 14.80
+Difference : 13.15
+
+Company ID : SHREECEM
+Calculated ROCE : 20.11
+Source ROCE : 14.80
+Difference : 5.31
+
+Company ID : SHREECEM
+Calculated ROCE : 22.42
+Source ROCE : 14.80
+Difference : 7.62
+
+Company ID : SHREECEM
+Calculated ROCE : 23.11
+Source ROCE : 14.80
+Difference : 8.31
+
+Company ID : SHREECEM
+Calculated ROCE : 23.21
+Source ROCE : 14.80
+Difference : 8.41
+
+Company ID : SHREECEM
+Calculated ROCE : 20.21
+Source ROCE : 14.80
+Difference : 5.41
+
+Company ID : SHRIRAMFIN
+Calculated ROCE : 5.35
+Source ROCE : 11.30
+Difference : 5.95
+
+Company ID : SHRIRAMFIN
+Calculated ROCE : 4.24
+Source ROCE : 11.30
+Difference : 7.06
+
+Company ID : SHRIRAMFIN
+Calculated ROCE : 3.02
+Source ROCE : 11.30
+Difference : 8.28
+
+Company ID : SHRIRAMFIN
+Calculated ROCE : 3.04
+Source ROCE : 11.30
+Difference : 8.26
+
+Company ID : SHRIRAMFIN
+Calculated ROCE : 3.06
+Source ROCE : 11.30
+Difference : 8.24
+
+Company ID : SHRIRAMFIN
+Calculated ROCE : 3.97
+Source ROCE : 11.30
+Difference : 7.33
+
+Company ID : SHRIRAMFIN
+Calculated ROCE : 3.66
+Source ROCE : 11.30
+Difference : 7.64
+
+Company ID : SHRIRAMFIN
+Calculated ROCE : 3.16
+Source ROCE : 11.30
+Difference : 8.14
+
+Company ID : SHRIRAMFIN
+Calculated ROCE : 2.65
+Source ROCE : 11.30
+Difference : 8.65
+
+Company ID : SHRIRAMFIN
+Calculated ROCE : 2.60
+Source ROCE : 11.30
+Difference : 8.70
+
+Company ID : SHRIRAMFIN
+Calculated ROCE : 4.24
+Source ROCE : 11.30
+Difference : 7.06
+
+Company ID : SHRIRAMFIN
+Calculated ROCE : 4.30
+Source ROCE : 11.30
+Difference : 7.00
+
+Company ID : SIEMENS
+Calculated ROCE : 30.69
+Source ROCE : 25.60
+Difference : 5.09
+
+Company ID : SIEMENS
+Calculated ROCE : 2.72
+Source ROCE : 25.60
+Difference : 22.88
+
+Company ID : SIEMENS
+Calculated ROCE : 19.41
+Source ROCE : 25.60
+Difference : 6.19
+
+Company ID : SIEMENS
+Calculated ROCE : 14.95
+Source ROCE : 25.60
+Difference : 10.65
+
+Company ID : SIEMENS
+Calculated ROCE : 13.73
+Source ROCE : 25.60
+Difference : 11.87
+
+Company ID : SIEMENS
+Calculated ROCE : 15.99
+Source ROCE : 25.60
+Difference : 9.61
+
+Company ID : SIEMENS
+Calculated ROCE : 16.47
+Source ROCE : 25.60
+Difference : 9.13
+
+Company ID : SIEMENS
+Calculated ROCE : 10.57
+Source ROCE : 25.60
+Difference : 15.03
+
+Company ID : SIEMENS
+Calculated ROCE : 14.03
+Source ROCE : 25.60
+Difference : 11.57
+
+Company ID : SIEMENS
+Calculated ROCE : 15.77
+Source ROCE : 25.60
+Difference : 9.83
+
+Company ID : SIEMENS
+Calculated ROCE : 18.75
+Source ROCE : 25.60
+Difference : 6.85
+
+Company ID : SIEMENS
+Calculated ROCE : 19.85
+Source ROCE : 25.60
+Difference : 5.75
+
+Company ID : SUNPHARMA
+Calculated ROCE : 31.37
+Source ROCE : 17.30
+Difference : 14.07
+
+Company ID : SUNPHARMA
+Calculated ROCE : 33.21
+Source ROCE : 17.30
+Difference : 15.91
+
+Company ID : SUNPHARMA
+Calculated ROCE : 22.79
+Source ROCE : 17.30
+Difference : 5.49
+
+Company ID : SUNPHARMA
+Calculated ROCE : 11.56
+Source ROCE : 17.30
+Difference : 5.74
+
+Company ID : SUNPHARMA
+Calculated ROCE : 12.28
+Source ROCE : 17.30
+Difference : 5.02
+
+Company ID : TATACONSUM
+Calculated ROCE : 4.82
+Source ROCE : 10.60
+Difference : 5.78
+
+Company ID : TATAMOTORS
+Calculated ROCE : 26.92
+Source ROCE : 20.10
+Difference : 6.82
+
+Company ID : TATAMOTORS
+Calculated ROCE : 27.61
+Source ROCE : 20.10
+Difference : 7.51
+
+Company ID : TATAMOTORS
+Calculated ROCE : 30.21
+Source ROCE : 20.10
+Difference : 10.11
+
+Company ID : TATAMOTORS
+Calculated ROCE : 25.89
+Source ROCE : 20.10
+Difference : 5.79
+
+Company ID : TATAMOTORS
+Calculated ROCE : 14.83
+Source ROCE : 20.10
+Difference : 5.27
+
+Company ID : TATAMOTORS
+Calculated ROCE : 9.57
+Source ROCE : 20.10
+Difference : 10.53
+
+Company ID : TATAMOTORS
+Calculated ROCE : 12.94
+Source ROCE : 20.10
+Difference : 7.16
+
+Company ID : TATAMOTORS
+Calculated ROCE : 30.98
+Source ROCE : 20.10
+Difference : 10.88
+
+Company ID : TATAPOWER
+Calculated ROCE : 4.17
+Source ROCE : 11.10
+Difference : 6.93
+
+Company ID : TATAPOWER
+Calculated ROCE : 3.53
+Source ROCE : 11.10
+Difference : 7.57
+
+Company ID : TATAPOWER
+Calculated ROCE : 4.60
+Source ROCE : 11.10
+Difference : 6.50
+
+Company ID : TATASTEEL
+Calculated ROCE : 13.25
+Source ROCE : 7.02
+Difference : 6.23
+
+Company ID : TATASTEEL
+Calculated ROCE : -0.50
+Source ROCE : 7.02
+Difference : 7.52
+
+Company ID : TATASTEEL
+Calculated ROCE : 14.01
+Source ROCE : 7.02
+Difference : 6.99
+
+Company ID : TATASTEEL
+Calculated ROCE : 17.27
+Source ROCE : 7.02
+Difference : 10.25
+
+Company ID : TATASTEEL
+Calculated ROCE : 18.74
+Source ROCE : 7.02
+Difference : 11.72
+
+Company ID : TATASTEEL
+Calculated ROCE : 33.42
+Source ROCE : 7.02
+Difference : 26.40
+
+Company ID : TATASTEEL
+Calculated ROCE : 17.18
+Source ROCE : 7.02
+Difference : 10.16
+
+Company ID : TATASTEEL
+Calculated ROCE : 12.42
+Source ROCE : 7.02
+Difference : 5.40
+
+Company ID : TCS
+Calculated ROCE : 46.40
+Source ROCE : 64.30
+Difference : 17.90
+
+Company ID : TCS
+Calculated ROCE : 50.82
+Source ROCE : 64.30
+Difference : 13.48
+
+Company ID : TCS
+Calculated ROCE : 48.01
+Source ROCE : 64.30
+Difference : 16.29
+
+Company ID : TCS
+Calculated ROCE : 43.01
+Source ROCE : 64.30
+Difference : 21.29
+
+Company ID : TCS
+Calculated ROCE : 37.35
+Source ROCE : 64.30
+Difference : 26.95
+
+Company ID : TCS
+Calculated ROCE : 38.09
+Source ROCE : 64.30
+Difference : 26.21
+
+Company ID : TCS
+Calculated ROCE : 44.14
+Source ROCE : 64.30
+Difference : 20.16
+
+Company ID : TCS
+Calculated ROCE : 45.62
+Source ROCE : 64.30
+Difference : 18.68
+
+Company ID : TCS
+Calculated ROCE : 49.40
+Source ROCE : 64.30
+Difference : 14.90
+
+Company ID : TCS
+Calculated ROCE : 54.72
+Source ROCE : 64.30
+Difference : 9.58
+
+Company ID : TECHM
+Calculated ROCE : 20.89
+Source ROCE : 11.90
+Difference : 8.99
+
+Company ID : TECHM
+Calculated ROCE : 20.89
+Source ROCE : 11.90
+Difference : 8.99
+
+Company ID : TECHM
+Calculated ROCE : 43.71
+Source ROCE : 11.90
+Difference : 31.81
+
+Company ID : TECHM
+Calculated ROCE : 43.71
+Source ROCE : 11.90
+Difference : 31.81
+
+Company ID : TECHM
+Calculated ROCE : 32.38
+Source ROCE : 11.90
+Difference : 20.48
+
+Company ID : TECHM
+Calculated ROCE : 32.38
+Source ROCE : 11.90
+Difference : 20.48
+
+Company ID : TECHM
+Calculated ROCE : 27.16
+Source ROCE : 11.90
+Difference : 15.26
+
+Company ID : TECHM
+Calculated ROCE : 27.16
+Source ROCE : 11.90
+Difference : 15.26
+
+Company ID : TECHM
+Calculated ROCE : 23.50
+Source ROCE : 11.90
+Difference : 11.60
+
+Company ID : TECHM
+Calculated ROCE : 23.50
+Source ROCE : 11.90
+Difference : 11.60
+
+Company ID : TECHM
+Calculated ROCE : 22.18
+Source ROCE : 11.90
+Difference : 10.28
+
+Company ID : TECHM
+Calculated ROCE : 22.18
+Source ROCE : 11.90
+Difference : 10.28
+
+Company ID : TECHM
+Calculated ROCE : 28.15
+Source ROCE : 11.90
+Difference : 16.25
+
+Company ID : TECHM
+Calculated ROCE : 28.15
+Source ROCE : 11.90
+Difference : 16.25
+
+Company ID : TECHM
+Calculated ROCE : 21.59
+Source ROCE : 11.90
+Difference : 9.69
+
+Company ID : TECHM
+Calculated ROCE : 21.59
+Source ROCE : 11.90
+Difference : 9.69
+
+Company ID : TECHM
+Calculated ROCE : 24.48
+Source ROCE : 11.90
+Difference : 12.58
+
+Company ID : TECHM
+Calculated ROCE : 24.48
+Source ROCE : 11.90
+Difference : 12.58
+
+Company ID : TECHM
+Calculated ROCE : 27.18
+Source ROCE : 11.90
+Difference : 15.28
+
+Company ID : TECHM
+Calculated ROCE : 27.18
+Source ROCE : 11.90
+Difference : 15.28
+
+Company ID : TECHM
+Calculated ROCE : 25.32
+Source ROCE : 11.90
+Difference : 13.42
+
+Company ID : TECHM
+Calculated ROCE : 25.32
+Source ROCE : 11.90
+Difference : 13.42
+
+Company ID : TITAN
+Calculated ROCE : 51.47
+Source ROCE : 22.70
+Difference : 28.77
+
+Company ID : TITAN
+Calculated ROCE : 31.44
+Source ROCE : 22.70
+Difference : 8.74
+
+Company ID : TITAN
+Calculated ROCE : 36.21
+Source ROCE : 22.70
+Difference : 13.51
+
+Company ID : TITAN
+Calculated ROCE : 13.13
+Source ROCE : 22.70
+Difference : 9.57
+
+Company ID : TORNTPHARM
+Calculated ROCE : 32.96
+Source ROCE : 23.20
+Difference : 9.76
+
+Company ID : TORNTPHARM
+Calculated ROCE : 31.47
+Source ROCE : 23.20
+Difference : 8.27
+
+Company ID : TORNTPHARM
+Calculated ROCE : 46.75
+Source ROCE : 23.20
+Difference : 23.55
+
+Company ID : TORNTPHARM
+Calculated ROCE : 12.17
+Source ROCE : 23.20
+Difference : 11.03
+
+Company ID : TORNTPHARM
+Calculated ROCE : 30.96
+Source ROCE : 23.20
+Difference : 7.76
+
+Company ID : TRENT
+Calculated ROCE : 0.32
+Source ROCE : 23.80
+Difference : 23.48
+
+Company ID : TRENT
+Calculated ROCE : -0.76
+Source ROCE : 23.80
+Difference : 24.56
+
+Company ID : TRENT
+Calculated ROCE : 5.21
+Source ROCE : 23.80
+Difference : 18.59
+
+Company ID : TRENT
+Calculated ROCE : 4.83
+Source ROCE : 23.80
+Difference : 18.97
+
+Company ID : TRENT
+Calculated ROCE : 6.91
+Source ROCE : 23.80
+Difference : 16.89
+
+Company ID : TRENT
+Calculated ROCE : 10.47
+Source ROCE : 23.80
+Difference : 13.33
+
+Company ID : TRENT
+Calculated ROCE : 11.26
+Source ROCE : 23.80
+Difference : 12.54
+
+Company ID : TRENT
+Calculated ROCE : 4.36
+Source ROCE : 23.80
+Difference : 19.44
+
+Company ID : TRENT
+Calculated ROCE : 8.39
+Source ROCE : 23.80
+Difference : 15.41
+
+Company ID : TRENT
+Calculated ROCE : 15.78
+Source ROCE : 23.80
+Difference : 8.02
+
+Company ID : TRENT
+Calculated ROCE : 33.86
+Source ROCE : 23.80
+Difference : 10.06
+
+Company ID : INDIGO
+Calculated ROCE : 54207.79
+Source ROCE : 24.50
+Difference : 54183.29
+
+Company ID : INDIGO
+Calculated ROCE : 58065.22
+Source ROCE : 24.50
+Difference : 58040.72
+
+Company ID : INDIGO
+Calculated ROCE : 39546.05
+Source ROCE : 24.50
+Difference : 39521.55
+
+Company ID : INDIGO
+Calculated ROCE : 9443.96
+Source ROCE : 24.50
+Difference : 9419.46
+
+Company ID : INDIGO
+Calculated ROCE : 10908.00
+Source ROCE : 24.50
+Difference : 10883.50
+
+Company ID : INDIGO
+Calculated ROCE : 12981.17
+Source ROCE : 24.50
+Difference : 12956.67
+
+Company ID : INDIGO
+Calculated ROCE : 13201.84
+Source ROCE : 24.50
+Difference : 13177.34
+
+Company ID : INDIGO
+Calculated ROCE : 12475.20
+Source ROCE : 24.50
+Difference : 12450.70
+
+Company ID : INDIGO
+Calculated ROCE : 2554.62
+Source ROCE : 24.50
+Difference : 2530.12
+
+Company ID : INDIGO
+Calculated ROCE : 3832.78
+Source ROCE : 24.50
+Difference : 3808.28
+
+Company ID : INDIGO
+Calculated ROCE : 6074.27
+Source ROCE : 24.50
+Difference : 6049.77
+
+Company ID : INDIGO
+Calculated ROCE : 5640.88
+Source ROCE : 24.50
+Difference : 5616.38
+
+
+ROE DIFFERENCES
+----------------------------------------
+Company ID : ABB
+Calculated ROE : 22.41
+Source ROE : 34.90
+Difference : 12.49
+
+Company ID : ABB
+Calculated ROE : 25.13
+Source ROE : 34.90
+Difference : 9.77
+
+Company ID : ABB
+Calculated ROE : 24.44
+Source ROE : 34.90
+Difference : 10.46
+
+Company ID : ABB
+Calculated ROE : 21.34
+Source ROE : 34.90
+Difference : 13.56
+
+Company ID : ABB
+Calculated ROE : 19.97
+Source ROE : 34.90
+Difference : 14.93
+
+Company ID : ABB
+Calculated ROE : 23.69
+Source ROE : 34.90
+Difference : 11.21
+
+Company ID : ABB
+Calculated ROE : 22.41
+Source ROE : 34.90
+Difference : 12.49
+
+Company ID : ABB
+Calculated ROE : 24.39
+Source ROE : 34.90
+Difference : 10.51
+
+Company ID : ABB
+Calculated ROE : 26.56
+Source ROE : 34.90
+Difference : 8.34
+
+Company ID : ABB
+Calculated ROE : 28.33
+Source ROE : 34.90
+Difference : 6.57
+
+Company ID : ABB
+Calculated ROE : 29.77
+Source ROE : 34.90
+Difference : 5.13
+
+Company ID : ADANIENSOL
+Calculated ROE : 0.00
+Source ROE : 8.59
+Difference : 8.59
+
+Company ID : ADANIENSOL
+Calculated ROE : -0.65
+Source ROE : 8.59
+Difference : 9.24
+
+Company ID : ADANIENSOL
+Calculated ROE : 13.77
+Source ROE : 8.59
+Difference : 5.18
+
+Company ID : ADANIENSOL
+Calculated ROE : 14.12
+Source ROE : 8.59
+Difference : 5.53
+
+Company ID : ADANIENSOL
+Calculated ROE : 18.87
+Source ROE : 8.59
+Difference : 10.28
+
+Company ID : ADANIENSOL
+Calculated ROE : 14.46
+Source ROE : 8.59
+Difference : 5.87
+
+Company ID : ADANIENT
+Calculated ROE : 5.69
+Source ROE : 13.64
+Difference : 7.95
+
+Company ID : ADANIENT
+Calculated ROE : 7.47
+Source ROE : 13.64
+Difference : 6.17
+
+Company ID : ADANIENT
+Calculated ROE : 6.54
+Source ROE : 13.64
+Difference : 7.10
+
+Company ID : ADANIENT
+Calculated ROE : 3.94
+Source ROE : 13.64
+Difference : 9.70
+
+Company ID : ADANIENT
+Calculated ROE : 3.43
+Source ROE : 13.64
+Difference : 10.21
+
+Company ID : ADANIENT
+Calculated ROE : 6.14
+Source ROE : 13.64
+Difference : 7.50
+
+Company ID : ADANIENT
+Calculated ROE : 6.10
+Source ROE : 13.64
+Difference : 7.54
+
+Company ID : ADANIENT
+Calculated ROE : 3.54
+Source ROE : 13.64
+Difference : 10.10
+
+Company ID : ADANIENT
+Calculated ROE : 7.33
+Source ROE : 13.64
+Difference : 6.31
+
+Company ID : ADANIENT
+Calculated ROE : 8.53
+Source ROE : 13.64
+Difference : 5.11
+
+Company ID : ADANIGREEN
+Calculated ROE : -3.91
+Source ROE : 14.70
+Difference : 18.61
+
+Company ID : ADANIGREEN
+Calculated ROE : -10.29
+Source ROE : 14.70
+Difference : 24.99
+
+Company ID : ADANIGREEN
+Calculated ROE : -24.57
+Source ROE : 14.70
+Difference : 39.27
+
+Company ID : ADANIGREEN
+Calculated ROE : -2.89
+Source ROE : 14.70
+Difference : 17.59
+
+Company ID : ADANIGREEN
+Calculated ROE : 8.27
+Source ROE : 14.70
+Difference : 6.43
+
+Company ID : ADANIPORTS
+Calculated ROE : 25.63
+Source ROE : 18.10
+Difference : 7.53
+
+Company ID : ADANIPORTS
+Calculated ROE : 11.84
+Source ROE : 18.10
+Difference : 6.26
+
+Company ID : ADANIPORTS
+Calculated ROE : 11.88
+Source ROE : 18.10
+Difference : 6.22
+
+Company ID : ADANIPORTS
+Calculated ROE : 25.63
+Source ROE : 18.10
+Difference : 7.53
+
+Company ID : ADANIPORTS
+Calculated ROE : 11.84
+Source ROE : 18.10
+Difference : 6.26
+
+Company ID : ADANIPORTS
+Calculated ROE : 11.88
+Source ROE : 18.10
+Difference : 6.22
+
+Company ID : ADANIPOWER
+Calculated ROE : -53.46
+Source ROE : 57.10
+Difference : 110.56
+
+Company ID : ADANIPOWER
+Calculated ROE : -4.45
+Source ROE : 57.10
+Difference : 61.55
+
+Company ID : ADANIPOWER
+Calculated ROE : -14.25
+Source ROE : 57.10
+Difference : 71.35
+
+Company ID : ADANIPOWER
+Calculated ROE : 7.38
+Source ROE : 57.10
+Difference : 49.72
+
+Company ID : ADANIPOWER
+Calculated ROE : -205.80
+Source ROE : 57.10
+Difference : 262.90
+
+Company ID : ADANIPOWER
+Calculated ROE : -236.56
+Source ROE : 57.10
+Difference : 293.66
+
+Company ID : ADANIPOWER
+Calculated ROE : -12.76
+Source ROE : 57.10
+Difference : 69.86
+
+Company ID : ADANIPOWER
+Calculated ROE : -35.10
+Source ROE : 57.10
+Difference : 92.20
+
+Company ID : ADANIPOWER
+Calculated ROE : 9.69
+Source ROE : 57.10
+Difference : 47.41
+
+Company ID : ADANIPOWER
+Calculated ROE : 26.61
+Source ROE : 57.10
+Difference : 30.49
+
+Company ID : ADANIPOWER
+Calculated ROE : 35.91
+Source ROE : 57.10
+Difference : 21.19
+
+Company ID : ADANIPOWER
+Calculated ROE : 48.28
+Source ROE : 57.10
+Difference : 8.82
+
+Company ID : AMBUJACEM
+Calculated ROE : 14.69
+Source ROE : 9.24
+Difference : 5.45
+
+Company ID : AMBUJACEM
+Calculated ROE : 14.77
+Source ROE : 9.24
+Difference : 5.53
+
+Company ID : AMBUJACEM
+Calculated ROE : 14.64
+Source ROE : 9.24
+Difference : 5.40
+
+Company ID : APOLLOHOSP
+Calculated ROE : 7.05
+Source ROE : 13.81
+Difference : 6.76
+
+Company ID : APOLLOHOSP
+Calculated ROE : 3.95
+Source ROE : 13.81
+Difference : 9.86
+
+Company ID : APOLLOHOSP
+Calculated ROE : 1.85
+Source ROE : 13.81
+Difference : 11.96
+
+Company ID : APOLLOHOSP
+Calculated ROE : 6.00
+Source ROE : 13.81
+Difference : 7.81
+
+Company ID : APOLLOHOSP
+Calculated ROE : 2.98
+Source ROE : 13.81
+Difference : 10.83
+
+Company ID : APOLLOHOSP
+Calculated ROE : 19.70
+Source ROE : 13.81
+Difference : 5.89
+
+Company ID : ASIANPAINT
+Calculated ROE : 24.95
+Source ROE : 31.45
+Difference : 6.50
+
+Company ID : ASIANPAINT
+Calculated ROE : 24.95
+Source ROE : 31.45
+Difference : 6.50
+
+Company ID : ASIANPAINT
+Calculated ROE : 23.31
+Source ROE : 31.45
+Difference : 8.14
+
+Company ID : ASIANPAINT
+Calculated ROE : 23.31
+Source ROE : 31.45
+Difference : 8.14
+
+Company ID : ASIANPAINT
+Calculated ROE : 25.04
+Source ROE : 31.45
+Difference : 6.41
+
+Company ID : ASIANPAINT
+Calculated ROE : 25.04
+Source ROE : 31.45
+Difference : 6.41
+
+Company ID : ASIANPAINT
+Calculated ROE : 22.34
+Source ROE : 31.45
+Difference : 9.11
+
+Company ID : ASIANPAINT
+Calculated ROE : 22.34
+Source ROE : 31.45
+Difference : 9.11
+
+Company ID : ASIANPAINT
+Calculated ROE : 26.23
+Source ROE : 31.45
+Difference : 5.22
+
+Company ID : ASIANPAINT
+Calculated ROE : 26.23
+Source ROE : 31.45
+Difference : 5.22
+
+Company ID : ATGL
+Calculated ROE : 29.64
+Source ROE : 20.50
+Difference : 9.14
+
+Company ID : BAJAJ-AUTO
+Calculated ROE : 38.85
+Source ROE : 26.50
+Difference : 12.35
+
+Company ID : BAJAJ-AUTO
+Calculated ROE : 33.24
+Source ROE : 26.50
+Difference : 6.74
+
+Company ID : BAJAJ-AUTO
+Calculated ROE : 20.66
+Source ROE : 26.50
+Difference : 5.84
+
+Company ID : BAJAJ-AUTO
+Calculated ROE : 21.21
+Source ROE : 26.50
+Difference : 5.29
+
+Company ID : BAJAJ-AUTO
+Calculated ROE : 17.81
+Source ROE : 26.50
+Difference : 8.69
+
+Company ID : BAJAJ-AUTO
+Calculated ROE : 20.65
+Source ROE : 26.50
+Difference : 5.85
+
+Company ID : BAJAJ-AUTO
+Calculated ROE : 20.64
+Source ROE : 26.50
+Difference : 5.86
+
+Company ID : AXISBANK
+Calculated ROE : 6.53
+Source ROE : 18.40
+Difference : 11.87
+
+Company ID : AXISBANK
+Calculated ROE : 0.43
+Source ROE : 18.40
+Difference : 17.97
+
+Company ID : AXISBANK
+Calculated ROE : 6.90
+Source ROE : 18.40
+Difference : 11.50
+
+Company ID : AXISBANK
+Calculated ROE : 1.88
+Source ROE : 18.40
+Difference : 16.52
+
+Company ID : AXISBANK
+Calculated ROE : 6.36
+Source ROE : 18.40
+Difference : 12.04
+
+Company ID : AXISBANK
+Calculated ROE : 11.01
+Source ROE : 18.40
+Difference : 7.39
+
+Company ID : AXISBANK
+Calculated ROE : 7.38
+Source ROE : 18.40
+Difference : 11.02
+
+Company ID : BAJAJFINSV
+Calculated ROE : 28.38
+Source ROE : 11.72
+Difference : 16.66
+
+Company ID : BAJAJFINSV
+Calculated ROE : 23.53
+Source ROE : 11.72
+Difference : 11.81
+
+Company ID : BAJAJFINSV
+Calculated ROE : 21.72
+Source ROE : 11.72
+Difference : 10.00
+
+Company ID : BAJAJFINSV
+Calculated ROE : 20.41
+Source ROE : 11.72
+Difference : 8.69
+
+Company ID : BAJAJFINSV
+Calculated ROE : 21.36
+Source ROE : 11.72
+Difference : 9.64
+
+Company ID : BAJAJFINSV
+Calculated ROE : 20.39
+Source ROE : 11.72
+Difference : 8.67
+
+Company ID : BAJAJFINSV
+Calculated ROE : 22.64
+Source ROE : 11.72
+Difference : 10.92
+
+Company ID : BAJAJFINSV
+Calculated ROE : 19.15
+Source ROE : 11.72
+Difference : 7.43
+
+Company ID : BAJAJFINSV
+Calculated ROE : 20.56
+Source ROE : 11.72
+Difference : 8.84
+
+Company ID : BAJAJFINSV
+Calculated ROE : 20.66
+Source ROE : 11.72
+Difference : 8.94
+
+Company ID : BAJAJFINSV
+Calculated ROE : 26.31
+Source ROE : 11.72
+Difference : 14.59
+
+Company ID : BAJAJFINSV
+Calculated ROE : 25.85
+Source ROE : 11.72
+Difference : 14.13
+
+Company ID : BAJAJHLDNG
+Calculated ROE : 9.63
+Source ROE : 14.80
+Difference : 5.17
+
+Company ID : BAJFINANCE
+Calculated ROE : 15.75
+Source ROE : 22.10
+Difference : 6.35
+
+Company ID : BAJFINANCE
+Calculated ROE : 16.28
+Source ROE : 22.10
+Difference : 5.82
+
+Company ID : BAJFINANCE
+Calculated ROE : 11.97
+Source ROE : 22.10
+Difference : 10.13
+
+Company ID : BAJFINANCE
+Calculated ROE : 16.08
+Source ROE : 22.10
+Difference : 6.02
+
+Company ID : BANKBARODA
+Calculated ROE : 9.40
+Source ROE : 16.70
+Difference : 7.30
+
+Company ID : BANKBARODA
+Calculated ROE : -11.84
+Source ROE : 16.70
+Difference : 28.54
+
+Company ID : BANKBARODA
+Calculated ROE : 4.31
+Source ROE : 16.70
+Difference : 12.39
+
+Company ID : BANKBARODA
+Calculated ROE : -3.94
+Source ROE : 16.70
+Difference : 20.64
+
+Company ID : BANKBARODA
+Calculated ROE : 2.12
+Source ROE : 16.70
+Difference : 14.58
+
+Company ID : BANKBARODA
+Calculated ROE : 1.29
+Source ROE : 16.70
+Difference : 15.41
+
+Company ID : BANKBARODA
+Calculated ROE : 1.97
+Source ROE : 16.70
+Difference : 14.73
+
+Company ID : BANKBARODA
+Calculated ROE : 8.64
+Source ROE : 16.70
+Difference : 8.06
+
+Company ID : BHARTIARTL
+Calculated ROE : 4.50
+Source ROE : 14.90
+Difference : 10.40
+
+Company ID : BHARTIARTL
+Calculated ROE : 5.05
+Source ROE : 14.90
+Difference : 9.85
+
+Company ID : BHARTIARTL
+Calculated ROE : 6.29
+Source ROE : 14.90
+Difference : 8.61
+
+Company ID : BHARTIARTL
+Calculated ROE : 3.14
+Source ROE : 14.90
+Difference : 11.76
+
+Company ID : BHARTIARTL
+Calculated ROE : 2.36
+Source ROE : 14.90
+Difference : 12.54
+
+Company ID : BHARTIARTL
+Calculated ROE : -39.75
+Source ROE : 14.90
+Difference : 54.65
+
+Company ID : BHARTIARTL
+Calculated ROE : -20.97
+Source ROE : 14.90
+Difference : 35.87
+
+Company ID : BEL
+Calculated ROE : 15183.33
+Source ROE : 26.30
+Difference : 15157.03
+
+Company ID : BEL
+Calculated ROE : 13600.00
+Source ROE : 26.30
+Difference : 13573.70
+
+Company ID : BEL
+Calculated ROE : 17100.00
+Source ROE : 26.30
+Difference : 17073.70
+
+Company ID : BEL
+Calculated ROE : 11141.67
+Source ROE : 26.30
+Difference : 11115.37
+
+Company ID : BEL
+Calculated ROE : 10153.33
+Source ROE : 26.30
+Difference : 10127.03
+
+Company ID : BEL
+Calculated ROE : 4616.13
+Source ROE : 26.30
+Difference : 4589.83
+
+Company ID : BEL
+Calculated ROE : 3851.02
+Source ROE : 26.30
+Difference : 3824.72
+
+Company ID : BEL
+Calculated ROE : 3318.18
+Source ROE : 26.30
+Difference : 3291.88
+
+Company ID : BEL
+Calculated ROE : 3559.32
+Source ROE : 26.30
+Difference : 3533.02
+
+Company ID : BEL
+Calculated ROE : 3478.26
+Source ROE : 26.30
+Difference : 3451.96
+
+Company ID : BEL
+Calculated ROE : 3981.33
+Source ROE : 26.30
+Difference : 3955.03
+
+Company ID : BEL
+Calculated ROE : 4744.05
+Source ROE : 26.30
+Difference : 4717.75
+
+Company ID : BHEL
+Calculated ROE : 21.91
+Source ROE : 1.05
+Difference : 20.86
+
+Company ID : BHEL
+Calculated ROE : 10.56
+Source ROE : 1.05
+Difference : 9.51
+
+Company ID : BHEL
+Calculated ROE : -5.12
+Source ROE : 1.05
+Difference : 6.17
+
+Company ID : BHEL
+Calculated ROE : -10.39
+Source ROE : 1.05
+Difference : 11.44
+
+Company ID : BOSCHLTD
+Calculated ROE : 7.01
+Source ROE : 16.00
+Difference : 8.99
+
+Company ID : BOSCHLTD
+Calculated ROE : 4.91
+Source ROE : 16.00
+Difference : 11.09
+
+Company ID : BPCL
+Calculated ROE : 11.54
+Source ROE : 41.90
+Difference : 30.36
+
+Company ID : BPCL
+Calculated ROE : 20.85
+Source ROE : 41.90
+Difference : 21.05
+
+Company ID : BPCL
+Calculated ROE : 22.52
+Source ROE : 41.90
+Difference : 19.38
+
+Company ID : BPCL
+Calculated ROE : 29.10
+Source ROE : 41.90
+Difference : 12.80
+
+Company ID : BPCL
+Calculated ROE : 30.85
+Source ROE : 41.90
+Difference : 11.05
+
+Company ID : BPCL
+Calculated ROE : 26.74
+Source ROE : 41.90
+Difference : 15.16
+
+Company ID : BPCL
+Calculated ROE : 22.00
+Source ROE : 41.90
+Difference : 19.90
+
+Company ID : BPCL
+Calculated ROE : 10.04
+Source ROE : 41.90
+Difference : 31.86
+
+Company ID : BPCL
+Calculated ROE : 32.34
+Source ROE : 41.90
+Difference : 9.56
+
+Company ID : BPCL
+Calculated ROE : 22.51
+Source ROE : 41.90
+Difference : 19.39
+
+Company ID : BPCL
+Calculated ROE : 3.98
+Source ROE : 41.90
+Difference : 37.92
+
+Company ID : BPCL
+Calculated ROE : 35.51
+Source ROE : 41.90
+Difference : 6.39
+
+Company ID : BRITANNIA
+Calculated ROE : 46.59
+Source ROE : 57.10
+Difference : 10.51
+
+Company ID : BRITANNIA
+Calculated ROE : 49.50
+Source ROE : 57.10
+Difference : 7.60
+
+Company ID : BRITANNIA
+Calculated ROE : 39.44
+Source ROE : 57.10
+Difference : 17.66
+
+Company ID : BRITANNIA
+Calculated ROE : 32.83
+Source ROE : 57.10
+Difference : 24.27
+
+Company ID : BRITANNIA
+Calculated ROE : 29.48
+Source ROE : 57.10
+Difference : 27.62
+
+Company ID : BRITANNIA
+Calculated ROE : 27.16
+Source ROE : 57.10
+Difference : 29.94
+
+Company ID : BRITANNIA
+Calculated ROE : 31.66
+Source ROE : 57.10
+Difference : 25.44
+
+Company ID : BRITANNIA
+Calculated ROE : 65.53
+Source ROE : 57.10
+Difference : 8.43
+
+Company ID : CANBK
+Calculated ROE : 11.90
+Source ROE : 17.90
+Difference : 6.00
+
+Company ID : CANBK
+Calculated ROE : 8.85
+Source ROE : 17.90
+Difference : 9.05
+
+Company ID : CANBK
+Calculated ROE : 9.02
+Source ROE : 17.90
+Difference : 8.88
+
+Company ID : CANBK
+Calculated ROE : -7.82
+Source ROE : 17.90
+Difference : 25.72
+
+Company ID : CANBK
+Calculated ROE : 4.07
+Source ROE : 17.90
+Difference : 13.83
+
+Company ID : CANBK
+Calculated ROE : -10.50
+Source ROE : 17.90
+Difference : 28.40
+
+Company ID : CANBK
+Calculated ROE : 1.85
+Source ROE : 17.90
+Difference : 16.05
+
+Company ID : CANBK
+Calculated ROE : -4.66
+Source ROE : 17.90
+Difference : 22.56
+
+Company ID : CANBK
+Calculated ROE : 4.74
+Source ROE : 17.90
+Difference : 13.16
+
+Company ID : CANBK
+Calculated ROE : 8.80
+Source ROE : 17.90
+Difference : 9.10
+
+Company ID : CHOLAFIN
+Calculated ROE : 12.85
+Source ROE : 20.20
+Difference : 7.35
+
+Company ID : CIPLA
+Calculated ROE : 11.38
+Source ROE : 16.80
+Difference : 5.42
+
+Company ID : CIPLA
+Calculated ROE : 8.25
+Source ROE : 16.80
+Difference : 8.55
+
+Company ID : CIPLA
+Calculated ROE : 9.96
+Source ROE : 16.80
+Difference : 6.84
+
+Company ID : CIPLA
+Calculated ROE : 9.94
+Source ROE : 16.80
+Difference : 6.86
+
+Company ID : CIPLA
+Calculated ROE : 9.52
+Source ROE : 16.80
+Difference : 7.28
+
+Company ID : COALINDIA
+Calculated ROE : 35.81
+Source ROE : 52.00
+Difference : 16.19
+
+Company ID : COALINDIA
+Calculated ROE : 35.64
+Source ROE : 52.00
+Difference : 16.36
+
+Company ID : COALINDIA
+Calculated ROE : 34.02
+Source ROE : 52.00
+Difference : 17.98
+
+Company ID : COALINDIA
+Calculated ROE : 40.96
+Source ROE : 52.00
+Difference : 11.04
+
+Company ID : COALINDIA
+Calculated ROE : 37.85
+Source ROE : 52.00
+Difference : 14.15
+
+Company ID : COALINDIA
+Calculated ROE : 34.88
+Source ROE : 52.00
+Difference : 17.12
+
+Company ID : COALINDIA
+Calculated ROE : 66.01
+Source ROE : 52.00
+Difference : 14.01
+
+Company ID : COALINDIA
+Calculated ROE : 34.78
+Source ROE : 52.00
+Difference : 17.22
+
+Company ID : COALINDIA
+Calculated ROE : 40.28
+Source ROE : 52.00
+Difference : 11.72
+
+Company ID : COALINDIA
+Calculated ROE : 45.17
+Source ROE : 52.00
+Difference : 6.83
+
+Company ID : DABUR
+Calculated ROE : 36.56
+Source ROE : 19.20
+Difference : 17.36
+
+Company ID : DABUR
+Calculated ROE : 34.49
+Source ROE : 19.20
+Difference : 15.29
+
+Company ID : DABUR
+Calculated ROE : 31.84
+Source ROE : 19.20
+Difference : 12.64
+
+Company ID : DABUR
+Calculated ROE : 30.06
+Source ROE : 19.20
+Difference : 10.86
+
+Company ID : DABUR
+Calculated ROE : 26.41
+Source ROE : 19.20
+Difference : 7.21
+
+Company ID : DABUR
+Calculated ROE : 25.67
+Source ROE : 19.20
+Difference : 6.47
+
+Company ID : DIVISLAB
+Calculated ROE : 24.07
+Source ROE : 12.20
+Difference : 11.87
+
+Company ID : DIVISLAB
+Calculated ROE : 26.08
+Source ROE : 12.20
+Difference : 13.88
+
+Company ID : DIVISLAB
+Calculated ROE : 24.37
+Source ROE : 12.20
+Difference : 12.17
+
+Company ID : DIVISLAB
+Calculated ROE : 26.23
+Source ROE : 12.20
+Difference : 14.03
+
+Company ID : DIVISLAB
+Calculated ROE : 19.79
+Source ROE : 12.20
+Difference : 7.59
+
+Company ID : DIVISLAB
+Calculated ROE : 19.45
+Source ROE : 12.20
+Difference : 7.25
+
+Company ID : DIVISLAB
+Calculated ROE : 18.84
+Source ROE : 12.20
+Difference : 6.64
+
+Company ID : DIVISLAB
+Calculated ROE : 21.34
+Source ROE : 12.20
+Difference : 9.14
+
+Company ID : DIVISLAB
+Calculated ROE : 25.24
+Source ROE : 12.20
+Difference : 13.04
+
+Company ID : DLF
+Calculated ROE : 1.85
+Source ROE : 6.95
+Difference : 5.10
+
+Company ID : DLF
+Calculated ROE : 1.27
+Source ROE : 6.95
+Difference : 5.68
+
+Company ID : DLF
+Calculated ROE : 12.68
+Source ROE : 6.95
+Difference : 5.73
+
+Company ID : DLF
+Calculated ROE : -1.71
+Source ROE : 6.95
+Difference : 8.66
+
+Company ID : DMART
+Calculated ROE : 21.04
+Source ROE : 14.50
+Difference : 6.54
+
+Company ID : DMART
+Calculated ROE : 9.02
+Source ROE : 14.50
+Difference : 5.48
+
+Company ID : DRREDDY
+Calculated ROE : 10.54
+Source ROE : 21.40
+Difference : 10.86
+
+Company ID : DRREDDY
+Calculated ROE : 7.53
+Source ROE : 21.40
+Difference : 13.87
+
+Company ID : DRREDDY
+Calculated ROE : 13.90
+Source ROE : 21.40
+Difference : 7.50
+
+Company ID : DRREDDY
+Calculated ROE : 12.99
+Source ROE : 21.40
+Difference : 8.41
+
+Company ID : DRREDDY
+Calculated ROE : 11.07
+Source ROE : 21.40
+Difference : 10.33
+
+Company ID : DRREDDY
+Calculated ROE : 11.36
+Source ROE : 21.40
+Difference : 10.04
+
+Company ID : EICHERMOT
+Calculated ROE : 36.63
+Source ROE : 24.20
+Difference : 12.43
+
+Company ID : EICHERMOT
+Calculated ROE : 31.19
+Source ROE : 24.20
+Difference : 6.99
+
+Company ID : EICHERMOT
+Calculated ROE : 18.30
+Source ROE : 24.20
+Difference : 5.90
+
+Company ID : EICHERMOT
+Calculated ROE : 11.78
+Source ROE : 24.20
+Difference : 12.42
+
+Company ID : EICHERMOT
+Calculated ROE : 13.30
+Source ROE : 24.20
+Difference : 10.90
+
+Company ID : GAIL
+Calculated ROE : 5.15
+Source ROE : 14.00
+Difference : 8.85
+
+Company ID : GAIL
+Calculated ROE : 8.58
+Source ROE : 14.00
+Difference : 5.42
+
+Company ID : GAIL
+Calculated ROE : 19.31
+Source ROE : 14.00
+Difference : 5.31
+
+Company ID : GAIL
+Calculated ROE : 19.19
+Source ROE : 14.00
+Difference : 5.19
+
+Company ID : GAIL
+Calculated ROE : 8.62
+Source ROE : 14.00
+Difference : 5.38
+
+Company ID : GODREJCP
+Calculated ROE : 25.51
+Source ROE : 6.77
+Difference : 18.74
+
+Company ID : GODREJCP
+Calculated ROE : 21.70
+Source ROE : 6.77
+Difference : 14.93
+
+Company ID : GODREJCP
+Calculated ROE : 22.64
+Source ROE : 6.77
+Difference : 15.87
+
+Company ID : GODREJCP
+Calculated ROE : 19.48
+Source ROE : 6.77
+Difference : 12.71
+
+Company ID : GODREJCP
+Calculated ROE : 24.67
+Source ROE : 6.77
+Difference : 17.90
+
+Company ID : GODREJCP
+Calculated ROE : 26.11
+Source ROE : 6.77
+Difference : 19.34
+
+Company ID : GODREJCP
+Calculated ROE : 32.23
+Source ROE : 6.77
+Difference : 25.46
+
+Company ID : GODREJCP
+Calculated ROE : 18.95
+Source ROE : 6.77
+Difference : 12.18
+
+Company ID : GODREJCP
+Calculated ROE : 18.23
+Source ROE : 6.77
+Difference : 11.46
+
+Company ID : GODREJCP
+Calculated ROE : 15.43
+Source ROE : 6.77
+Difference : 8.66
+
+Company ID : GODREJCP
+Calculated ROE : 12.34
+Source ROE : 6.77
+Difference : 5.57
+
+Company ID : GODREJCP
+Calculated ROE : -4.45
+Source ROE : 6.77
+Difference : 11.22
+
+Company ID : GRASIM
+Calculated ROE : 19.22
+Source ROE : 6.90
+Difference : 12.32
+
+Company ID : GRASIM
+Calculated ROE : 13.67
+Source ROE : 6.90
+Difference : 6.77
+
+Company ID : GRASIM
+Calculated ROE : 12.60
+Source ROE : 6.90
+Difference : 5.70
+
+Company ID : GRASIM
+Calculated ROE : 13.53
+Source ROE : 6.90
+Difference : 6.63
+
+Company ID : GRASIM
+Calculated ROE : 14.80
+Source ROE : 6.90
+Difference : 7.90
+
+Company ID : GRASIM
+Calculated ROE : 14.07
+Source ROE : 6.90
+Difference : 7.17
+
+Company ID : HAL
+Calculated ROE : 1665.00
+Source ROE : 28.90
+Difference : 1636.10
+
+Company ID : HAL
+Calculated ROE : 1966.92
+Source ROE : 28.90
+Difference : 1938.02
+
+Company ID : HAL
+Calculated ROE : 1528.46
+Source ROE : 28.90
+Difference : 1499.56
+
+Company ID : HAL
+Calculated ROE : 1763.91
+Source ROE : 28.90
+Difference : 1735.01
+
+Company ID : HAL
+Calculated ROE : 2059.42
+Source ROE : 28.90
+Difference : 2030.52
+
+Company ID : HAL
+Calculated ROE : 2249.31
+Source ROE : 28.90
+Difference : 2220.41
+
+Company ID : HAL
+Calculated ROE : 3324.18
+Source ROE : 28.90
+Difference : 3295.28
+
+Company ID : HAL
+Calculated ROE : 3283.05
+Source ROE : 28.90
+Difference : 3254.15
+
+Company ID : HAL
+Calculated ROE : 3816.58
+Source ROE : 28.90
+Difference : 3787.68
+
+Company ID : HAVELLS
+Calculated ROE : 40.29
+Source ROE : 18.00
+Difference : 22.29
+
+Company ID : HAVELLS
+Calculated ROE : 26.77
+Source ROE : 18.00
+Difference : 8.77
+
+Company ID : HAVELLS
+Calculated ROE : 42.95
+Source ROE : 18.00
+Difference : 24.95
+
+Company ID : HCLTECH
+Calculated ROE : 30.69
+Source ROE : 23.30
+Difference : 7.39
+
+Company ID : HCLTECH
+Calculated ROE : 33.39
+Source ROE : 23.30
+Difference : 10.09
+
+Company ID : HCLTECH
+Calculated ROE : 30.31
+Source ROE : 23.30
+Difference : 7.01
+
+Company ID : HDFCLIFE
+Calculated ROE : 33.43
+Source ROE : 11.40
+Difference : 22.03
+
+Company ID : HDFCLIFE
+Calculated ROE : 37.60
+Source ROE : 11.40
+Difference : 26.20
+
+Company ID : HDFCLIFE
+Calculated ROE : 30.93
+Source ROE : 11.40
+Difference : 19.53
+
+Company ID : HDFCLIFE
+Calculated ROE : 26.33
+Source ROE : 11.40
+Difference : 14.93
+
+Company ID : HDFCLIFE
+Calculated ROE : 23.18
+Source ROE : 11.40
+Difference : 11.78
+
+Company ID : HDFCLIFE
+Calculated ROE : 23.53
+Source ROE : 11.40
+Difference : 12.13
+
+Company ID : HDFCLIFE
+Calculated ROE : 22.65
+Source ROE : 11.40
+Difference : 11.25
+
+Company ID : HDFCLIFE
+Calculated ROE : 19.05
+Source ROE : 11.40
+Difference : 7.65
+
+Company ID : HEROMOTOCO
+Calculated ROE : 37.38
+Source ROE : 22.00
+Difference : 15.38
+
+Company ID : HEROMOTOCO
+Calculated ROE : 36.15
+Source ROE : 22.00
+Difference : 14.15
+
+Company ID : HEROMOTOCO
+Calculated ROE : 35.23
+Source ROE : 22.00
+Difference : 13.23
+
+Company ID : HEROMOTOCO
+Calculated ROE : 34.37
+Source ROE : 22.00
+Difference : 12.37
+
+Company ID : HEROMOTOCO
+Calculated ROE : 31.09
+Source ROE : 22.00
+Difference : 9.09
+
+Company ID : HEROMOTOCO
+Calculated ROE : 14.70
+Source ROE : 22.00
+Difference : 7.30
+
+Company ID : HEROMOTOCO
+Calculated ROE : 16.81
+Source ROE : 22.00
+Difference : 5.19
+
+Company ID : HINDALCO
+Calculated ROE : 0.68
+Source ROE : 10.20
+Difference : 9.52
+
+Company ID : HINDALCO
+Calculated ROE : -1.73
+Source ROE : 10.20
+Difference : 11.93
+
+Company ID : HINDALCO
+Calculated ROE : 4.09
+Source ROE : 10.20
+Difference : 6.11
+
+Company ID : HINDALCO
+Calculated ROE : 17.56
+Source ROE : 10.20
+Difference : 7.36
+
+Company ID : HINDUNILVR
+Calculated ROE : 134.00
+Source ROE : 20.20
+Difference : 113.80
+
+Company ID : HINDUNILVR
+Calculated ROE : 111.85
+Source ROE : 20.20
+Difference : 91.65
+
+Company ID : HINDUNILVR
+Calculated ROE : 108.67
+Source ROE : 20.20
+Difference : 88.47
+
+Company ID : HINDUNILVR
+Calculated ROE : 63.15
+Source ROE : 20.20
+Difference : 42.95
+
+Company ID : HINDUNILVR
+Calculated ROE : 66.58
+Source ROE : 20.20
+Difference : 46.38
+
+Company ID : HINDUNILVR
+Calculated ROE : 71.79
+Source ROE : 20.20
+Difference : 51.59
+
+Company ID : HINDUNILVR
+Calculated ROE : 77.03
+Source ROE : 20.20
+Difference : 56.83
+
+Company ID : HINDUNILVR
+Calculated ROE : 82.10
+Source ROE : 20.20
+Difference : 61.90
+
+Company ID : ICICIBANK
+Calculated ROE : 11.61
+Source ROE : 18.80
+Difference : 7.19
+
+Company ID : ICICIBANK
+Calculated ROE : 10.84
+Source ROE : 18.80
+Difference : 7.96
+
+Company ID : ICICIBANK
+Calculated ROE : 8.23
+Source ROE : 18.80
+Difference : 10.57
+
+Company ID : ICICIBANK
+Calculated ROE : 4.98
+Source ROE : 18.80
+Difference : 13.82
+
+Company ID : ICICIBANK
+Calculated ROE : 9.13
+Source ROE : 18.80
+Difference : 9.67
+
+Company ID : ICICIBANK
+Calculated ROE : 12.92
+Source ROE : 18.80
+Difference : 5.88
+
+Company ID : ICICIPRULI
+Calculated ROE : 38.25
+Source ROE : 8.07
+Difference : 30.18
+
+Company ID : ICICIPRULI
+Calculated ROE : 35.61
+Source ROE : 8.07
+Difference : 27.54
+
+Company ID : ICICIPRULI
+Calculated ROE : 31.15
+Source ROE : 8.07
+Difference : 23.08
+
+Company ID : ICICIPRULI
+Calculated ROE : 31.00
+Source ROE : 8.07
+Difference : 22.93
+
+Company ID : ICICIPRULI
+Calculated ROE : 26.26
+Source ROE : 8.07
+Difference : 18.19
+
+Company ID : ICICIPRULI
+Calculated ROE : 24.63
+Source ROE : 8.07
+Difference : 16.56
+
+Company ID : ICICIPRULI
+Calculated ROE : 16.58
+Source ROE : 8.07
+Difference : 8.51
+
+Company ID : ICICIPRULI
+Calculated ROE : 14.79
+Source ROE : 8.07
+Difference : 6.72
+
+Company ID : INDUSINDBK
+Calculated ROE : 6.54
+Source ROE : 15.20
+Difference : 8.66
+
+Company ID : INDUSINDBK
+Calculated ROE : 9.67
+Source ROE : 15.20
+Difference : 5.53
+
+Company ID : INFY
+Calculated ROE : 24.82
+Source ROE : 31.80
+Difference : 6.98
+
+Company ID : INFY
+Calculated ROE : 23.93
+Source ROE : 31.80
+Difference : 7.87
+
+Company ID : INFY
+Calculated ROE : 24.39
+Source ROE : 31.80
+Difference : 7.41
+
+Company ID : INFY
+Calculated ROE : 21.85
+Source ROE : 31.80
+Difference : 9.95
+
+Company ID : INFY
+Calculated ROE : 20.81
+Source ROE : 31.80
+Difference : 10.99
+
+Company ID : INFY
+Calculated ROE : 24.69
+Source ROE : 31.80
+Difference : 7.11
+
+Company ID : INFY
+Calculated ROE : 23.73
+Source ROE : 31.80
+Difference : 8.07
+
+Company ID : INFY
+Calculated ROE : 25.42
+Source ROE : 31.80
+Difference : 6.38
+
+Company ID : INFY
+Calculated ROE : 25.44
+Source ROE : 31.80
+Difference : 6.36
+
+Company ID : IOC
+Calculated ROE : 5.75
+Source ROE : 25.44
+Difference : 19.69
+
+Company ID : IOC
+Calculated ROE : 10.26
+Source ROE : 25.44
+Difference : 15.18
+
+Company ID : IOC
+Calculated ROE : 7.08
+Source ROE : 25.44
+Difference : 18.36
+
+Company ID : IOC
+Calculated ROE : 13.80
+Source ROE : 25.44
+Difference : 11.64
+
+Company ID : IOC
+Calculated ROE : 19.97
+Source ROE : 25.44
+Difference : 5.47
+
+Company ID : IOC
+Calculated ROE : 19.87
+Source ROE : 25.44
+Difference : 5.57
+
+Company ID : IOC
+Calculated ROE : 15.36
+Source ROE : 25.44
+Difference : 10.08
+
+Company ID : IOC
+Calculated ROE : -1.97
+Source ROE : 25.44
+Difference : 27.41
+
+Company ID : IOC
+Calculated ROE : 19.46
+Source ROE : 25.44
+Difference : 5.98
+
+Company ID : IOC
+Calculated ROE : 19.27
+Source ROE : 25.44
+Difference : 6.17
+
+Company ID : IOC
+Calculated ROE : 8.38
+Source ROE : 25.44
+Difference : 17.06
+
+Company ID : IRCTC
+Calculated ROE : 29.50
+Source ROE : 40.40
+Difference : 10.90
+
+Company ID : IRCTC
+Calculated ROE : 34.87
+Source ROE : 40.40
+Difference : 5.53
+
+Company ID : IRCTC
+Calculated ROE : 29.10
+Source ROE : 40.40
+Difference : 11.30
+
+Company ID : IRCTC
+Calculated ROE : 23.14
+Source ROE : 40.40
+Difference : 17.26
+
+Company ID : IRCTC
+Calculated ROE : 28.85
+Source ROE : 40.40
+Difference : 11.55
+
+Company ID : IRCTC
+Calculated ROE : 12.84
+Source ROE : 40.40
+Difference : 27.56
+
+Company ID : IRCTC
+Calculated ROE : 35.29
+Source ROE : 40.40
+Difference : 5.11
+
+Company ID : IRCTC
+Calculated ROE : 34.40
+Source ROE : 40.40
+Difference : 6.00
+
+Company ID : IRFC
+Calculated ROE : 8.16
+Source ROE : 13.70
+Difference : 5.54
+
+Company ID : IRFC
+Calculated ROE : 7.37
+Source ROE : 13.70
+Difference : 6.33
+
+Company ID : IRFC
+Calculated ROE : 7.78
+Source ROE : 13.70
+Difference : 5.92
+
+Company ID : ITC
+Calculated ROE : 22.26
+Source ROE : 29.47
+Difference : 7.21
+
+Company ID : ITC
+Calculated ROE : 22.57
+Source ROE : 29.47
+Difference : 6.90
+
+Company ID : ITC
+Calculated ROE : 21.89
+Source ROE : 29.47
+Difference : 7.58
+
+Company ID : ITC
+Calculated ROE : 21.70
+Source ROE : 29.47
+Difference : 7.77
+
+Company ID : ITC
+Calculated ROE : 23.89
+Source ROE : 29.47
+Difference : 5.58
+
+Company ID : ITC
+Calculated ROE : 22.18
+Source ROE : 29.47
+Difference : 7.29
+
+Company ID : JINDALSTEL
+Calculated ROE : 8.39
+Source ROE : 14.10
+Difference : 5.71
+
+Company ID : JINDALSTEL
+Calculated ROE : -6.90
+Source ROE : 14.10
+Difference : 21.00
+
+Company ID : JINDALSTEL
+Calculated ROE : -9.52
+Source ROE : 14.10
+Difference : 23.62
+
+Company ID : JINDALSTEL
+Calculated ROE : -8.45
+Source ROE : 14.10
+Difference : 22.55
+
+Company ID : JINDALSTEL
+Calculated ROE : -5.32
+Source ROE : 14.10
+Difference : 19.42
+
+Company ID : JINDALSTEL
+Calculated ROE : -7.52
+Source ROE : 14.10
+Difference : 21.62
+
+Company ID : JINDALSTEL
+Calculated ROE : -1.24
+Source ROE : 14.10
+Difference : 15.34
+
+Company ID : JSWENERGY
+Calculated ROE : 14.52
+Source ROE : 8.40
+Difference : 6.12
+
+Company ID : JSWENERGY
+Calculated ROE : 18.06
+Source ROE : 8.40
+Difference : 9.66
+
+Company ID : JSWENERGY
+Calculated ROE : 15.05
+Source ROE : 8.40
+Difference : 6.65
+
+Company ID : JSWENERGY
+Calculated ROE : 0.77
+Source ROE : 8.40
+Difference : 7.63
+
+Company ID : JSWSTEEL
+Calculated ROE : 5.44
+Source ROE : 11.66
+Difference : 6.22
+
+Company ID : JSWSTEEL
+Calculated ROE : 1.90
+Source ROE : 11.66
+Difference : 9.76
+
+Company ID : JSWSTEEL
+Calculated ROE : -2.54
+Source ROE : 11.66
+Difference : 14.20
+
+Company ID : JSWSTEEL
+Calculated ROE : 21.83
+Source ROE : 11.66
+Difference : 10.17
+
+Company ID : JSWSTEEL
+Calculated ROE : 21.62
+Source ROE : 11.66
+Difference : 9.96
+
+Company ID : JSWSTEEL
+Calculated ROE : 16.84
+Source ROE : 11.66
+Difference : 5.18
+
+Company ID : JSWSTEEL
+Calculated ROE : 31.11
+Source ROE : 11.66
+Difference : 19.45
+
+Company ID : JSWSTEEL
+Calculated ROE : 6.30
+Source ROE : 11.66
+Difference : 5.36
+
+Company ID : LICI
+Calculated ROE : 324.32
+Source ROE : 63.61
+Difference : 260.71
+
+Company ID : LICI
+Calculated ROE : 270.46
+Source ROE : 63.61
+Difference : 206.85
+
+Company ID : LICI
+Calculated ROE : 43.20
+Source ROE : 63.61
+Difference : 20.41
+
+Company ID : LICI
+Calculated ROE : 36.38
+Source ROE : 63.61
+Difference : 27.23
+
+Company ID : LICI
+Calculated ROE : 77.86
+Source ROE : 63.61
+Difference : 14.25
+
+Company ID : LICI
+Calculated ROE : 49.45
+Source ROE : 63.61
+Difference : 14.16
+
+Company ID : LODHA
+Calculated ROE : 35.48
+Source ROE : 10.70
+Difference : 24.78
+
+Company ID : LODHA
+Calculated ROE : 33.84
+Source ROE : 10.70
+Difference : 23.14
+
+Company ID : LODHA
+Calculated ROE : 24.23
+Source ROE : 10.70
+Difference : 13.53
+
+Company ID : LODHA
+Calculated ROE : 17.69
+Source ROE : 10.70
+Difference : 6.99
+
+Company ID : LODHA
+Calculated ROE : 42.80
+Source ROE : 10.70
+Difference : 32.10
+
+Company ID : LODHA
+Calculated ROE : 16.30
+Source ROE : 10.70
+Difference : 5.60
+
+Company ID : LODHA
+Calculated ROE : 1.04
+Source ROE : 10.70
+Difference : 9.66
+
+Company ID : LODHA
+Calculated ROE : 3.87
+Source ROE : 10.70
+Difference : 6.83
+
+Company ID : LT
+Calculated ROE : 395.15
+Source ROE : 10.49
+Difference : 384.66
+
+Company ID : LT
+Calculated ROE : 303.42
+Source ROE : 10.49
+Difference : 292.93
+
+Company ID : LT
+Calculated ROE : 245.11
+Source ROE : 10.49
+Difference : 234.62
+
+Company ID : LT
+Calculated ROE : 216.09
+Source ROE : 10.49
+Difference : 205.60
+
+Company ID : LT
+Calculated ROE : 206.30
+Source ROE : 10.49
+Difference : 195.81
+
+Company ID : LT
+Calculated ROE : 207.36
+Source ROE : 10.49
+Difference : 196.87
+
+Company ID : LT
+Calculated ROE : 208.81
+Source ROE : 10.49
+Difference : 198.32
+
+Company ID : LT
+Calculated ROE : 201.59
+Source ROE : 10.49
+Difference : 191.10
+
+Company ID : LT
+Calculated ROE : 176.90
+Source ROE : 10.49
+Difference : 166.41
+
+Company ID : LT
+Calculated ROE : 72.92
+Source ROE : 10.49
+Difference : 62.43
+
+Company ID : LT
+Calculated ROE : 75.52
+Source ROE : 10.49
+Difference : 65.03
+
+Company ID : LT
+Calculated ROE : 77.67
+Source ROE : 10.49
+Difference : 67.18
+
+Company ID : LTIM
+Calculated ROE : 41.97
+Source ROE : 26.04
+Difference : 15.93
+
+Company ID : LTIM
+Calculated ROE : 61.86
+Source ROE : 26.04
+Difference : 35.82
+
+Company ID : LTIM
+Calculated ROE : 37.96
+Source ROE : 26.04
+Difference : 11.92
+
+Company ID : LTIM
+Calculated ROE : 39.34
+Source ROE : 26.04
+Difference : 13.30
+
+Company ID : M&M
+Calculated ROE : -0.80
+Source ROE : 17.99
+Difference : 18.79
+
+Company ID : M&M
+Calculated ROE : 3.64
+Source ROE : 17.99
+Difference : 14.35
+
+Company ID : MARUTI
+Calculated ROE : 8.36
+Source ROE : 15.75
+Difference : 7.39
+
+Company ID : MARUTI
+Calculated ROE : 7.01
+Source ROE : 15.75
+Difference : 8.74
+
+Company ID : MOTHERSON
+Calculated ROE : 19.75
+Source ROE : 11.80
+Difference : 7.95
+
+Company ID : MOTHERSON
+Calculated ROE : 37.07
+Source ROE : 11.80
+Difference : 25.27
+
+Company ID : MOTHERSON
+Calculated ROE : 38.87
+Source ROE : 11.80
+Difference : 27.07
+
+Company ID : MOTHERSON
+Calculated ROE : 40.35
+Source ROE : 11.80
+Difference : 28.55
+
+Company ID : MOTHERSON
+Calculated ROE : 26.26
+Source ROE : 11.80
+Difference : 14.46
+
+Company ID : MOTHERSON
+Calculated ROE : 22.87
+Source ROE : 11.80
+Difference : 11.07
+
+Company ID : MOTHERSON
+Calculated ROE : 19.14
+Source ROE : 11.80
+Difference : 7.34
+
+Company ID : MOTHERSON
+Calculated ROE : 5.74
+Source ROE : 11.80
+Difference : 6.06
+
+Company ID : NAUKRI
+Calculated ROE : 12.50
+Source ROE : 2.44
+Difference : 10.06
+
+Company ID : NAUKRI
+Calculated ROE : 8.93
+Source ROE : 2.44
+Difference : 6.49
+
+Company ID : NAUKRI
+Calculated ROE : 7.65
+Source ROE : 2.44
+Difference : 5.21
+
+Company ID : NAUKRI
+Calculated ROE : -2.70
+Source ROE : 2.44
+Difference : 5.14
+
+Company ID : NAUKRI
+Calculated ROE : 24.50
+Source ROE : 2.44
+Difference : 22.06
+
+Company ID : NAUKRI
+Calculated ROE : 23.28
+Source ROE : 2.44
+Difference : 20.84
+
+Company ID : NAUKRI
+Calculated ROE : -11.21
+Source ROE : 2.44
+Difference : 13.65
+
+Company ID : NAUKRI
+Calculated ROE : 26.28
+Source ROE : 2.44
+Difference : 23.84
+
+Company ID : NAUKRI
+Calculated ROE : 74.71
+Source ROE : 2.44
+Difference : 72.27
+
+Company ID : NESTLEIND
+Calculated ROE : 47.17
+Source ROE : 135.61
+Difference : 88.44
+
+Company ID : NESTLEIND
+Calculated ROE : 41.77
+Source ROE : 135.61
+Difference : 93.84
+
+Company ID : NESTLEIND
+Calculated ROE : 19.99
+Source ROE : 135.61
+Difference : 115.62
+
+Company ID : NESTLEIND
+Calculated ROE : 30.50
+Source ROE : 135.61
+Difference : 105.11
+
+Company ID : NESTLEIND
+Calculated ROE : 35.82
+Source ROE : 135.61
+Difference : 99.79
+
+Company ID : NESTLEIND
+Calculated ROE : 43.75
+Source ROE : 135.61
+Difference : 91.86
+
+Company ID : NESTLEIND
+Calculated ROE : 102.61
+Source ROE : 135.61
+Difference : 33.00
+
+Company ID : NESTLEIND
+Calculated ROE : 103.12
+Source ROE : 135.61
+Difference : 32.49
+
+Company ID : NESTLEIND
+Calculated ROE : 108.84
+Source ROE : 135.61
+Difference : 26.77
+
+Company ID : NESTLEIND
+Calculated ROE : 97.23
+Source ROE : 135.61
+Difference : 38.38
+
+Company ID : NESTLEIND
+Calculated ROE : 121.96
+Source ROE : 135.61
+Difference : 13.65
+
+Company ID : NESTLEIND
+Calculated ROE : 117.75
+Source ROE : 135.61
+Difference : 17.86
+
+Company ID : ONGC
+Calculated ROE : 6.62
+Source ROE : 14.32
+Difference : 7.70
+
+Company ID : ONGC
+Calculated ROE : 5.59
+Source ROE : 14.32
+Difference : 8.73
+
+Company ID : PFC
+Calculated ROE : 6.07
+Source ROE : 19.49
+Difference : 13.42
+
+Company ID : PFC
+Calculated ROE : 26.82
+Source ROE : 19.49
+Difference : 7.33
+
+Company ID : PFC
+Calculated ROE : 25.86
+Source ROE : 19.49
+Difference : 6.37
+
+Company ID : PFC
+Calculated ROE : 26.18
+Source ROE : 19.49
+Difference : 6.69
+
+Company ID : PFC
+Calculated ROE : 25.17
+Source ROE : 19.49
+Difference : 5.68
+
+Company ID : PFC
+Calculated ROE : 26.16
+Source ROE : 19.49
+Difference : 6.67
+
+Company ID : PIDILITIND
+Calculated ROE : 30.59
+Source ROE : 22.80
+Difference : 7.79
+
+Company ID : PNB
+Calculated ROE : 812.30
+Source ROE : 8.70
+Difference : 803.60
+
+Company ID : PNB
+Calculated ROE : 812.30
+Source ROE : 8.70
+Difference : 803.60
+
+Company ID : PNB
+Calculated ROE : 812.30
+Source ROE : 8.70
+Difference : 803.60
+
+Company ID : PNB
+Calculated ROE : 812.30
+Source ROE : 8.70
+Difference : 803.60
+
+Company ID : PNB
+Calculated ROE : 812.30
+Source ROE : 8.70
+Difference : 803.60
+
+Company ID : PNB
+Calculated ROE : 393.36
+Source ROE : 8.70
+Difference : 384.66
+
+Company ID : PNB
+Calculated ROE : 393.36
+Source ROE : 8.70
+Difference : 384.66
+
+Company ID : PNB
+Calculated ROE : 393.36
+Source ROE : 8.70
+Difference : 384.66
+
+Company ID : PNB
+Calculated ROE : 393.36
+Source ROE : 8.70
+Difference : 384.66
+
+Company ID : PNB
+Calculated ROE : 393.36
+Source ROE : 8.70
+Difference : 384.66
+
+Company ID : PNB
+Calculated ROE : 223.24
+Source ROE : 8.70
+Difference : 214.54
+
+Company ID : PNB
+Calculated ROE : 223.24
+Source ROE : 8.70
+Difference : 214.54
+
+Company ID : PNB
+Calculated ROE : 223.24
+Source ROE : 8.70
+Difference : 214.54
+
+Company ID : PNB
+Calculated ROE : 223.24
+Source ROE : 8.70
+Difference : 214.54
+
+Company ID : PNB
+Calculated ROE : 223.24
+Source ROE : 8.70
+Difference : 214.54
+
+Company ID : PNB
+Calculated ROE : -163.56
+Source ROE : 8.70
+Difference : 172.26
+
+Company ID : PNB
+Calculated ROE : -163.56
+Source ROE : 8.70
+Difference : 172.26
+
+Company ID : PNB
+Calculated ROE : -163.56
+Source ROE : 8.70
+Difference : 172.26
+
+Company ID : PNB
+Calculated ROE : -163.56
+Source ROE : 8.70
+Difference : 172.26
+
+Company ID : PNB
+Calculated ROE : -163.56
+Source ROE : 8.70
+Difference : 172.26
+
+Company ID : PNB
+Calculated ROE : 22.21
+Source ROE : 8.70
+Difference : 13.51
+
+Company ID : PNB
+Calculated ROE : 22.21
+Source ROE : 8.70
+Difference : 13.51
+
+Company ID : PNB
+Calculated ROE : 22.21
+Source ROE : 8.70
+Difference : 13.51
+
+Company ID : PNB
+Calculated ROE : 22.21
+Source ROE : 8.70
+Difference : 13.51
+
+Company ID : PNB
+Calculated ROE : 22.21
+Source ROE : 8.70
+Difference : 13.51
+
+Company ID : PNB
+Calculated ROE : -184.37
+Source ROE : 8.70
+Difference : 193.07
+
+Company ID : PNB
+Calculated ROE : -184.37
+Source ROE : 8.70
+Difference : 193.07
+
+Company ID : PNB
+Calculated ROE : -184.37
+Source ROE : 8.70
+Difference : 193.07
+
+Company ID : PNB
+Calculated ROE : -184.37
+Source ROE : 8.70
+Difference : 193.07
+
+Company ID : PNB
+Calculated ROE : -184.37
+Source ROE : 8.70
+Difference : 193.07
+
+Company ID : PNB
+Calculated ROE : -128.45
+Source ROE : 8.70
+Difference : 137.15
+
+Company ID : PNB
+Calculated ROE : -128.45
+Source ROE : 8.70
+Difference : 137.15
+
+Company ID : PNB
+Calculated ROE : -128.45
+Source ROE : 8.70
+Difference : 137.15
+
+Company ID : PNB
+Calculated ROE : -128.45
+Source ROE : 8.70
+Difference : 137.15
+
+Company ID : PNB
+Calculated ROE : -128.45
+Source ROE : 8.70
+Difference : 137.15
+
+Company ID : PNB
+Calculated ROE : 30.39
+Source ROE : 8.70
+Difference : 21.69
+
+Company ID : PNB
+Calculated ROE : 30.39
+Source ROE : 8.70
+Difference : 21.69
+
+Company ID : PNB
+Calculated ROE : 30.39
+Source ROE : 8.70
+Difference : 21.69
+
+Company ID : PNB
+Calculated ROE : 30.39
+Source ROE : 8.70
+Difference : 21.69
+
+Company ID : PNB
+Calculated ROE : 30.39
+Source ROE : 8.70
+Difference : 21.69
+
+Company ID : PNB
+Calculated ROE : 39.87
+Source ROE : 8.70
+Difference : 31.17
+
+Company ID : PNB
+Calculated ROE : 39.87
+Source ROE : 8.70
+Difference : 31.17
+
+Company ID : PNB
+Calculated ROE : 39.87
+Source ROE : 8.70
+Difference : 31.17
+
+Company ID : PNB
+Calculated ROE : 39.87
+Source ROE : 8.70
+Difference : 31.17
+
+Company ID : PNB
+Calculated ROE : 39.87
+Source ROE : 8.70
+Difference : 31.17
+
+Company ID : PNB
+Calculated ROE : 30.67
+Source ROE : 8.70
+Difference : 21.97
+
+Company ID : PNB
+Calculated ROE : 30.67
+Source ROE : 8.70
+Difference : 21.97
+
+Company ID : PNB
+Calculated ROE : 30.67
+Source ROE : 8.70
+Difference : 21.97
+
+Company ID : PNB
+Calculated ROE : 30.67
+Source ROE : 8.70
+Difference : 21.97
+
+Company ID : PNB
+Calculated ROE : 30.67
+Source ROE : 8.70
+Difference : 21.97
+
+Company ID : PNB
+Calculated ROE : 61.32
+Source ROE : 8.70
+Difference : 52.62
+
+Company ID : PNB
+Calculated ROE : 61.32
+Source ROE : 8.70
+Difference : 52.62
+
+Company ID : PNB
+Calculated ROE : 61.32
+Source ROE : 8.70
+Difference : 52.62
+
+Company ID : PNB
+Calculated ROE : 61.32
+Source ROE : 8.70
+Difference : 52.62
+
+Company ID : PNB
+Calculated ROE : 61.32
+Source ROE : 8.70
+Difference : 52.62
+
+Company ID : POWERGRID
+Calculated ROE : 13.11
+Source ROE : 19.00
+Difference : 5.89
+
+Company ID : POWERGRID
+Calculated ROE : 13.11
+Source ROE : 19.00
+Difference : 5.89
+
+Company ID : POWERGRID
+Calculated ROE : 13.13
+Source ROE : 19.00
+Difference : 5.87
+
+Company ID : POWERGRID
+Calculated ROE : 13.13
+Source ROE : 19.00
+Difference : 5.87
+
+Company ID : POWERGRID
+Calculated ROE : 13.55
+Source ROE : 19.00
+Difference : 5.45
+
+Company ID : POWERGRID
+Calculated ROE : 13.55
+Source ROE : 19.00
+Difference : 5.45
+
+Company ID : RECLTD
+Calculated ROE : 13.66
+Source ROE : 22.20
+Difference : 8.54
+
+Company ID : RECLTD
+Calculated ROE : 16.62
+Source ROE : 22.20
+Difference : 5.58
+
+Company ID : RECLTD
+Calculated ROE : 14.05
+Source ROE : 22.20
+Difference : 8.15
+
+Company ID : SBILIFE
+Calculated ROE : 23.03
+Source ROE : 12.00
+Difference : 11.03
+
+Company ID : SBILIFE
+Calculated ROE : 21.69
+Source ROE : 12.00
+Difference : 9.69
+
+Company ID : SBILIFE
+Calculated ROE : 20.09
+Source ROE : 12.00
+Difference : 8.09
+
+Company ID : SBILIFE
+Calculated ROE : 17.83
+Source ROE : 12.00
+Difference : 5.83
+
+Company ID : SBILIFE
+Calculated ROE : 17.20
+Source ROE : 12.00
+Difference : 5.20
+
+Company ID : SBILIFE
+Calculated ROE : 17.62
+Source ROE : 12.00
+Difference : 5.62
+
+Company ID : SBILIFE
+Calculated ROE : 17.52
+Source ROE : 12.00
+Difference : 5.52
+
+Company ID : SHREECEM
+Calculated ROE : 26.12
+Source ROE : 12.20
+Difference : 13.92
+
+Company ID : SHREECEM
+Calculated ROE : 17.39
+Source ROE : 12.20
+Difference : 5.19
+
+Company ID : SHRIRAMFIN
+Calculated ROE : 10.43
+Source ROE : 15.90
+Difference : 5.47
+
+Company ID : SIEMENS
+Calculated ROE : 13.78
+Source ROE : 19.10
+Difference : 5.32
+
+Company ID : SIEMENS
+Calculated ROE : 42.83
+Source ROE : 19.10
+Difference : 23.73
+
+Company ID : SIEMENS
+Calculated ROE : 10.86
+Source ROE : 19.10
+Difference : 8.24
+
+Company ID : SIEMENS
+Calculated ROE : 12.14
+Source ROE : 19.10
+Difference : 6.96
+
+Company ID : SIEMENS
+Calculated ROE : 8.10
+Source ROE : 19.10
+Difference : 11.00
+
+Company ID : SIEMENS
+Calculated ROE : 10.52
+Source ROE : 19.10
+Difference : 8.58
+
+Company ID : SIEMENS
+Calculated ROE : 13.29
+Source ROE : 19.10
+Difference : 5.81
+
+Company ID : SUNPHARMA
+Calculated ROE : 23.14
+Source ROE : 16.70
+Difference : 6.44
+
+Company ID : SUNPHARMA
+Calculated ROE : 6.63
+Source ROE : 16.70
+Difference : 10.07
+
+Company ID : SUNPHARMA
+Calculated ROE : 7.75
+Source ROE : 16.70
+Difference : 8.95
+
+Company ID : SUNPHARMA
+Calculated ROE : 9.22
+Source ROE : 16.70
+Difference : 7.48
+
+Company ID : SUNPHARMA
+Calculated ROE : 4.89
+Source ROE : 16.70
+Difference : 11.81
+
+Company ID : SUNPHARMA
+Calculated ROE : 7.06
+Source ROE : 16.70
+Difference : 9.64
+
+Company ID : TATACONSUM
+Calculated ROE : -0.59
+Source ROE : 8.32
+Difference : 8.91
+
+Company ID : TATAMOTORS
+Calculated ROE : 26.51
+Source ROE : 49.40
+Difference : 22.89
+
+Company ID : TATAMOTORS
+Calculated ROE : 21.42
+Source ROE : 49.40
+Difference : 27.98
+
+Company ID : TATAMOTORS
+Calculated ROE : 25.01
+Source ROE : 49.40
+Difference : 24.39
+
+Company ID : TATAMOTORS
+Calculated ROE : 14.79
+Source ROE : 49.40
+Difference : 34.61
+
+Company ID : TATAMOTORS
+Calculated ROE : 13.02
+Source ROE : 49.40
+Difference : 36.38
+
+Company ID : TATAMOTORS
+Calculated ROE : 9.53
+Source ROE : 49.40
+Difference : 39.87
+
+Company ID : TATAMOTORS
+Calculated ROE : -47.73
+Source ROE : 49.40
+Difference : 97.13
+
+Company ID : TATAMOTORS
+Calculated ROE : -18.98
+Source ROE : 49.40
+Difference : 68.38
+
+Company ID : TATAMOTORS
+Calculated ROE : -24.25
+Source ROE : 49.40
+Difference : 73.65
+
+Company ID : TATAMOTORS
+Calculated ROE : -25.38
+Source ROE : 49.40
+Difference : 74.78
+
+Company ID : TATAMOTORS
+Calculated ROE : 5.94
+Source ROE : 49.40
+Difference : 43.46
+
+Company ID : TATAMOTORS
+Calculated ROE : 37.46
+Source ROE : 49.40
+Difference : 11.94
+
+Company ID : TATAPOWER
+Calculated ROE : 1.00
+Source ROE : 11.30
+Difference : 10.30
+
+Company ID : TATAPOWER
+Calculated ROE : 0.10
+Source ROE : 11.30
+Difference : 11.20
+
+Company ID : TATAPOWER
+Calculated ROE : 3.19
+Source ROE : 11.30
+Difference : 8.11
+
+Company ID : TATASTEEL
+Calculated ROE : -21.28
+Source ROE : 6.55
+Difference : 27.83
+
+Company ID : TATASTEEL
+Calculated ROE : -12.56
+Source ROE : 6.55
+Difference : 19.11
+
+Company ID : TATASTEEL
+Calculated ROE : -1.14
+Source ROE : 6.55
+Difference : 7.69
+
+Company ID : TATASTEEL
+Calculated ROE : -11.02
+Source ROE : 6.55
+Difference : 17.57
+
+Company ID : TATASTEEL
+Calculated ROE : 29.15
+Source ROE : 6.55
+Difference : 22.60
+
+Company ID : TATASTEEL
+Calculated ROE : 13.23
+Source ROE : 6.55
+Difference : 6.68
+
+Company ID : TATASTEEL
+Calculated ROE : 36.48
+Source ROE : 6.55
+Difference : 29.93
+
+Company ID : TATASTEEL
+Calculated ROE : -5.33
+Source ROE : 6.55
+Difference : 11.88
+
+Company ID : TCS
+Calculated ROE : 36.52
+Source ROE : 0.52
+Difference : 36.00
+
+Company ID : TCS
+Calculated ROE : 39.30
+Source ROE : 0.52
+Difference : 38.78
+
+Company ID : TCS
+Calculated ROE : 39.62
+Source ROE : 0.52
+Difference : 39.10
+
+Company ID : TCS
+Calculated ROE : 34.24
+Source ROE : 0.52
+Difference : 33.72
+
+Company ID : TCS
+Calculated ROE : 30.57
+Source ROE : 0.52
+Difference : 30.05
+
+Company ID : TCS
+Calculated ROE : 30.40
+Source ROE : 0.52
+Difference : 29.88
+
+Company ID : TCS
+Calculated ROE : 35.29
+Source ROE : 0.52
+Difference : 34.77
+
+Company ID : TCS
+Calculated ROE : 38.57
+Source ROE : 0.52
+Difference : 38.05
+
+Company ID : TCS
+Calculated ROE : 37.67
+Source ROE : 0.52
+Difference : 37.15
+
+Company ID : TCS
+Calculated ROE : 43.13
+Source ROE : 0.52
+Difference : 42.61
+
+Company ID : TCS
+Calculated ROE : 46.78
+Source ROE : 0.52
+Difference : 46.26
+
+Company ID : TCS
+Calculated ROE : 50.94
+Source ROE : 0.52
+Difference : 50.42
+
+Company ID : TECHM
+Calculated ROE : 24.09
+Source ROE : 8.63
+Difference : 15.46
+
+Company ID : TECHM
+Calculated ROE : 24.09
+Source ROE : 8.63
+Difference : 15.46
+
+Company ID : TECHM
+Calculated ROE : 33.35
+Source ROE : 8.63
+Difference : 24.72
+
+Company ID : TECHM
+Calculated ROE : 33.35
+Source ROE : 8.63
+Difference : 24.72
+
+Company ID : TECHM
+Calculated ROE : 21.71
+Source ROE : 8.63
+Difference : 13.08
+
+Company ID : TECHM
+Calculated ROE : 21.71
+Source ROE : 8.63
+Difference : 13.08
+
+Company ID : TECHM
+Calculated ROE : 20.75
+Source ROE : 8.63
+Difference : 12.12
+
+Company ID : TECHM
+Calculated ROE : 20.75
+Source ROE : 8.63
+Difference : 12.12
+
+Company ID : TECHM
+Calculated ROE : 17.35
+Source ROE : 8.63
+Difference : 8.72
+
+Company ID : TECHM
+Calculated ROE : 17.35
+Source ROE : 8.63
+Difference : 8.72
+
+Company ID : TECHM
+Calculated ROE : 20.09
+Source ROE : 8.63
+Difference : 11.46
+
+Company ID : TECHM
+Calculated ROE : 20.09
+Source ROE : 8.63
+Difference : 11.46
+
+Company ID : TECHM
+Calculated ROE : 21.14
+Source ROE : 8.63
+Difference : 12.51
+
+Company ID : TECHM
+Calculated ROE : 21.14
+Source ROE : 8.63
+Difference : 12.51
+
+Company ID : TECHM
+Calculated ROE : 17.87
+Source ROE : 8.63
+Difference : 9.24
+
+Company ID : TECHM
+Calculated ROE : 17.87
+Source ROE : 8.63
+Difference : 9.24
+
+Company ID : TECHM
+Calculated ROE : 17.51
+Source ROE : 8.63
+Difference : 8.88
+
+Company ID : TECHM
+Calculated ROE : 17.51
+Source ROE : 8.63
+Difference : 8.88
+
+Company ID : TECHM
+Calculated ROE : 20.94
+Source ROE : 8.63
+Difference : 12.31
+
+Company ID : TECHM
+Calculated ROE : 20.94
+Source ROE : 8.63
+Difference : 12.31
+
+Company ID : TECHM
+Calculated ROE : 17.39
+Source ROE : 8.63
+Difference : 8.76
+
+Company ID : TECHM
+Calculated ROE : 17.39
+Source ROE : 8.63
+Difference : 8.76
+
+Company ID : TITAN
+Calculated ROE : 26.46
+Source ROE : 32.90
+Difference : 6.44
+
+Company ID : TITAN
+Calculated ROE : 19.25
+Source ROE : 32.90
+Difference : 13.65
+
+Company ID : TITAN
+Calculated ROE : 16.47
+Source ROE : 32.90
+Difference : 16.43
+
+Company ID : TITAN
+Calculated ROE : 21.65
+Source ROE : 32.90
+Difference : 11.25
+
+Company ID : TITAN
+Calculated ROE : 22.88
+Source ROE : 32.90
+Difference : 10.02
+
+Company ID : TITAN
+Calculated ROE : 22.39
+Source ROE : 32.90
+Difference : 10.51
+
+Company ID : TITAN
+Calculated ROE : 12.99
+Source ROE : 32.90
+Difference : 19.91
+
+Company ID : TITAN
+Calculated ROE : 23.63
+Source ROE : 32.90
+Difference : 9.27
+
+Company ID : TITAN
+Calculated ROE : 27.63
+Source ROE : 32.90
+Difference : 5.27
+
+Company ID : TORNTPHARM
+Calculated ROE : 30.59
+Source ROE : 24.20
+Difference : 6.39
+
+Company ID : TORNTPHARM
+Calculated ROE : 34.89
+Source ROE : 24.20
+Difference : 10.69
+
+Company ID : TORNTPHARM
+Calculated ROE : 30.15
+Source ROE : 24.20
+Difference : 5.95
+
+Company ID : TORNTPHARM
+Calculated ROE : 49.60
+Source ROE : 24.20
+Difference : 25.40
+
+Company ID : TORNTPHARM
+Calculated ROE : 14.67
+Source ROE : 24.20
+Difference : 9.53
+
+Company ID : TORNTPHARM
+Calculated ROE : 9.23
+Source ROE : 24.20
+Difference : 14.97
+
+Company ID : TORNTPHARM
+Calculated ROE : 13.05
+Source ROE : 24.20
+Difference : 11.15
+
+Company ID : TRENT
+Calculated ROE : -2.19
+Source ROE : 27.20
+Difference : 29.39
+
+Company ID : TRENT
+Calculated ROE : -1.92
+Source ROE : 27.20
+Difference : 29.12
+
+Company ID : TRENT
+Calculated ROE : 9.07
+Source ROE : 27.20
+Difference : 18.13
+
+Company ID : TRENT
+Calculated ROE : 3.76
+Source ROE : 27.20
+Difference : 23.44
+
+Company ID : TRENT
+Calculated ROE : 5.49
+Source ROE : 27.20
+Difference : 21.71
+
+Company ID : TRENT
+Calculated ROE : 5.45
+Source ROE : 27.20
+Difference : 21.75
+
+Company ID : TRENT
+Calculated ROE : 5.77
+Source ROE : 27.20
+Difference : 21.43
+
+Company ID : TRENT
+Calculated ROE : 4.44
+Source ROE : 27.20
+Difference : 22.76
+
+Company ID : TRENT
+Calculated ROE : -7.83
+Source ROE : 27.20
+Difference : 35.03
+
+Company ID : TRENT
+Calculated ROE : 1.48
+Source ROE : 27.20
+Difference : 25.72
+
+Company ID : TRENT
+Calculated ROE : 15.18
+Source ROE : 27.20
+Difference : 12.02
+
+Company ID : TRENT
+Calculated ROE : 36.31
+Source ROE : 27.20
+Difference : 9.11
+
