@@ -1,0 +1,833 @@
+company_id,type,rule_id,text,confidence_pct
+ABB,con,CF_CON_01,"Accrual Risk was observed in 3 of 23 periods, indicating that reported earnings were not always strongly supported by operating cash flow",73.91
+ABB,con,CF_CON_02,"Negative free cash flow occurred in 7 of 23 periods, indicating periods of cash-generation pressure",75.61
+ABB,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 13 periods, indicating higher investment requirements",81.3
+ABB,con,CF_CON_04,"Growth funded by debt was observed in 1 periods, indicating reliance on debt financing for growth",75.87
+ABB,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+ABB,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 15 of 23 periods, indicating strong cash support for reported earnings",91.3
+ABB,pro,CF_PRO_02,"Free cash flow was positive in 15 of 23 periods, supporting internal cash generation",86.3
+ABB,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 4 periods, suggesting relatively lower capital expenditure intensity",75.48
+ABB,pro,CF_PRO_04,"Latest free-cash-flow conversion was 75.36%, indicating strong conversion of reported profit into free cash flow",82.54
+ABB,pro,CF_PRO_05,"Average free cash flow was positive at 56.39, indicating positive cash generation across the available periods",78.0
+ABB,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+ADANIENSOL,con,CF_CON_02,"Negative free cash flow occurred in 6 of 11 periods, indicating periods of cash-generation pressure",81.64
+ADANIENSOL,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 10 periods, indicating higher investment requirements",88.18
+ADANIENSOL,con,CF_CON_04,"Growth funded by debt was observed in 1 periods, indicating reliance on debt financing for growth",76.82
+ADANIENSOL,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+ADANIENSOL,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 10 of 11 periods, indicating strong cash support for reported earnings",95.0
+ADANIENSOL,pro,CF_PRO_02,"Free cash flow was positive in 4 of 11 periods, supporting internal cash generation",79.09
+ADANIENSOL,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+ADANIENT,con,CF_CON_02,"Negative free cash flow occurred in 7 of 12 periods, indicating periods of cash-generation pressure",82.58
+ADANIENT,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 8 periods, indicating higher investment requirements",83.33
+ADANIENT,con,CF_CON_06,"Liquidating Assets patterns appeared in 1 periods, indicating that asset sales may have contributed to cash generation",73.67
+ADANIENT,con,CF_CON_07,"Latest free cash flow was negative at -8455.00, indicating current cash-generation pressure",88.0
+ADANIENT,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+ADANIENT,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 11 of 12 periods, indicating strong cash support for reported earnings",95.0
+ADANIENT,pro,CF_PRO_02,"Free cash flow was positive in 5 of 12 periods, supporting internal cash generation",80.42
+ADANIENT,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 1 periods, suggesting relatively lower capital expenditure intensity",73.67
+ADANIENT,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+ADANIGREEN,con,CF_CON_01,"Accrual Risk was observed in 4 of 8 periods, indicating that reported earnings were not always strongly supported by operating cash flow",85.0
+ADANIGREEN,con,CF_CON_02,"Negative free cash flow occurred in 7 of 8 periods, indicating periods of cash-generation pressure",89.88
+ADANIGREEN,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 8 periods, indicating higher investment requirements",90.0
+ADANIGREEN,con,CF_CON_07,"Latest free cash flow was negative at -13347.00, indicating current cash-generation pressure",88.0
+ADANIGREEN,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+ADANIGREEN,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 4 of 8 periods, indicating strong cash support for reported earnings",87.5
+ADANIGREEN,pro,CF_PRO_02,"Free cash flow was positive in 1 of 8 periods, supporting internal cash generation",73.12
+ADANIGREEN,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+ADANIPORTS,con,CF_CON_02,"Negative free cash flow occurred in 10 of 24 periods, indicating periods of cash-generation pressure",78.42
+ADANIPORTS,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 22 periods, indicating higher investment requirements",88.33
+ADANIPORTS,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+ADANIPORTS,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 18 of 24 periods, indicating strong cash support for reported earnings",93.75
+ADANIPORTS,pro,CF_PRO_02,"Free cash flow was positive in 14 of 24 periods, supporting internal cash generation",84.58
+ADANIPORTS,pro,CF_PRO_04,"Latest free-cash-flow conversion was 52.92%, indicating strong conversion of reported profit into free cash flow",80.29
+ADANIPORTS,pro,CF_PRO_05,"Average free cash flow was positive at 585.67, indicating positive cash generation across the available periods",78.0
+ADANIPORTS,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+ADANIPOWER,con,CF_CON_01,"Accrual Risk was observed in 7 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",87.5
+ADANIPOWER,con,CF_CON_02,"Negative free cash flow occurred in 2 of 12 periods, indicating periods of cash-generation pressure",72.17
+ADANIPOWER,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 6 periods, indicating higher investment requirements",80.0
+ADANIPOWER,con,CF_CON_06,"Liquidating Assets patterns appeared in 3 periods, indicating that asset sales may have contributed to cash generation",77.0
+ADANIPOWER,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 3 of 12 periods, indicating strong cash support for reported earnings",81.25
+ADANIPOWER,pro,CF_PRO_02,"Free cash flow was positive in 10 of 12 periods, supporting internal cash generation",90.83
+ADANIPOWER,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 2 periods, suggesting relatively lower capital expenditure intensity",75.33
+ADANIPOWER,pro,CF_PRO_04,"Latest free-cash-flow conversion was 96.83%, indicating strong conversion of reported profit into free cash flow",84.68
+ADANIPOWER,pro,CF_PRO_05,"Average free cash flow was positive at 5050.08, indicating positive cash generation across the available periods",78.0
+AMBUJACEM,con,CF_CON_02,"Negative free cash flow occurred in 2 of 11 periods, indicating periods of cash-generation pressure",72.55
+AMBUJACEM,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 2 periods, indicating higher investment requirements",73.64
+AMBUJACEM,con,CF_CON_07,"Latest free cash flow was negative at -3295.00, indicating current cash-generation pressure",88.0
+AMBUJACEM,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+AMBUJACEM,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 9 of 11 periods, indicating strong cash support for reported earnings",95.0
+AMBUJACEM,pro,CF_PRO_02,"Free cash flow was positive in 9 of 11 periods, supporting internal cash generation",90.45
+AMBUJACEM,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 2 periods, suggesting relatively lower capital expenditure intensity",75.64
+AMBUJACEM,pro,CF_PRO_05,"Average free cash flow was positive at 1297.00, indicating positive cash generation across the available periods",78.0
+AMBUJACEM,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+APOLLOHOSP,con,CF_CON_02,"Negative free cash flow occurred in 4 of 12 periods, indicating periods of cash-generation pressure",76.33
+APOLLOHOSP,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 7 periods, indicating higher investment requirements",81.67
+APOLLOHOSP,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+APOLLOHOSP,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 12 of 12 periods, indicating strong cash support for reported earnings",95.0
+APOLLOHOSP,pro,CF_PRO_02,"Free cash flow was positive in 8 of 12 periods, supporting internal cash generation",86.67
+APOLLOHOSP,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 1 periods, suggesting relatively lower capital expenditure intensity",73.67
+APOLLOHOSP,pro,CF_PRO_05,"Average free cash flow was positive at 182.08, indicating positive cash generation across the available periods",78.0
+APOLLOHOSP,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+ASIANPAINT,con,CF_CON_01,"Accrual Risk was observed in 1 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",72.5
+ASIANPAINT,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 1 periods, indicating higher investment requirements",71.67
+ASIANPAINT,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 8 of 12 periods, indicating strong cash support for reported earnings",91.67
+ASIANPAINT,pro,CF_PRO_02,"Free cash flow was positive in 12 of 12 periods, supporting internal cash generation",95.0
+ASIANPAINT,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 3 periods, suggesting relatively lower capital expenditure intensity",77.0
+ASIANPAINT,pro,CF_PRO_05,"Average free cash flow was positive at 1616.08, indicating positive cash generation across the available periods",78.0
+ASIANPAINT,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+AXISBANK,con,CF_CON_01,"Accrual Risk was observed in 5 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",82.5
+AXISBANK,con,CF_CON_02,"Negative free cash flow occurred in 7 of 12 periods, indicating periods of cash-generation pressure",82.58
+AXISBANK,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 12 periods, indicating higher investment requirements",90.0
+AXISBANK,con,CF_CON_04,"Growth funded by debt was observed in 3 periods, indicating reliance on debt financing for growth",80.0
+AXISBANK,con,CF_CON_05,"Distress Signal patterns appeared in 1 periods, indicating potential cash-flow stress that should be monitored",81.25
+AXISBANK,con,CF_CON_07,"Latest free cash flow was negative at -14556.00, indicating current cash-generation pressure",88.0
+AXISBANK,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+AXISBANK,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 7 of 12 periods, indicating strong cash support for reported earnings",89.58
+AXISBANK,pro,CF_PRO_02,"Free cash flow was positive in 5 of 12 periods, supporting internal cash generation",80.42
+BAJAJ-AUTO,con,CF_CON_02,"Negative free cash flow occurred in 2 of 24 periods, indicating periods of cash-generation pressure",70.08
+BAJAJ-AUTO,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 6 periods, indicating higher investment requirements",75.0
+BAJAJ-AUTO,con,CF_CON_06,"Liquidating Assets patterns appeared in 6 periods, indicating that asset sales may have contributed to cash generation",77.0
+BAJAJ-AUTO,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 4 of 24 periods, indicating strong cash support for reported earnings",79.17
+BAJAJ-AUTO,pro,CF_PRO_02,"Free cash flow was positive in 22 of 24 periods, supporting internal cash generation",92.92
+BAJAJ-AUTO,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 10 periods, suggesting relatively lower capital expenditure intensity",80.33
+BAJAJ-AUTO,pro,CF_PRO_04,"Latest free-cash-flow conversion was 74.00%, indicating strong conversion of reported profit into free cash flow",82.4
+BAJAJ-AUTO,pro,CF_PRO_05,"Average free cash flow was positive at 2930.75, indicating positive cash generation across the available periods",78.0
+BAJAJFINSV,con,CF_CON_01,"Accrual Risk was observed in 11 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",95.0
+BAJAJFINSV,con,CF_CON_02,"Negative free cash flow occurred in 11 of 12 periods, indicating periods of cash-generation pressure",90.92
+BAJAJFINSV,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 7 periods, indicating higher investment requirements",81.67
+BAJAJFINSV,con,CF_CON_04,"Growth funded by debt was observed in 6 periods, indicating reliance on debt financing for growth",85.0
+BAJAJFINSV,con,CF_CON_05,"Distress Signal patterns appeared in 5 periods, indicating potential cash-flow stress that should be monitored",86.25
+BAJAJFINSV,con,CF_CON_07,"Latest free cash flow was negative at -79634.00, indicating current cash-generation pressure",88.0
+BAJAJFINSV,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+BAJAJFINSV,pro,CF_PRO_02,"Free cash flow was positive in 1 of 12 periods, supporting internal cash generation",72.08
+BAJAJFINSV,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 3 periods, suggesting relatively lower capital expenditure intensity",77.0
+BAJAJHLDNG,con,CF_CON_01,"Accrual Risk was observed in 9 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",92.5
+BAJAJHLDNG,con,CF_CON_02,"Negative free cash flow occurred in 2 of 12 periods, indicating periods of cash-generation pressure",72.17
+BAJAJHLDNG,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 12 periods, indicating higher investment requirements",90.0
+BAJAJHLDNG,con,CF_CON_06,"Liquidating Assets patterns appeared in 1 periods, indicating that asset sales may have contributed to cash generation",73.67
+BAJAJHLDNG,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+BAJAJHLDNG,pro,CF_PRO_02,"Free cash flow was positive in 10 of 12 periods, supporting internal cash generation",90.83
+BAJAJHLDNG,pro,CF_PRO_04,"Latest free-cash-flow conversion was 94.05%, indicating strong conversion of reported profit into free cash flow",84.4
+BAJAJHLDNG,pro,CF_PRO_05,"Average free cash flow was positive at 686.33, indicating positive cash generation across the available periods",78.0
+BAJFINANCE,con,CF_CON_01,"Accrual Risk was observed in 10 of 10 periods, indicating that reported earnings were not always strongly supported by operating cash flow",95.0
+BAJFINANCE,con,CF_CON_02,"Negative free cash flow occurred in 10 of 10 periods, indicating periods of cash-generation pressure",93.0
+BAJFINANCE,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 8 periods, indicating higher investment requirements",86.0
+BAJFINANCE,con,CF_CON_04,"Growth funded by debt was observed in 8 periods, indicating reliance on debt financing for growth",91.0
+BAJFINANCE,con,CF_CON_05,"Distress Signal patterns appeared in 2 periods, indicating potential cash-flow stress that should be monitored",83.0
+BAJFINANCE,con,CF_CON_07,"Latest free cash flow was negative at -79931.00, indicating current cash-generation pressure",88.0
+BAJFINANCE,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+BAJFINANCE,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 1 periods, suggesting relatively lower capital expenditure intensity",74.0
+BANKBARODA,con,CF_CON_01,"Accrual Risk was observed in 4 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",80.0
+BANKBARODA,con,CF_CON_02,"Negative free cash flow occurred in 6 of 12 periods, indicating periods of cash-generation pressure",80.5
+BANKBARODA,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 1 periods, indicating higher investment requirements",71.67
+BANKBARODA,con,CF_CON_04,"Growth funded by debt was observed in 3 periods, indicating reliance on debt financing for growth",80.0
+BANKBARODA,con,CF_CON_07,"Latest free cash flow was negative at -7559.00, indicating current cash-generation pressure",88.0
+BANKBARODA,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 7 of 12 periods, indicating strong cash support for reported earnings",89.58
+BANKBARODA,pro,CF_PRO_02,"Free cash flow was positive in 6 of 12 periods, supporting internal cash generation",82.5
+BANKBARODA,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 9 periods, suggesting relatively lower capital expenditure intensity",87.0
+BANKBARODA,pro,CF_PRO_05,"Average free cash flow was positive at 855.25, indicating positive cash generation across the available periods",78.0
+BEL,con,CF_CON_01,"Accrual Risk was observed in 5 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",82.5
+BEL,con,CF_CON_02,"Negative free cash flow occurred in 3 of 12 periods, indicating periods of cash-generation pressure",74.25
+BEL,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 9 periods, indicating higher investment requirements",85.0
+BEL,con,CF_CON_06,"Liquidating Assets patterns appeared in 1 periods, indicating that asset sales may have contributed to cash generation",73.67
+BEL,con,CF_CON_07,"Latest free cash flow was negative at -1265.00, indicating current cash-generation pressure",88.0
+BEL,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+BEL,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 6 of 12 periods, indicating strong cash support for reported earnings",87.5
+BEL,pro,CF_PRO_02,"Free cash flow was positive in 9 of 12 periods, supporting internal cash generation",88.75
+BEL,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 1 periods, suggesting relatively lower capital expenditure intensity",73.67
+BEL,pro,CF_PRO_05,"Average free cash flow was positive at 930.33, indicating positive cash generation across the available periods",78.0
+BEL,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+BHARTIARTL,con,CF_CON_01,"Accrual Risk was observed in 2 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",75.0
+BHARTIARTL,con,CF_CON_02,"Negative free cash flow occurred in 3 of 12 periods, indicating periods of cash-generation pressure",74.25
+BHARTIARTL,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 12 periods, indicating higher investment requirements",90.0
+BHARTIARTL,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+BHARTIARTL,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 10 of 12 periods, indicating strong cash support for reported earnings",95.0
+BHARTIARTL,pro,CF_PRO_02,"Free cash flow was positive in 9 of 12 periods, supporting internal cash generation",88.75
+BHARTIARTL,pro,CF_PRO_05,"Average free cash flow was positive at 7731.83, indicating positive cash generation across the available periods",78.0
+BHARTIARTL,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+BHEL,con,CF_CON_01,"Accrual Risk was observed in 6 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",85.0
+BHEL,con,CF_CON_02,"Negative free cash flow occurred in 5 of 12 periods, indicating periods of cash-generation pressure",78.42
+BHEL,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 1 periods, indicating higher investment requirements",71.67
+BHEL,con,CF_CON_05,"Distress Signal patterns appeared in 3 periods, indicating potential cash-flow stress that should be monitored",83.75
+BHEL,con,CF_CON_06,"Liquidating Assets patterns appeared in 3 periods, indicating that asset sales may have contributed to cash generation",77.0
+BHEL,con,CF_CON_07,"Latest free cash flow was negative at -2382.00, indicating current cash-generation pressure",88.0
+BHEL,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 5 of 12 periods, indicating strong cash support for reported earnings",85.42
+BHEL,pro,CF_PRO_02,"Free cash flow was positive in 7 of 12 periods, supporting internal cash generation",84.58
+BHEL,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 6 periods, suggesting relatively lower capital expenditure intensity",82.0
+BHEL,pro,CF_PRO_05,"Average free cash flow was positive at 297.00, indicating positive cash generation across the available periods",78.0
+BOSCHLTD,con,CF_CON_01,"Accrual Risk was observed in 2 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",75.0
+BOSCHLTD,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 8 periods, indicating higher investment requirements",83.33
+BOSCHLTD,con,CF_CON_06,"Liquidating Assets patterns appeared in 4 periods, indicating that asset sales may have contributed to cash generation",78.67
+BOSCHLTD,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 5 of 12 periods, indicating strong cash support for reported earnings",85.42
+BOSCHLTD,pro,CF_PRO_02,"Free cash flow was positive in 12 of 12 periods, supporting internal cash generation",95.0
+BOSCHLTD,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 3 periods, suggesting relatively lower capital expenditure intensity",77.0
+BOSCHLTD,pro,CF_PRO_04,"Latest free-cash-flow conversion was 73.32%, indicating strong conversion of reported profit into free cash flow",82.33
+BOSCHLTD,pro,CF_PRO_05,"Average free cash flow was positive at 875.00, indicating positive cash generation across the available periods",78.0
+BPCL,con,CF_CON_02,"Negative free cash flow occurred in 3 of 12 periods, indicating periods of cash-generation pressure",74.25
+BPCL,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 11 of 12 periods, indicating strong cash support for reported earnings",95.0
+BPCL,pro,CF_PRO_02,"Free cash flow was positive in 9 of 12 periods, supporting internal cash generation",88.75
+BPCL,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 7 periods, suggesting relatively lower capital expenditure intensity",83.67
+BPCL,pro,CF_PRO_04,"Latest free-cash-flow conversion was 57.65%, indicating strong conversion of reported profit into free cash flow",80.77
+BPCL,pro,CF_PRO_05,"Average free cash flow was positive at 6216.33, indicating positive cash generation across the available periods",78.0
+BPCL,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+BRITANNIA,con,CF_CON_01,"Accrual Risk was observed in 1 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",72.5
+BRITANNIA,con,CF_CON_02,"Negative free cash flow occurred in 1 of 12 periods, indicating periods of cash-generation pressure",70.08
+BRITANNIA,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 4 periods, indicating higher investment requirements",76.67
+BRITANNIA,con,CF_CON_06,"Liquidating Assets patterns appeared in 4 periods, indicating that asset sales may have contributed to cash generation",78.67
+BRITANNIA,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 9 of 12 periods, indicating strong cash support for reported earnings",93.75
+BRITANNIA,pro,CF_PRO_02,"Free cash flow was positive in 11 of 12 periods, supporting internal cash generation",92.92
+BRITANNIA,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 3 periods, suggesting relatively lower capital expenditure intensity",77.0
+BRITANNIA,pro,CF_PRO_04,"Latest free-cash-flow conversion was 96.31%, indicating strong conversion of reported profit into free cash flow",84.63
+BRITANNIA,pro,CF_PRO_05,"Average free cash flow was positive at 883.25, indicating positive cash generation across the available periods",78.0
+BRITANNIA,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+CANBK,con,CF_CON_01,"Accrual Risk was observed in 3 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",77.5
+CANBK,con,CF_CON_02,"Negative free cash flow occurred in 4 of 12 periods, indicating periods of cash-generation pressure",76.33
+CANBK,con,CF_CON_04,"Growth funded by debt was observed in 3 periods, indicating reliance on debt financing for growth",80.0
+CANBK,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 8 of 12 periods, indicating strong cash support for reported earnings",91.67
+CANBK,pro,CF_PRO_02,"Free cash flow was positive in 8 of 12 periods, supporting internal cash generation",86.67
+CANBK,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 12 periods, suggesting relatively lower capital expenditure intensity",92.0
+CANBK,pro,CF_PRO_05,"Average free cash flow was positive at 5623.83, indicating positive cash generation across the available periods",78.0
+CHOLAFIN,con,CF_CON_01,"Accrual Risk was observed in 12 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",95.0
+CHOLAFIN,con,CF_CON_02,"Negative free cash flow occurred in 12 of 12 periods, indicating periods of cash-generation pressure",93.0
+CHOLAFIN,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 4 periods, indicating higher investment requirements",76.67
+CHOLAFIN,con,CF_CON_04,"Growth funded by debt was observed in 10 periods, indicating reliance on debt financing for growth",91.67
+CHOLAFIN,con,CF_CON_05,"Distress Signal patterns appeared in 2 periods, indicating potential cash-flow stress that should be monitored",82.5
+CHOLAFIN,con,CF_CON_07,"Latest free cash flow was negative at -38538.00, indicating current cash-generation pressure",88.0
+CHOLAFIN,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+CHOLAFIN,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 6 periods, suggesting relatively lower capital expenditure intensity",82.0
+CIPLA,con,CF_CON_02,"Negative free cash flow occurred in 2 of 12 periods, indicating periods of cash-generation pressure",72.17
+CIPLA,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 10 periods, indicating higher investment requirements",86.67
+CIPLA,con,CF_CON_06,"Liquidating Assets patterns appeared in 1 periods, indicating that asset sales may have contributed to cash generation",73.67
+CIPLA,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+CIPLA,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 9 of 12 periods, indicating strong cash support for reported earnings",93.75
+CIPLA,pro,CF_PRO_02,"Free cash flow was positive in 10 of 12 periods, supporting internal cash generation",90.83
+CIPLA,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 1 periods, suggesting relatively lower capital expenditure intensity",73.67
+CIPLA,pro,CF_PRO_05,"Average free cash flow was positive at 568.25, indicating positive cash generation across the available periods",78.0
+COALINDIA,con,CF_CON_01,"Accrual Risk was observed in 2 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",75.0
+COALINDIA,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 5 periods, indicating higher investment requirements",78.33
+COALINDIA,con,CF_CON_06,"Liquidating Assets patterns appeared in 6 periods, indicating that asset sales may have contributed to cash generation",82.0
+COALINDIA,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 5 of 12 periods, indicating strong cash support for reported earnings",85.42
+COALINDIA,pro,CF_PRO_02,"Free cash flow was positive in 12 of 12 periods, supporting internal cash generation",95.0
+COALINDIA,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 5 periods, suggesting relatively lower capital expenditure intensity",80.33
+COALINDIA,pro,CF_PRO_05,"Average free cash flow was positive at 13647.58, indicating positive cash generation across the available periods",78.0
+DABUR,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 6 periods, indicating higher investment requirements",80.0
+DABUR,con,CF_CON_06,"Liquidating Assets patterns appeared in 1 periods, indicating that asset sales may have contributed to cash generation",73.67
+DABUR,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 7 of 12 periods, indicating strong cash support for reported earnings",89.58
+DABUR,pro,CF_PRO_02,"Free cash flow was positive in 12 of 12 periods, supporting internal cash generation",95.0
+DABUR,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 1 periods, suggesting relatively lower capital expenditure intensity",73.67
+DABUR,pro,CF_PRO_05,"Average free cash flow was positive at 746.83, indicating positive cash generation across the available periods",78.0
+DABUR,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+DIVISLAB,con,CF_CON_02,"Negative free cash flow occurred in 2 of 12 periods, indicating periods of cash-generation pressure",72.17
+DIVISLAB,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 9 periods, indicating higher investment requirements",85.0
+DIVISLAB,con,CF_CON_06,"Liquidating Assets patterns appeared in 1 periods, indicating that asset sales may have contributed to cash generation",73.67
+DIVISLAB,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 2 of 12 periods, indicating strong cash support for reported earnings",79.17
+DIVISLAB,pro,CF_PRO_02,"Free cash flow was positive in 10 of 12 periods, supporting internal cash generation",90.83
+DIVISLAB,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 2 periods, suggesting relatively lower capital expenditure intensity",75.33
+DIVISLAB,pro,CF_PRO_05,"Average free cash flow was positive at 467.25, indicating positive cash generation across the available periods",78.0
+DLF,con,CF_CON_01,"Accrual Risk was observed in 3 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",77.5
+DLF,con,CF_CON_02,"Negative free cash flow occurred in 2 of 12 periods, indicating periods of cash-generation pressure",72.17
+DLF,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 8 periods, indicating higher investment requirements",83.33
+DLF,con,CF_CON_05,"Distress Signal patterns appeared in 1 periods, indicating potential cash-flow stress that should be monitored",81.25
+DLF,con,CF_CON_06,"Liquidating Assets patterns appeared in 6 periods, indicating that asset sales may have contributed to cash generation",82.0
+DLF,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+DLF,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 8 of 12 periods, indicating strong cash support for reported earnings",91.67
+DLF,pro,CF_PRO_02,"Free cash flow was positive in 10 of 12 periods, supporting internal cash generation",90.83
+DLF,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 3 periods, suggesting relatively lower capital expenditure intensity",77.0
+DLF,pro,CF_PRO_05,"Average free cash flow was positive at 2362.92, indicating positive cash generation across the available periods",78.0
+DMART,con,CF_CON_02,"Negative free cash flow occurred in 7 of 12 periods, indicating periods of cash-generation pressure",82.58
+DMART,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 2 periods, indicating higher investment requirements",73.33
+DMART,con,CF_CON_06,"Liquidating Assets patterns appeared in 1 periods, indicating that asset sales may have contributed to cash generation",73.67
+DMART,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 7 of 12 periods, indicating strong cash support for reported earnings",89.58
+DMART,pro,CF_PRO_02,"Free cash flow was positive in 5 of 12 periods, supporting internal cash generation",80.42
+DMART,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+DRREDDY,con,CF_CON_02,"Negative free cash flow occurred in 1 of 12 periods, indicating periods of cash-generation pressure",70.08
+DRREDDY,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 10 periods, indicating higher investment requirements",86.67
+DRREDDY,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+DRREDDY,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 10 of 12 periods, indicating strong cash support for reported earnings",95.0
+DRREDDY,pro,CF_PRO_02,"Free cash flow was positive in 11 of 12 periods, supporting internal cash generation",92.92
+DRREDDY,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 1 periods, suggesting relatively lower capital expenditure intensity",73.67
+DRREDDY,pro,CF_PRO_05,"Average free cash flow was positive at 927.25, indicating positive cash generation across the available periods",78.0
+EICHERMOT,con,CF_CON_02,"Negative free cash flow occurred in 4 of 12 periods, indicating periods of cash-generation pressure",76.33
+EICHERMOT,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 11 periods, indicating higher investment requirements",88.33
+EICHERMOT,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+EICHERMOT,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 7 of 12 periods, indicating strong cash support for reported earnings",89.58
+EICHERMOT,pro,CF_PRO_02,"Free cash flow was positive in 8 of 12 periods, supporting internal cash generation",86.67
+EICHERMOT,pro,CF_PRO_05,"Average free cash flow was positive at 272.67, indicating positive cash generation across the available periods",78.0
+GAIL,con,CF_CON_02,"Negative free cash flow occurred in 2 of 12 periods, indicating periods of cash-generation pressure",72.17
+GAIL,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 3 periods, indicating higher investment requirements",75.0
+GAIL,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 8 of 12 periods, indicating strong cash support for reported earnings",91.67
+GAIL,pro,CF_PRO_02,"Free cash flow was positive in 10 of 12 periods, supporting internal cash generation",90.83
+GAIL,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 2 periods, suggesting relatively lower capital expenditure intensity",75.33
+GAIL,pro,CF_PRO_05,"Average free cash flow was positive at 2092.50, indicating positive cash generation across the available periods",78.0
+GAIL,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+GODREJCP,con,CF_CON_01,"Accrual Risk was observed in 1 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",72.5
+GODREJCP,con,CF_CON_02,"Negative free cash flow occurred in 4 of 12 periods, indicating periods of cash-generation pressure",76.33
+GODREJCP,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 5 periods, indicating higher investment requirements",78.33
+GODREJCP,con,CF_CON_06,"Liquidating Assets patterns appeared in 1 periods, indicating that asset sales may have contributed to cash generation",73.67
+GODREJCP,con,CF_CON_07,"Latest free cash flow was negative at -1365.00, indicating current cash-generation pressure",88.0
+GODREJCP,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+GODREJCP,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 8 of 12 periods, indicating strong cash support for reported earnings",91.67
+GODREJCP,pro,CF_PRO_02,"Free cash flow was positive in 8 of 12 periods, supporting internal cash generation",86.67
+GODREJCP,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 2 periods, suggesting relatively lower capital expenditure intensity",75.33
+GODREJCP,pro,CF_PRO_05,"Average free cash flow was positive at 501.08, indicating positive cash generation across the available periods",78.0
+GRASIM,con,CF_CON_01,"Accrual Risk was observed in 4 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",80.0
+GRASIM,con,CF_CON_02,"Negative free cash flow occurred in 5 of 12 periods, indicating periods of cash-generation pressure",78.42
+GRASIM,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 8 periods, indicating higher investment requirements",83.33
+GRASIM,con,CF_CON_04,"Growth funded by debt was observed in 3 periods, indicating reliance on debt financing for growth",80.0
+GRASIM,con,CF_CON_05,"Distress Signal patterns appeared in 1 periods, indicating potential cash-flow stress that should be monitored",81.25
+GRASIM,con,CF_CON_07,"Latest free cash flow was negative at -33833.00, indicating current cash-generation pressure",88.0
+GRASIM,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+GRASIM,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 7 of 12 periods, indicating strong cash support for reported earnings",89.58
+GRASIM,pro,CF_PRO_02,"Free cash flow was positive in 7 of 12 periods, supporting internal cash generation",84.58
+GRASIM,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 3 periods, suggesting relatively lower capital expenditure intensity",77.0
+HAL,con,CF_CON_01,"Accrual Risk was observed in 3 of 8 periods, indicating that reported earnings were not always strongly supported by operating cash flow",81.25
+HAL,con,CF_CON_02,"Negative free cash flow occurred in 3 of 8 periods, indicating periods of cash-generation pressure",77.38
+HAL,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 5 periods, indicating higher investment requirements",82.5
+HAL,con,CF_CON_05,"Distress Signal patterns appeared in 1 periods, indicating potential cash-flow stress that should be monitored",81.88
+HAL,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+HAL,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 4 of 8 periods, indicating strong cash support for reported earnings",87.5
+HAL,pro,CF_PRO_02,"Free cash flow was positive in 5 of 8 periods, supporting internal cash generation",85.62
+HAL,pro,CF_PRO_05,"Average free cash flow was positive at 2062.50, indicating positive cash generation across the available periods",78.0
+HAL,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+HAVELLS,con,CF_CON_01,"Accrual Risk was observed in 1 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",72.5
+HAVELLS,con,CF_CON_02,"Negative free cash flow occurred in 1 of 12 periods, indicating periods of cash-generation pressure",70.08
+HAVELLS,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 2 periods, indicating higher investment requirements",73.33
+HAVELLS,con,CF_CON_06,"Liquidating Assets patterns appeared in 2 periods, indicating that asset sales may have contributed to cash generation",75.33
+HAVELLS,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+HAVELLS,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 8 of 12 periods, indicating strong cash support for reported earnings",91.67
+HAVELLS,pro,CF_PRO_02,"Free cash flow was positive in 11 of 12 periods, supporting internal cash generation",92.92
+HAVELLS,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 4 periods, suggesting relatively lower capital expenditure intensity",78.67
+HAVELLS,pro,CF_PRO_05,"Average free cash flow was positive at 443.25, indicating positive cash generation across the available periods",78.0
+HAVELLS,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+HCLTECH,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 4 periods, indicating higher investment requirements",77.27
+HCLTECH,con,CF_CON_06,"Liquidating Assets patterns appeared in 1 periods, indicating that asset sales may have contributed to cash generation",73.82
+HCLTECH,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 7 of 11 periods, indicating strong cash support for reported earnings",90.91
+HCLTECH,pro,CF_PRO_02,"Free cash flow was positive in 11 of 11 periods, supporting internal cash generation",95.0
+HCLTECH,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 1 periods, suggesting relatively lower capital expenditure intensity",73.82
+HCLTECH,pro,CF_PRO_04,"Latest free-cash-flow conversion was 65.46%, indicating strong conversion of reported profit into free cash flow",81.55
+HCLTECH,pro,CF_PRO_05,"Average free cash flow was positive at 7987.45, indicating positive cash generation across the available periods",78.0
+HCLTECH,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+HDFCBANK,con,CF_CON_01,"Accrual Risk was observed in 9 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",92.5
+HDFCBANK,con,CF_CON_02,"Negative free cash flow occurred in 6 of 12 periods, indicating periods of cash-generation pressure",80.5
+HDFCBANK,con,CF_CON_04,"Growth funded by debt was observed in 6 periods, indicating reliance on debt financing for growth",85.0
+HDFCBANK,con,CF_CON_06,"Liquidating Assets patterns appeared in 1 periods, indicating that asset sales may have contributed to cash generation",73.67
+HDFCBANK,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 2 of 12 periods, indicating strong cash support for reported earnings",79.17
+HDFCBANK,pro,CF_PRO_02,"Free cash flow was positive in 6 of 12 periods, supporting internal cash generation",82.5
+HDFCBANK,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 11 periods, suggesting relatively lower capital expenditure intensity",90.33
+HDFCLIFE,con,CF_CON_01,"Accrual Risk was observed in 2 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",75.0
+HDFCLIFE,con,CF_CON_02,"Negative free cash flow occurred in 4 of 12 periods, indicating periods of cash-generation pressure",76.33
+HDFCLIFE,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 11 periods, indicating higher investment requirements",88.33
+HDFCLIFE,con,CF_CON_07,"Latest free cash flow was negative at -2893.00, indicating current cash-generation pressure",88.0
+HDFCLIFE,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+HDFCLIFE,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 10 of 12 periods, indicating strong cash support for reported earnings",95.0
+HDFCLIFE,pro,CF_PRO_02,"Free cash flow was positive in 6 of 12 periods, supporting internal cash generation",82.5
+HDFCLIFE,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 1 periods, suggesting relatively lower capital expenditure intensity",73.67
+HDFCLIFE,pro,CF_PRO_05,"Average free cash flow was positive at 513.80, indicating positive cash generation across the available periods",78.0
+HDFCLIFE,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+HEROMOTOCO,con,CF_CON_01,"Accrual Risk was observed in 1 of 11 periods, indicating that reported earnings were not always strongly supported by operating cash flow",72.73
+HEROMOTOCO,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 2 periods, indicating higher investment requirements",73.64
+HEROMOTOCO,con,CF_CON_06,"Liquidating Assets patterns appeared in 2 periods, indicating that asset sales may have contributed to cash generation",75.64
+HEROMOTOCO,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 7 of 11 periods, indicating strong cash support for reported earnings",90.91
+HEROMOTOCO,pro,CF_PRO_02,"Free cash flow was positive in 11 of 11 periods, supporting internal cash generation",95.0
+HEROMOTOCO,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 3 periods, suggesting relatively lower capital expenditure intensity",77.45
+HEROMOTOCO,pro,CF_PRO_05,"Average free cash flow was positive at 2109.09, indicating positive cash generation across the available periods",78.0
+HEROMOTOCO,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+HINDALCO,con,CF_CON_01,"Accrual Risk was observed in 1 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",72.5
+HINDALCO,con,CF_CON_02,"Negative free cash flow occurred in 3 of 12 periods, indicating periods of cash-generation pressure",74.25
+HINDALCO,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 3 periods, indicating higher investment requirements",75.0
+HINDALCO,con,CF_CON_06,"Liquidating Assets patterns appeared in 1 periods, indicating that asset sales may have contributed to cash generation",73.67
+HINDALCO,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 10 of 12 periods, indicating strong cash support for reported earnings",95.0
+HINDALCO,pro,CF_PRO_02,"Free cash flow was positive in 9 of 12 periods, supporting internal cash generation",88.75
+HINDALCO,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 1 periods, suggesting relatively lower capital expenditure intensity",73.67
+HINDALCO,pro,CF_PRO_05,"Average free cash flow was positive at 5192.58, indicating positive cash generation across the available periods",78.0
+HINDALCO,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+HINDUNILVR,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 1 periods, indicating higher investment requirements",71.67
+HINDUNILVR,con,CF_CON_06,"Liquidating Assets patterns appeared in 3 periods, indicating that asset sales may have contributed to cash generation",77.0
+HINDUNILVR,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+HINDUNILVR,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 7 of 12 periods, indicating strong cash support for reported earnings",89.58
+HINDUNILVR,pro,CF_PRO_02,"Free cash flow was positive in 12 of 12 periods, supporting internal cash generation",95.0
+HINDUNILVR,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 8 periods, suggesting relatively lower capital expenditure intensity",85.33
+HINDUNILVR,pro,CF_PRO_05,"Average free cash flow was positive at 6001.75, indicating positive cash generation across the available periods",78.0
+HINDUNILVR,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+ICICIBANK,con,CF_CON_01,"Accrual Risk was observed in 2 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",75.0
+ICICIBANK,con,CF_CON_02,"Negative free cash flow occurred in 5 of 12 periods, indicating periods of cash-generation pressure",78.42
+ICICIBANK,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 11 periods, indicating higher investment requirements",88.33
+ICICIBANK,con,CF_CON_04,"Growth funded by debt was observed in 2 periods, indicating reliance on debt financing for growth",78.33
+ICICIBANK,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+ICICIBANK,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 9 of 12 periods, indicating strong cash support for reported earnings",93.75
+ICICIBANK,pro,CF_PRO_02,"Free cash flow was positive in 7 of 12 periods, supporting internal cash generation",84.58
+ICICIBANK,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 1 periods, suggesting relatively lower capital expenditure intensity",73.67
+ICICIBANK,pro,CF_PRO_05,"Average free cash flow was positive at 7152.75, indicating positive cash generation across the available periods",78.0
+ICICIBANK,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+ICICIGI,con,CF_CON_01,"Accrual Risk was observed in 1 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",72.5
+ICICIGI,con,CF_CON_02,"Negative free cash flow occurred in 2 of 12 periods, indicating periods of cash-generation pressure",72.17
+ICICIGI,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 9 periods, indicating higher investment requirements",85.0
+ICICIGI,con,CF_CON_06,"Liquidating Assets patterns appeared in 1 periods, indicating that asset sales may have contributed to cash generation",73.67
+ICICIGI,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+ICICIGI,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 10 of 12 periods, indicating strong cash support for reported earnings",95.0
+ICICIGI,pro,CF_PRO_02,"Free cash flow was positive in 10 of 12 periods, supporting internal cash generation",90.83
+ICICIGI,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 1 periods, suggesting relatively lower capital expenditure intensity",73.67
+ICICIGI,pro,CF_PRO_05,"Average free cash flow was positive at 244.17, indicating positive cash generation across the available periods",78.0
+ICICIGI,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+ICICIPRULI,con,CF_CON_01,"Accrual Risk was observed in 5 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",82.5
+ICICIPRULI,con,CF_CON_02,"Negative free cash flow occurred in 4 of 12 periods, indicating periods of cash-generation pressure",76.33
+ICICIPRULI,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 5 periods, indicating higher investment requirements",78.33
+ICICIPRULI,con,CF_CON_06,"Liquidating Assets patterns appeared in 1 periods, indicating that asset sales may have contributed to cash generation",73.67
+ICICIPRULI,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+ICICIPRULI,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 7 of 12 periods, indicating strong cash support for reported earnings",89.58
+ICICIPRULI,pro,CF_PRO_02,"Free cash flow was positive in 8 of 12 periods, supporting internal cash generation",86.67
+ICICIPRULI,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 4 periods, suggesting relatively lower capital expenditure intensity",78.67
+ICICIPRULI,pro,CF_PRO_05,"Average free cash flow was positive at 1046.75, indicating positive cash generation across the available periods",78.0
+INDIGO,con,CF_CON_01,"Accrual Risk was observed in 4 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",80.0
+INDIGO,con,CF_CON_02,"Negative free cash flow occurred in 3 of 12 periods, indicating periods of cash-generation pressure",74.25
+INDIGO,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 9 periods, indicating higher investment requirements",85.0
+INDIGO,con,CF_CON_06,"Liquidating Assets patterns appeared in 1 periods, indicating that asset sales may have contributed to cash generation",73.67
+INDIGO,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+INDIGO,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 8 of 12 periods, indicating strong cash support for reported earnings",91.67
+INDIGO,pro,CF_PRO_02,"Free cash flow was positive in 9 of 12 periods, supporting internal cash generation",88.75
+INDIGO,pro,CF_PRO_05,"Average free cash flow was positive at 2378.83, indicating positive cash generation across the available periods",78.0
+INDIGO,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+INDUSINDBK,con,CF_CON_01,"Accrual Risk was observed in 9 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",92.5
+INDUSINDBK,con,CF_CON_02,"Negative free cash flow occurred in 9 of 12 periods, indicating periods of cash-generation pressure",86.75
+INDUSINDBK,con,CF_CON_04,"Growth funded by debt was observed in 7 periods, indicating reliance on debt financing for growth",86.67
+INDUSINDBK,con,CF_CON_05,"Distress Signal patterns appeared in 1 periods, indicating potential cash-flow stress that should be monitored",81.25
+INDUSINDBK,con,CF_CON_07,"Latest free cash flow was negative at -17468.00, indicating current cash-generation pressure",88.0
+INDUSINDBK,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 3 of 12 periods, indicating strong cash support for reported earnings",81.25
+INDUSINDBK,pro,CF_PRO_02,"Free cash flow was positive in 3 of 12 periods, supporting internal cash generation",76.25
+INDUSINDBK,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 12 periods, suggesting relatively lower capital expenditure intensity",92.0
+INFY,con,CF_CON_02,"Negative free cash flow occurred in 1 of 12 periods, indicating periods of cash-generation pressure",70.08
+INFY,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 1 periods, indicating higher investment requirements",71.67
+INFY,con,CF_CON_06,"Liquidating Assets patterns appeared in 2 periods, indicating that asset sales may have contributed to cash generation",75.33
+INFY,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 3 of 12 periods, indicating strong cash support for reported earnings",81.25
+INFY,pro,CF_PRO_02,"Free cash flow was positive in 11 of 12 periods, supporting internal cash generation",92.92
+INFY,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 5 periods, suggesting relatively lower capital expenditure intensity",80.33
+INFY,pro,CF_PRO_04,"Latest free-cash-flow conversion was 55.23%, indicating strong conversion of reported profit into free cash flow",80.52
+INFY,pro,CF_PRO_05,"Average free cash flow was positive at 12539.25, indicating positive cash generation across the available periods",78.0
+IOC,con,CF_CON_01,"Accrual Risk was observed in 1 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",72.5
+IOC,con,CF_CON_02,"Negative free cash flow occurred in 2 of 12 periods, indicating periods of cash-generation pressure",72.17
+IOC,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 10 of 12 periods, indicating strong cash support for reported earnings",95.0
+IOC,pro,CF_PRO_02,"Free cash flow was positive in 10 of 12 periods, supporting internal cash generation",90.83
+IOC,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 2 periods, suggesting relatively lower capital expenditure intensity",75.33
+IOC,pro,CF_PRO_04,"Latest free-cash-flow conversion was 52.40%, indicating strong conversion of reported profit into free cash flow",80.24
+IOC,pro,CF_PRO_05,"Average free cash flow was positive at 9725.50, indicating positive cash generation across the available periods",78.0
+IOC,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+IRCTC,con,CF_CON_01,"Accrual Risk was observed in 1 of 10 periods, indicating that reported earnings were not always strongly supported by operating cash flow",73.0
+IRCTC,con,CF_CON_02,"Negative free cash flow occurred in 1 of 10 periods, indicating periods of cash-generation pressure",70.5
+IRCTC,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 4 periods, indicating higher investment requirements",78.0
+IRCTC,con,CF_CON_06,"Liquidating Assets patterns appeared in 4 periods, indicating that asset sales may have contributed to cash generation",80.0
+IRCTC,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 4 of 10 periods, indicating strong cash support for reported earnings",85.0
+IRCTC,pro,CF_PRO_02,"Free cash flow was positive in 9 of 10 periods, supporting internal cash generation",92.5
+IRCTC,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 3 periods, suggesting relatively lower capital expenditure intensity",78.0
+IRCTC,pro,CF_PRO_05,"Average free cash flow was positive at 261.60, indicating positive cash generation across the available periods",78.0
+IRFC,con,CF_CON_01,"Accrual Risk was observed in 8 of 9 periods, indicating that reported earnings were not always strongly supported by operating cash flow",95.0
+IRFC,con,CF_CON_02,"Negative free cash flow occurred in 8 of 9 periods, indicating periods of cash-generation pressure",90.22
+IRFC,con,CF_CON_04,"Growth funded by debt was observed in 1 periods, indicating reliance on debt financing for growth",77.22
+IRFC,con,CF_CON_05,"Distress Signal patterns appeared in 7 periods, indicating potential cash-flow stress that should be monitored",91.67
+IRFC,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 1 of 9 periods, indicating strong cash support for reported earnings",77.78
+IRFC,pro,CF_PRO_02,"Free cash flow was positive in 1 of 9 periods, supporting internal cash generation",72.78
+IRFC,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 9 periods, suggesting relatively lower capital expenditure intensity",92.0
+IRFC,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+ITC,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 9 periods, indicating higher investment requirements",85.0
+ITC,con,CF_CON_06,"Liquidating Assets patterns appeared in 2 periods, indicating that asset sales may have contributed to cash generation",75.33
+ITC,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 5 of 12 periods, indicating strong cash support for reported earnings",85.42
+ITC,pro,CF_PRO_02,"Free cash flow was positive in 12 of 12 periods, supporting internal cash generation",95.0
+ITC,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 1 periods, suggesting relatively lower capital expenditure intensity",73.67
+ITC,pro,CF_PRO_04,"Latest free-cash-flow conversion was 71.44%, indicating strong conversion of reported profit into free cash flow",82.14
+ITC,pro,CF_PRO_05,"Average free cash flow was positive at 9202.83, indicating positive cash generation across the available periods",78.0
+JINDALSTEL,con,CF_CON_01,"Accrual Risk was observed in 6 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",85.0
+JINDALSTEL,con,CF_CON_02,"Negative free cash flow occurred in 4 of 12 periods, indicating periods of cash-generation pressure",76.33
+JINDALSTEL,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 6 periods, indicating higher investment requirements",80.0
+JINDALSTEL,con,CF_CON_07,"Latest free cash flow was negative at -2336.00, indicating current cash-generation pressure",88.0
+JINDALSTEL,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+JINDALSTEL,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 6 of 12 periods, indicating strong cash support for reported earnings",87.5
+JINDALSTEL,pro,CF_PRO_02,"Free cash flow was positive in 8 of 12 periods, supporting internal cash generation",86.67
+JINDALSTEL,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 1 periods, suggesting relatively lower capital expenditure intensity",73.67
+JINDALSTEL,pro,CF_PRO_05,"Average free cash flow was positive at 2812.17, indicating positive cash generation across the available periods",78.0
+JINDALSTEL,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+JIOFIN,con,CF_CON_01,"Accrual Risk was observed in 1 of 2 periods, indicating that reported earnings were not always strongly supported by operating cash flow",85.0
+JIOFIN,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 2 periods, indicating higher investment requirements",90.0
+JIOFIN,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+JIOFIN,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 1 of 2 periods, indicating strong cash support for reported earnings",87.5
+JIOFIN,pro,CF_PRO_02,"Free cash flow was positive in 2 of 2 periods, supporting internal cash generation",95.0
+JIOFIN,pro,CF_PRO_05,"Average free cash flow was positive at 854.00, indicating positive cash generation across the available periods",78.0
+JSWENERGY,con,CF_CON_02,"Negative free cash flow occurred in 2 of 12 periods, indicating periods of cash-generation pressure",72.17
+JSWENERGY,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 7 periods, indicating higher investment requirements",81.67
+JSWENERGY,con,CF_CON_06,"Liquidating Assets patterns appeared in 1 periods, indicating that asset sales may have contributed to cash generation",73.67
+JSWENERGY,con,CF_CON_07,"Latest free cash flow was negative at -1963.00, indicating current cash-generation pressure",88.0
+JSWENERGY,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+JSWENERGY,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 12 of 12 periods, indicating strong cash support for reported earnings",95.0
+JSWENERGY,pro,CF_PRO_02,"Free cash flow was positive in 10 of 12 periods, supporting internal cash generation",90.83
+JSWENERGY,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 2 periods, suggesting relatively lower capital expenditure intensity",75.33
+JSWENERGY,pro,CF_PRO_05,"Average free cash flow was positive at 1261.00, indicating positive cash generation across the available periods",78.0
+JSWENERGY,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+JSWSTEEL,con,CF_CON_01,"Accrual Risk was observed in 1 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",72.5
+JSWSTEEL,con,CF_CON_02,"Negative free cash flow occurred in 3 of 12 periods, indicating periods of cash-generation pressure",74.25
+JSWSTEEL,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 10 periods, indicating higher investment requirements",86.67
+JSWSTEEL,con,CF_CON_07,"Latest free cash flow was negative at -2389.00, indicating current cash-generation pressure",88.0
+JSWSTEEL,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+JSWSTEEL,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 11 of 12 periods, indicating strong cash support for reported earnings",95.0
+JSWSTEEL,pro,CF_PRO_02,"Free cash flow was positive in 9 of 12 periods, supporting internal cash generation",88.75
+JSWSTEEL,pro,CF_PRO_05,"Average free cash flow was positive at 3402.50, indicating positive cash generation across the available periods",78.0
+JSWSTEEL,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+KOTAKBANK,con,CF_CON_01,"Accrual Risk was observed in 4 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",80.0
+KOTAKBANK,con,CF_CON_02,"Negative free cash flow occurred in 7 of 12 periods, indicating periods of cash-generation pressure",82.58
+KOTAKBANK,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 12 periods, indicating higher investment requirements",90.0
+KOTAKBANK,con,CF_CON_04,"Growth funded by debt was observed in 2 periods, indicating reliance on debt financing for growth",78.33
+KOTAKBANK,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+KOTAKBANK,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 5 of 12 periods, indicating strong cash support for reported earnings",85.42
+KOTAKBANK,pro,CF_PRO_02,"Free cash flow was positive in 5 of 12 periods, supporting internal cash generation",80.42
+KOTAKBANK,pro,CF_PRO_05,"Average free cash flow was positive at 1055.08, indicating positive cash generation across the available periods",78.0
+LICI,con,CF_CON_01,"Accrual Risk was observed in 1 of 6 periods, indicating that reported earnings were not always strongly supported by operating cash flow",75.0
+LICI,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 1 periods, indicating higher investment requirements",73.33
+LICI,con,CF_CON_05,"Distress Signal patterns appeared in 1 periods, indicating potential cash-flow stress that should be monitored",82.5
+LICI,con,CF_CON_06,"Liquidating Assets patterns appeared in 2 periods, indicating that asset sales may have contributed to cash generation",78.67
+LICI,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 4 of 6 periods, indicating strong cash support for reported earnings",91.67
+LICI,pro,CF_PRO_02,"Free cash flow was positive in 6 of 6 periods, supporting internal cash generation",95.0
+LICI,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 3 periods, suggesting relatively lower capital expenditure intensity",82.0
+LICI,pro,CF_PRO_05,"Average free cash flow was positive at 46197.17, indicating positive cash generation across the available periods",78.0
+LODHA,con,CF_CON_01,"Accrual Risk was observed in 1 of 9 periods, indicating that reported earnings were not always strongly supported by operating cash flow",73.33
+LODHA,con,CF_CON_02,"Negative free cash flow occurred in 3 of 9 periods, indicating periods of cash-generation pressure",76.33
+LODHA,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 5 periods, indicating higher investment requirements",81.11
+LODHA,con,CF_CON_04,"Growth funded by debt was observed in 1 periods, indicating reliance on debt financing for growth",77.22
+LODHA,con,CF_CON_06,"Liquidating Assets patterns appeared in 4 periods, indicating that asset sales may have contributed to cash generation",80.89
+LODHA,con,CF_CON_07,"Latest free cash flow was negative at -435.00, indicating current cash-generation pressure",88.0
+LODHA,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+LODHA,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 6 of 9 periods, indicating strong cash support for reported earnings",91.67
+LODHA,pro,CF_PRO_02,"Free cash flow was positive in 6 of 9 periods, supporting internal cash generation",86.67
+LODHA,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 2 periods, suggesting relatively lower capital expenditure intensity",76.44
+LODHA,pro,CF_PRO_05,"Average free cash flow was positive at 1486.00, indicating positive cash generation across the available periods",78.0
+LODHA,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+LT,con,CF_CON_01,"Accrual Risk was observed in 6 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",85.0
+LT,con,CF_CON_02,"Negative free cash flow occurred in 8 of 12 periods, indicating periods of cash-generation pressure",84.67
+LT,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 3 periods, indicating higher investment requirements",75.0
+LT,con,CF_CON_04,"Growth funded by debt was observed in 5 periods, indicating reliance on debt financing for growth",83.33
+LT,con,CF_CON_05,"Distress Signal patterns appeared in 1 periods, indicating potential cash-flow stress that should be monitored",81.25
+LT,con,CF_CON_06,"Liquidating Assets patterns appeared in 1 periods, indicating that asset sales may have contributed to cash generation",73.67
+LT,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 5 of 12 periods, indicating strong cash support for reported earnings",85.42
+LT,pro,CF_PRO_02,"Free cash flow was positive in 4 of 12 periods, supporting internal cash generation",78.33
+LT,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 2 periods, suggesting relatively lower capital expenditure intensity",75.33
+LT,pro,CF_PRO_04,"Latest free-cash-flow conversion was 68.46%, indicating strong conversion of reported profit into free cash flow",81.85
+LT,pro,CF_PRO_05,"Average free cash flow was positive at 282.17, indicating positive cash generation across the available periods",78.0
+LT,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+LTIM,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 3 periods, indicating higher investment requirements",75.0
+LTIM,con,CF_CON_06,"Liquidating Assets patterns appeared in 1 periods, indicating that asset sales may have contributed to cash generation",73.67
+LTIM,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+LTIM,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 6 of 12 periods, indicating strong cash support for reported earnings",87.5
+LTIM,pro,CF_PRO_02,"Free cash flow was positive in 12 of 12 periods, supporting internal cash generation",95.0
+LTIM,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 3 periods, suggesting relatively lower capital expenditure intensity",77.0
+LTIM,pro,CF_PRO_05,"Average free cash flow was positive at 977.00, indicating positive cash generation across the available periods",78.0
+LTIM,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+M&M,con,CF_CON_01,"Accrual Risk was observed in 8 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",90.0
+M&M,con,CF_CON_02,"Negative free cash flow occurred in 11 of 12 periods, indicating periods of cash-generation pressure",90.92
+M&M,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 2 periods, indicating higher investment requirements",73.33
+M&M,con,CF_CON_04,"Growth funded by debt was observed in 6 periods, indicating reliance on debt financing for growth",85.0
+M&M,con,CF_CON_07,"Latest free cash flow was negative at -11245.00, indicating current cash-generation pressure",88.0
+M&M,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 3 of 12 periods, indicating strong cash support for reported earnings",81.25
+M&M,pro,CF_PRO_02,"Free cash flow was positive in 1 of 12 periods, supporting internal cash generation",72.08
+MARUTI,con,CF_CON_01,"Accrual Risk was observed in 1 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",72.5
+MARUTI,con,CF_CON_02,"Negative free cash flow occurred in 1 of 12 periods, indicating periods of cash-generation pressure",70.08
+MARUTI,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 7 periods, indicating higher investment requirements",81.67
+MARUTI,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+MARUTI,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 9 of 12 periods, indicating strong cash support for reported earnings",93.75
+MARUTI,pro,CF_PRO_02,"Free cash flow was positive in 11 of 12 periods, supporting internal cash generation",92.92
+MARUTI,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 2 periods, suggesting relatively lower capital expenditure intensity",75.33
+MARUTI,pro,CF_PRO_05,"Average free cash flow was positive at 2070.00, indicating positive cash generation across the available periods",78.0
+MARUTI,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+MOTHERSON,con,CF_CON_02,"Negative free cash flow occurred in 1 of 12 periods, indicating periods of cash-generation pressure",70.08
+MOTHERSON,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 2 periods, indicating higher investment requirements",73.33
+MOTHERSON,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 12 of 12 periods, indicating strong cash support for reported earnings",95.0
+MOTHERSON,pro,CF_PRO_02,"Free cash flow was positive in 11 of 12 periods, supporting internal cash generation",92.92
+MOTHERSON,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 1 periods, suggesting relatively lower capital expenditure intensity",73.67
+MOTHERSON,pro,CF_PRO_05,"Average free cash flow was positive at 1003.58, indicating positive cash generation across the available periods",78.0
+MOTHERSON,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+NAUKRI,con,CF_CON_01,"Accrual Risk was observed in 7 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",87.5
+NAUKRI,con,CF_CON_02,"Negative free cash flow occurred in 5 of 12 periods, indicating periods of cash-generation pressure",78.42
+NAUKRI,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 9 periods, indicating higher investment requirements",85.0
+NAUKRI,con,CF_CON_06,"Liquidating Assets patterns appeared in 1 periods, indicating that asset sales may have contributed to cash generation",73.67
+NAUKRI,con,CF_CON_07,"Latest free cash flow was negative at -150.00, indicating current cash-generation pressure",88.0
+NAUKRI,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+NAUKRI,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 2 of 12 periods, indicating strong cash support for reported earnings",79.17
+NAUKRI,pro,CF_PRO_02,"Free cash flow was positive in 7 of 12 periods, supporting internal cash generation",84.58
+NAUKRI,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 1 periods, suggesting relatively lower capital expenditure intensity",73.67
+NAUKRI,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+NESTLEIND,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 1 periods, indicating higher investment requirements",71.67
+NESTLEIND,con,CF_CON_06,"Liquidating Assets patterns appeared in 1 periods, indicating that asset sales may have contributed to cash generation",73.67
+NESTLEIND,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 12 of 12 periods, indicating strong cash support for reported earnings",95.0
+NESTLEIND,pro,CF_PRO_02,"Free cash flow was positive in 12 of 12 periods, supporting internal cash generation",95.0
+NESTLEIND,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 7 periods, suggesting relatively lower capital expenditure intensity",83.67
+NESTLEIND,pro,CF_PRO_04,"Latest free-cash-flow conversion was 50.54%, indicating strong conversion of reported profit into free cash flow",80.05
+NESTLEIND,pro,CF_PRO_05,"Average free cash flow was positive at 1766.42, indicating positive cash generation across the available periods",78.0
+NESTLEIND,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+NHPC,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 12 periods, indicating higher investment requirements",90.0
+NHPC,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+NHPC,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 10 of 12 periods, indicating strong cash support for reported earnings",95.0
+NHPC,pro,CF_PRO_02,"Free cash flow was positive in 12 of 12 periods, supporting internal cash generation",95.0
+NHPC,pro,CF_PRO_05,"Average free cash flow was positive at 2676.00, indicating positive cash generation across the available periods",78.0
+NHPC,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+NTPC,con,CF_CON_02,"Negative free cash flow occurred in 6 of 12 periods, indicating periods of cash-generation pressure",80.5
+NTPC,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 12 periods, indicating higher investment requirements",90.0
+NTPC,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+NTPC,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 12 of 12 periods, indicating strong cash support for reported earnings",95.0
+NTPC,pro,CF_PRO_02,"Free cash flow was positive in 6 of 12 periods, supporting internal cash generation",82.5
+NTPC,pro,CF_PRO_05,"Average free cash flow was positive at 4006.83, indicating positive cash generation across the available periods",78.0
+NTPC,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+ONGC,con,CF_CON_02,"Negative free cash flow occurred in 3 of 12 periods, indicating periods of cash-generation pressure",74.25
+ONGC,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 12 periods, indicating higher investment requirements",90.0
+ONGC,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+ONGC,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 12 of 12 periods, indicating strong cash support for reported earnings",95.0
+ONGC,pro,CF_PRO_02,"Free cash flow was positive in 9 of 12 periods, supporting internal cash generation",88.75
+ONGC,pro,CF_PRO_05,"Average free cash flow was positive at 11038.75, indicating positive cash generation across the available periods",78.0
+ONGC,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+PFC,con,CF_CON_01,"Accrual Risk was observed in 11 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",95.0
+PFC,con,CF_CON_02,"Negative free cash flow occurred in 10 of 12 periods, indicating periods of cash-generation pressure",88.83
+PFC,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 1 periods, indicating higher investment requirements",71.67
+PFC,con,CF_CON_04,"Growth funded by debt was observed in 6 periods, indicating reliance on debt financing for growth",85.0
+PFC,con,CF_CON_05,"Distress Signal patterns appeared in 4 periods, indicating potential cash-flow stress that should be monitored",85.0
+PFC,con,CF_CON_07,"Latest free cash flow was negative at -101229.00, indicating current cash-generation pressure",88.0
+PFC,pro,CF_PRO_02,"Free cash flow was positive in 2 of 12 periods, supporting internal cash generation",74.17
+PFC,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 9 periods, suggesting relatively lower capital expenditure intensity",87.0
+PIDILITIND,con,CF_CON_02,"Negative free cash flow occurred in 2 of 12 periods, indicating periods of cash-generation pressure",72.17
+PIDILITIND,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 5 periods, indicating higher investment requirements",78.33
+PIDILITIND,con,CF_CON_06,"Liquidating Assets patterns appeared in 2 periods, indicating that asset sales may have contributed to cash generation",75.33
+PIDILITIND,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+PIDILITIND,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 7 of 12 periods, indicating strong cash support for reported earnings",89.58
+PIDILITIND,pro,CF_PRO_02,"Free cash flow was positive in 10 of 12 periods, supporting internal cash generation",90.83
+PIDILITIND,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 3 periods, suggesting relatively lower capital expenditure intensity",77.0
+PIDILITIND,pro,CF_PRO_05,"Average free cash flow was positive at 444.58, indicating positive cash generation across the available periods",78.0
+PIDILITIND,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+PNB,con,CF_CON_01,"Accrual Risk was observed in 5 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",82.5
+PNB,con,CF_CON_02,"Negative free cash flow occurred in 5 of 12 periods, indicating periods of cash-generation pressure",78.42
+PNB,con,CF_CON_04,"Growth funded by debt was observed in 3 periods, indicating reliance on debt financing for growth",80.0
+PNB,con,CF_CON_05,"Distress Signal patterns appeared in 1 periods, indicating potential cash-flow stress that should be monitored",81.25
+PNB,con,CF_CON_06,"Liquidating Assets patterns appeared in 1 periods, indicating that asset sales may have contributed to cash generation",73.67
+PNB,con,CF_CON_07,"Latest free cash flow was negative at -29445.00, indicating current cash-generation pressure",88.0
+PNB,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 7 of 12 periods, indicating strong cash support for reported earnings",89.58
+PNB,pro,CF_PRO_02,"Free cash flow was positive in 7 of 12 periods, supporting internal cash generation",84.58
+PNB,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 12 periods, suggesting relatively lower capital expenditure intensity",92.0
+PNB,pro,CF_PRO_05,"Average free cash flow was positive at 3910.83, indicating positive cash generation across the available periods",78.0
+POWERGRID,con,CF_CON_02,"Negative free cash flow occurred in 6 of 12 periods, indicating periods of cash-generation pressure",80.5
+POWERGRID,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 11 periods, indicating higher investment requirements",88.33
+POWERGRID,con,CF_CON_06,"Liquidating Assets patterns appeared in 1 periods, indicating that asset sales may have contributed to cash generation",73.67
+POWERGRID,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+POWERGRID,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 12 of 12 periods, indicating strong cash support for reported earnings",95.0
+POWERGRID,pro,CF_PRO_02,"Free cash flow was positive in 6 of 12 periods, supporting internal cash generation",82.5
+POWERGRID,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 1 periods, suggesting relatively lower capital expenditure intensity",73.67
+POWERGRID,pro,CF_PRO_04,"Latest free-cash-flow conversion was 60.70%, indicating strong conversion of reported profit into free cash flow",81.07
+POWERGRID,pro,CF_PRO_05,"Average free cash flow was positive at 7234.33, indicating positive cash generation across the available periods",78.0
+POWERGRID,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+RECLTD,con,CF_CON_01,"Accrual Risk was observed in 11 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",95.0
+RECLTD,con,CF_CON_02,"Negative free cash flow occurred in 11 of 12 periods, indicating periods of cash-generation pressure",90.92
+RECLTD,con,CF_CON_04,"Growth funded by debt was observed in 4 periods, indicating reliance on debt financing for growth",81.67
+RECLTD,con,CF_CON_05,"Distress Signal patterns appeared in 7 periods, indicating potential cash-flow stress that should be monitored",88.75
+RECLTD,con,CF_CON_07,"Latest free cash flow was negative at -59554.00, indicating current cash-generation pressure",88.0
+RECLTD,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 1 of 12 periods, indicating strong cash support for reported earnings",77.08
+RECLTD,pro,CF_PRO_02,"Free cash flow was positive in 1 of 12 periods, supporting internal cash generation",72.08
+RECLTD,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 10 periods, suggesting relatively lower capital expenditure intensity",88.67
+RELIANCE,con,CF_CON_02,"Negative free cash flow occurred in 5 of 12 periods, indicating periods of cash-generation pressure",78.42
+RELIANCE,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 11 periods, indicating higher investment requirements",88.33
+RELIANCE,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+RELIANCE,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 11 of 12 periods, indicating strong cash support for reported earnings",95.0
+RELIANCE,pro,CF_PRO_02,"Free cash flow was positive in 7 of 12 periods, supporting internal cash generation",84.58
+RELIANCE,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+SBILIFE,con,CF_CON_01,"Accrual Risk was observed in 1 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",72.5
+SBILIFE,con,CF_CON_02,"Negative free cash flow occurred in 6 of 12 periods, indicating periods of cash-generation pressure",80.5
+SBILIFE,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 9 periods, indicating higher investment requirements",85.0
+SBILIFE,con,CF_CON_07,"Latest free cash flow was negative at -2099.00, indicating current cash-generation pressure",88.0
+SBILIFE,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+SBILIFE,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 11 of 12 periods, indicating strong cash support for reported earnings",95.0
+SBILIFE,pro,CF_PRO_02,"Free cash flow was positive in 6 of 12 periods, supporting internal cash generation",82.5
+SBILIFE,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 2 periods, suggesting relatively lower capital expenditure intensity",75.33
+SBILIFE,pro,CF_PRO_05,"Average free cash flow was positive at 495.83, indicating positive cash generation across the available periods",78.0
+SBILIFE,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+SBIN,con,CF_CON_01,"Accrual Risk was observed in 3 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",77.5
+SBIN,con,CF_CON_02,"Negative free cash flow occurred in 2 of 12 periods, indicating periods of cash-generation pressure",72.17
+SBIN,con,CF_CON_04,"Growth funded by debt was observed in 1 periods, indicating reliance on debt financing for growth",76.67
+SBIN,con,CF_CON_05,"Distress Signal patterns appeared in 1 periods, indicating potential cash-flow stress that should be monitored",81.25
+SBIN,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 9 of 12 periods, indicating strong cash support for reported earnings",93.75
+SBIN,pro,CF_PRO_02,"Free cash flow was positive in 10 of 12 periods, supporting internal cash generation",90.83
+SBIN,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 11 periods, suggesting relatively lower capital expenditure intensity",90.33
+SBIN,pro,CF_PRO_05,"Average free cash flow was positive at 15834.33, indicating positive cash generation across the available periods",78.0
+SHREECEM,con,CF_CON_02,"Negative free cash flow occurred in 2 of 11 periods, indicating periods of cash-generation pressure",72.55
+SHREECEM,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 8 periods, indicating higher investment requirements",84.55
+SHREECEM,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 11 of 11 periods, indicating strong cash support for reported earnings",95.0
+SHREECEM,pro,CF_PRO_02,"Free cash flow was positive in 9 of 11 periods, supporting internal cash generation",90.45
+SHREECEM,pro,CF_PRO_05,"Average free cash flow was positive at 346.18, indicating positive cash generation across the available periods",78.0
+SHREECEM,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+SHRIRAMFIN,con,CF_CON_01,"Accrual Risk was observed in 12 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",95.0
+SHRIRAMFIN,con,CF_CON_02,"Negative free cash flow occurred in 12 of 12 periods, indicating periods of cash-generation pressure",93.0
+SHRIRAMFIN,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 1 periods, indicating higher investment requirements",71.67
+SHRIRAMFIN,con,CF_CON_04,"Growth funded by debt was observed in 10 periods, indicating reliance on debt financing for growth",91.67
+SHRIRAMFIN,con,CF_CON_05,"Distress Signal patterns appeared in 2 periods, indicating potential cash-flow stress that should be monitored",82.5
+SHRIRAMFIN,con,CF_CON_07,"Latest free cash flow was negative at -31359.00, indicating current cash-generation pressure",88.0
+SHRIRAMFIN,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 11 periods, suggesting relatively lower capital expenditure intensity",90.33
+SIEMENS,con,CF_CON_01,"Accrual Risk was observed in 4 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",80.0
+SIEMENS,con,CF_CON_02,"Negative free cash flow occurred in 2 of 12 periods, indicating periods of cash-generation pressure",72.17
+SIEMENS,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 4 periods, indicating higher investment requirements",76.67
+SIEMENS,con,CF_CON_06,"Liquidating Assets patterns appeared in 6 periods, indicating that asset sales may have contributed to cash generation",82.0
+SIEMENS,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 3 of 12 periods, indicating strong cash support for reported earnings",81.25
+SIEMENS,pro,CF_PRO_02,"Free cash flow was positive in 10 of 12 periods, supporting internal cash generation",90.83
+SIEMENS,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 6 periods, suggesting relatively lower capital expenditure intensity",82.0
+SIEMENS,pro,CF_PRO_05,"Average free cash flow was positive at 692.50, indicating positive cash generation across the available periods",78.0
+SUNPHARMA,con,CF_CON_02,"Negative free cash flow occurred in 1 of 12 periods, indicating periods of cash-generation pressure",70.08
+SUNPHARMA,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 7 periods, indicating higher investment requirements",81.67
+SUNPHARMA,con,CF_CON_06,"Liquidating Assets patterns appeared in 1 periods, indicating that asset sales may have contributed to cash generation",73.67
+SUNPHARMA,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 8 of 12 periods, indicating strong cash support for reported earnings",91.67
+SUNPHARMA,pro,CF_PRO_02,"Free cash flow was positive in 11 of 12 periods, supporting internal cash generation",92.92
+SUNPHARMA,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 3 periods, suggesting relatively lower capital expenditure intensity",77.0
+SUNPHARMA,pro,CF_PRO_04,"Latest free-cash-flow conversion was 87.36%, indicating strong conversion of reported profit into free cash flow",83.74
+SUNPHARMA,pro,CF_PRO_05,"Average free cash flow was positive at 3220.67, indicating positive cash generation across the available periods",78.0
+SUNPHARMA,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+TATACONSUM,con,CF_CON_01,"Accrual Risk was observed in 3 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",77.5
+TATACONSUM,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 2 periods, indicating higher investment requirements",73.33
+TATACONSUM,con,CF_CON_06,"Liquidating Assets patterns appeared in 3 periods, indicating that asset sales may have contributed to cash generation",77.0
+TATACONSUM,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+TATACONSUM,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 7 of 12 periods, indicating strong cash support for reported earnings",89.58
+TATACONSUM,pro,CF_PRO_02,"Free cash flow was positive in 12 of 12 periods, supporting internal cash generation",95.0
+TATACONSUM,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 8 periods, suggesting relatively lower capital expenditure intensity",85.33
+TATACONSUM,pro,CF_PRO_05,"Average free cash flow was positive at 432.17, indicating positive cash generation across the available periods",78.0
+TATACONSUM,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+TATAMOTORS,con,CF_CON_01,"Accrual Risk was observed in 4 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",80.0
+TATAMOTORS,con,CF_CON_02,"Negative free cash flow occurred in 6 of 12 periods, indicating periods of cash-generation pressure",80.5
+TATAMOTORS,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 8 periods, indicating higher investment requirements",83.33
+TATAMOTORS,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 8 of 12 periods, indicating strong cash support for reported earnings",91.67
+TATAMOTORS,pro,CF_PRO_02,"Free cash flow was positive in 6 of 12 periods, supporting internal cash generation",82.5
+TATAMOTORS,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 1 periods, suggesting relatively lower capital expenditure intensity",73.67
+TATAMOTORS,pro,CF_PRO_04,"Latest free-cash-flow conversion was 75.81%, indicating strong conversion of reported profit into free cash flow",82.58
+TATAMOTORS,pro,CF_PRO_05,"Average free cash flow was positive at 5584.00, indicating positive cash generation across the available periods",78.0
+TATAMOTORS,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+TATAPOWER,con,CF_CON_02,"Negative free cash flow occurred in 3 of 12 periods, indicating periods of cash-generation pressure",74.25
+TATAPOWER,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 7 periods, indicating higher investment requirements",81.67
+TATAPOWER,con,CF_CON_06,"Liquidating Assets patterns appeared in 1 periods, indicating that asset sales may have contributed to cash generation",73.67
+TATAPOWER,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+TATAPOWER,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 12 of 12 periods, indicating strong cash support for reported earnings",95.0
+TATAPOWER,pro,CF_PRO_02,"Free cash flow was positive in 9 of 12 periods, supporting internal cash generation",88.75
+TATAPOWER,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 2 periods, suggesting relatively lower capital expenditure intensity",75.33
+TATAPOWER,pro,CF_PRO_05,"Average free cash flow was positive at 3232.50, indicating positive cash generation across the available periods",78.0
+TATAPOWER,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+TATASTEEL,con,CF_CON_01,"Accrual Risk was observed in 6 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",85.0
+TATASTEEL,con,CF_CON_02,"Negative free cash flow occurred in 3 of 12 periods, indicating periods of cash-generation pressure",74.25
+TATASTEEL,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 7 periods, indicating higher investment requirements",81.67
+TATASTEEL,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 6 of 12 periods, indicating strong cash support for reported earnings",87.5
+TATASTEEL,pro,CF_PRO_02,"Free cash flow was positive in 9 of 12 periods, supporting internal cash generation",88.75
+TATASTEEL,pro,CF_PRO_05,"Average free cash flow was positive at 6840.50, indicating positive cash generation across the available periods",78.0
+TCS,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 3 periods, indicating higher investment requirements",75.0
+TCS,con,CF_CON_06,"Liquidating Assets patterns appeared in 5 periods, indicating that asset sales may have contributed to cash generation",80.33
+TCS,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 2 of 12 periods, indicating strong cash support for reported earnings",79.17
+TCS,pro,CF_PRO_02,"Free cash flow was positive in 12 of 12 periods, supporting internal cash generation",95.0
+TCS,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 6 periods, suggesting relatively lower capital expenditure intensity",82.0
+TCS,pro,CF_PRO_04,"Latest free-cash-flow conversion was 78.43%, indicating strong conversion of reported profit into free cash flow",82.84
+TCS,pro,CF_PRO_05,"Average free cash flow was positive at 26134.17, indicating positive cash generation across the available periods",78.0
+TECHM,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 5 periods, indicating higher investment requirements",78.33
+TECHM,con,CF_CON_06,"Liquidating Assets patterns appeared in 3 periods, indicating that asset sales may have contributed to cash generation",77.0
+TECHM,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 7 of 12 periods, indicating strong cash support for reported earnings",89.58
+TECHM,pro,CF_PRO_02,"Free cash flow was positive in 12 of 12 periods, supporting internal cash generation",95.0
+TECHM,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 5 periods, suggesting relatively lower capital expenditure intensity",80.33
+TECHM,pro,CF_PRO_04,"Latest free-cash-flow conversion was 112.25%, indicating strong conversion of reported profit into free cash flow",86.23
+TECHM,pro,CF_PRO_05,"Average free cash flow was positive at 2699.75, indicating positive cash generation across the available periods",78.0
+TECHM,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+TITAN,con,CF_CON_01,"Accrual Risk was observed in 6 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",85.0
+TITAN,con,CF_CON_02,"Negative free cash flow occurred in 3 of 12 periods, indicating periods of cash-generation pressure",74.25
+TITAN,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 1 periods, indicating higher investment requirements",71.67
+TITAN,con,CF_CON_04,"Growth funded by debt was observed in 1 periods, indicating reliance on debt financing for growth",76.67
+TITAN,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 2 of 12 periods, indicating strong cash support for reported earnings",79.17
+TITAN,pro,CF_PRO_02,"Free cash flow was positive in 9 of 12 periods, supporting internal cash generation",88.75
+TITAN,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 7 periods, suggesting relatively lower capital expenditure intensity",83.67
+TITAN,pro,CF_PRO_05,"Average free cash flow was positive at 364.08, indicating positive cash generation across the available periods",78.0
+TORNTPHARM,con,CF_CON_01,"Accrual Risk was observed in 1 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",72.5
+TORNTPHARM,con,CF_CON_02,"Negative free cash flow occurred in 3 of 12 periods, indicating periods of cash-generation pressure",74.25
+TORNTPHARM,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 6 periods, indicating higher investment requirements",80.0
+TORNTPHARM,con,CF_CON_06,"Liquidating Assets patterns appeared in 1 periods, indicating that asset sales may have contributed to cash generation",73.67
+TORNTPHARM,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 10 of 12 periods, indicating strong cash support for reported earnings",95.0
+TORNTPHARM,pro,CF_PRO_02,"Free cash flow was positive in 9 of 12 periods, supporting internal cash generation",88.75
+TORNTPHARM,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 3 periods, suggesting relatively lower capital expenditure intensity",77.0
+TORNTPHARM,pro,CF_PRO_04,"Latest free-cash-flow conversion was 92.22%, indicating strong conversion of reported profit into free cash flow",84.22
+TORNTPHARM,pro,CF_PRO_05,"Average free cash flow was positive at 547.17, indicating positive cash generation across the available periods",78.0
+TORNTPHARM,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+TRENT,con,CF_CON_01,"Accrual Risk was observed in 4 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",80.0
+TRENT,con,CF_CON_02,"Negative free cash flow occurred in 5 of 12 periods, indicating periods of cash-generation pressure",78.42
+TRENT,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 3 periods, indicating higher investment requirements",75.0
+TRENT,con,CF_CON_04,"Growth funded by debt was observed in 1 periods, indicating reliance on debt financing for growth",76.67
+TRENT,con,CF_CON_06,"Liquidating Assets patterns appeared in 2 periods, indicating that asset sales may have contributed to cash generation",75.33
+TRENT,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 6 of 12 periods, indicating strong cash support for reported earnings",87.5
+TRENT,pro,CF_PRO_02,"Free cash flow was positive in 7 of 12 periods, supporting internal cash generation",84.58
+TRENT,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 7 periods, suggesting relatively lower capital expenditure intensity",83.67
+TRENT,pro,CF_PRO_05,"Average free cash flow was positive at 64.42, indicating positive cash generation across the available periods",78.0
+TVSMOTOR,con,CF_CON_01,"Accrual Risk was observed in 5 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",82.5
+TVSMOTOR,con,CF_CON_02,"Negative free cash flow occurred in 8 of 12 periods, indicating periods of cash-generation pressure",84.67
+TVSMOTOR,con,CF_CON_04,"Growth funded by debt was observed in 4 periods, indicating reliance on debt financing for growth",81.67
+TVSMOTOR,con,CF_CON_07,"Latest free cash flow was negative at -2254.00, indicating current cash-generation pressure",88.0
+TVSMOTOR,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 5 of 12 periods, indicating strong cash support for reported earnings",85.42
+TVSMOTOR,pro,CF_PRO_02,"Free cash flow was positive in 4 of 12 periods, supporting internal cash generation",78.33
+TVSMOTOR,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 3 periods, suggesting relatively lower capital expenditure intensity",77.0
+ULTRACEMCO,con,CF_CON_02,"Negative free cash flow occurred in 1 of 12 periods, indicating periods of cash-generation pressure",70.08
+ULTRACEMCO,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 9 periods, indicating higher investment requirements",85.0
+ULTRACEMCO,con,CF_CON_06,"Liquidating Assets patterns appeared in 3 periods, indicating that asset sales may have contributed to cash generation",77.0
+ULTRACEMCO,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+ULTRACEMCO,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 12 of 12 periods, indicating strong cash support for reported earnings",95.0
+ULTRACEMCO,pro,CF_PRO_02,"Free cash flow was positive in 11 of 12 periods, supporting internal cash generation",92.92
+ULTRACEMCO,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 1 periods, suggesting relatively lower capital expenditure intensity",73.67
+ULTRACEMCO,pro,CF_PRO_05,"Average free cash flow was positive at 3550.08, indicating positive cash generation across the available periods",78.0
+ULTRACEMCO,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+UNIONBANK,con,CF_CON_01,"Accrual Risk was observed in 6 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",85.0
+UNIONBANK,con,CF_CON_02,"Negative free cash flow occurred in 5 of 12 periods, indicating periods of cash-generation pressure",78.42
+UNIONBANK,con,CF_CON_04,"Growth funded by debt was observed in 5 periods, indicating reliance on debt financing for growth",83.33
+UNIONBANK,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 5 of 12 periods, indicating strong cash support for reported earnings",85.42
+UNIONBANK,pro,CF_PRO_02,"Free cash flow was positive in 7 of 12 periods, supporting internal cash generation",84.58
+UNIONBANK,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 11 periods, suggesting relatively lower capital expenditure intensity",90.33
+UNIONBANK,pro,CF_PRO_04,"Latest free-cash-flow conversion was 403.83%, indicating strong conversion of reported profit into free cash flow",95.0
+UNIONBANK,pro,CF_PRO_05,"Average free cash flow was positive at 5188.83, indicating positive cash generation across the available periods",78.0
+UNIONBANK,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+UNITDSPR,con,CF_CON_01,"Accrual Risk was observed in 3 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",77.5
+UNITDSPR,con,CF_CON_02,"Negative free cash flow occurred in 1 of 12 periods, indicating periods of cash-generation pressure",70.08
+UNITDSPR,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 3 periods, indicating higher investment requirements",75.0
+UNITDSPR,con,CF_CON_04,"Growth funded by debt was observed in 1 periods, indicating reliance on debt financing for growth",76.67
+UNITDSPR,con,CF_CON_06,"Liquidating Assets patterns appeared in 3 periods, indicating that asset sales may have contributed to cash generation",77.0
+UNITDSPR,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 7 of 12 periods, indicating strong cash support for reported earnings",89.58
+UNITDSPR,pro,CF_PRO_02,"Free cash flow was positive in 11 of 12 periods, supporting internal cash generation",92.92
+UNITDSPR,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 8 periods, suggesting relatively lower capital expenditure intensity",85.33
+UNITDSPR,pro,CF_PRO_04,"Latest free-cash-flow conversion was 67.20%, indicating strong conversion of reported profit into free cash flow",81.72
+UNITDSPR,pro,CF_PRO_05,"Average free cash flow was positive at 993.83, indicating positive cash generation across the available periods",78.0
+VBL,con,CF_CON_01,"Accrual Risk was observed in 2 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",75.0
+VBL,con,CF_CON_02,"Negative free cash flow occurred in 7 of 12 periods, indicating periods of cash-generation pressure",82.58
+VBL,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 11 periods, indicating higher investment requirements",88.33
+VBL,con,CF_CON_07,"Latest free cash flow was negative at -897.00, indicating current cash-generation pressure",88.0
+VBL,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+VBL,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 10 of 12 periods, indicating strong cash support for reported earnings",95.0
+VBL,pro,CF_PRO_02,"Free cash flow was positive in 5 of 12 periods, supporting internal cash generation",80.42
+VBL,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+VEDL,con,CF_CON_01,"Accrual Risk was observed in 4 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",80.0
+VEDL,con,CF_CON_02,"Negative free cash flow occurred in 1 of 12 periods, indicating periods of cash-generation pressure",70.08
+VEDL,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 5 periods, indicating higher investment requirements",78.33
+VEDL,con,CF_CON_06,"Liquidating Assets patterns appeared in 2 periods, indicating that asset sales may have contributed to cash generation",75.33
+VEDL,con,CF_CON_08,"Latest period is classified as Capital Intensive, indicating relatively high capital expenditure requirements",85.0
+VEDL,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 8 of 12 periods, indicating strong cash support for reported earnings",91.67
+VEDL,pro,CF_PRO_02,"Free cash flow was positive in 11 of 12 periods, supporting internal cash generation",92.92
+VEDL,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 2 periods, suggesting relatively lower capital expenditure intensity",75.33
+VEDL,pro,CF_PRO_04,"Latest free-cash-flow conversion was 62.24%, indicating strong conversion of reported profit into free cash flow",81.22
+VEDL,pro,CF_PRO_05,"Average free cash flow was positive at 18595.42, indicating positive cash generation across the available periods",78.0
+VEDL,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+WIPRO,con,CF_CON_02,"Negative free cash flow occurred in 3 of 12 periods, indicating periods of cash-generation pressure",74.25
+WIPRO,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 6 periods, indicating higher investment requirements",80.0
+WIPRO,con,CF_CON_06,"Liquidating Assets patterns appeared in 5 periods, indicating that asset sales may have contributed to cash generation",80.33
+WIPRO,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 8 of 12 periods, indicating strong cash support for reported earnings",91.67
+WIPRO,pro,CF_PRO_02,"Free cash flow was positive in 9 of 12 periods, supporting internal cash generation",88.75
+WIPRO,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 3 periods, suggesting relatively lower capital expenditure intensity",77.0
+WIPRO,pro,CF_PRO_04,"Latest free-cash-flow conversion was 112.02%, indicating strong conversion of reported profit into free cash flow",86.2
+WIPRO,pro,CF_PRO_05,"Average free cash flow was positive at 6294.00, indicating positive cash generation across the available periods",78.0
+WIPRO,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+ZOMATO,con,CF_CON_02,"Negative free cash flow occurred in 4 of 5 periods, indicating periods of cash-generation pressure",88.0
+ZOMATO,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 4 periods, indicating higher investment requirements",86.0
+ZOMATO,con,CF_CON_04,"Growth funded by debt was observed in 2 periods, indicating reliance on debt financing for growth",83.0
+ZOMATO,con,CF_CON_05,"Distress Signal patterns appeared in 1 periods, indicating potential cash-flow stress that should be monitored",83.0
+ZOMATO,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 2 of 5 periods, indicating strong cash support for reported earnings",85.0
+ZOMATO,pro,CF_PRO_02,"Free cash flow was positive in 1 of 5 periods, supporting internal cash generation",75.0
+ZOMATO,pro,CF_PRO_03,"Asset-light cash-flow characteristics appeared in 1 periods, suggesting relatively lower capital expenditure intensity",76.0
+ZOMATO,pro,CF_PRO_04,"Latest free-cash-flow conversion was 693.02%, indicating strong conversion of reported profit into free cash flow",95.0
+ZOMATO,pro,CF_PRO_06,"Latest operating cash-flow quality is High Quality, providing strong cash-flow support for current earnings",90.0
+ZYDUSLIFE,con,CF_CON_01,"Accrual Risk was observed in 1 of 12 periods, indicating that reported earnings were not always strongly supported by operating cash flow",72.5
+ZYDUSLIFE,con,CF_CON_02,"Negative free cash flow occurred in 4 of 12 periods, indicating periods of cash-generation pressure",76.33
+ZYDUSLIFE,con,CF_CON_03,"Capital-intensive cash-flow characteristics appeared in 6 periods, indicating higher investment requirements",80.0
+ZYDUSLIFE,con,CF_CON_06,"Liquidating Assets patterns appeared in 1 periods, indicating that asset sales may have contributed to cash generation",73.67
+ZYDUSLIFE,pro,CF_PRO_01,"Operating cash flow quality was High Quality in 4 of 12 periods, indicating strong cash support for reported earnings",83.33
+ZYDUSLIFE,pro,CF_PRO_02,"Free cash flow was positive in 8 of 12 periods, supporting internal cash generation",86.67
+ZYDUSLIFE,pro,CF_PRO_05,"Average free cash flow was positive at 756.42, indicating positive cash generation across the available periods",78.0

@@ -1,0 +1,6 @@
+company_id,revenue_cagr_5yr,pat_cagr_5yr,parsed_revenue_cagr_5yr,parsed_pat_cagr_5yr,revenue_difference_pct,pat_difference_pct,revenue_manual_review,pat_manual_review,manual_review
+HDFCBANK,21.91,21.46,22.0,23.0,0.08999999999999986,1.5399999999999991,False,False,False
+INFY,12.0,10.72,13.0,11.0,1.0,0.27999999999999936,False,False,False
+SBILIFE,24.32,11.14,24.0,6.0,0.3200000000000003,5.140000000000001,False,True,True
+TCS,9.94,8.6,10.0,8.0,0.0600000000000005,0.5999999999999996,False,False,False
+WIPRO,7.75,5.03,9.0,4.0,1.25,1.0300000000000002,False,False,False

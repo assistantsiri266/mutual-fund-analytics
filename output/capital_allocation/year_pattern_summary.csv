@@ -1,0 +1,75 @@
+year,capital_allocation_label,count
+2011,Liquidating Assets,1
+2012,Reinvestor,4
+2012,Mixed,1
+2013,Reinvestor,40
+2013,Mixed,30
+2013,Growth Funded by Debt,6
+2013,Distress Signal,4
+2013,Liquidating Assets,3
+2013,Cash Accumulator,1
+2013,Pre-Revenue,1
+2014,Reinvestor,43
+2014,Mixed,27
+2014,Growth Funded by Debt,7
+2014,Liquidating Assets,5
+2014,Distress Signal,3
+2014,Cash Accumulator,2
+2014,Pre-Revenue,1
+2015,Reinvestor,52
+2015,Mixed,17
+2015,Growth Funded by Debt,13
+2015,Liquidating Assets,7
+2015,Distress Signal,2
+2016,Reinvestor,62
+2016,Mixed,12
+2016,Growth Funded by Debt,9
+2016,Liquidating Assets,8
+2016,Distress Signal,2
+2016,Pre-Revenue,1
+2017,Reinvestor,56
+2017,Mixed,25
+2017,Liquidating Assets,7
+2017,Growth Funded by Debt,4
+2017,Distress Signal,3
+2017,Pre-Revenue,1
+2018,Reinvestor,46
+2018,Mixed,23
+2018,Liquidating Assets,11
+2018,Distress Signal,9
+2018,Growth Funded by Debt,7
+2018,Pre-Revenue,1
+2019,Reinvestor,47
+2019,Mixed,18
+2019,Growth Funded by Debt,15
+2019,Liquidating Assets,13
+2019,Distress Signal,3
+2019,Cash Accumulator,2
+2020,Reinvestor,44
+2020,Mixed,25
+2020,Liquidating Assets,15
+2020,Growth Funded by Debt,10
+2020,Distress Signal,5
+2021,Reinvestor,61
+2021,Mixed,19
+2021,Liquidating Assets,11
+2021,Growth Funded by Debt,4
+2021,Distress Signal,3
+2021,Pre-Revenue,1
+2022,Reinvestor,64
+2022,Liquidating Assets,12
+2022,Mixed,12
+2022,Growth Funded by Debt,6
+2022,Distress Signal,4
+2023,Reinvestor,57
+2023,Mixed,18
+2023,Growth Funded by Debt,13
+2023,Liquidating Assets,8
+2023,Distress Signal,3
+2023,Pre-Revenue,1
+2024,Reinvestor,61
+2024,Mixed,15
+2024,Growth Funded by Debt,12
+2024,Liquidating Assets,9
+2024,Distress Signal,1
+2024,Pre-Revenue,1

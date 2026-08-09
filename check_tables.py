@@ -1,94 +1,13 @@
 import sqlite3
-import pandas as pd
-from pathlib import Path
 
+conn = sqlite3.connect("database/financial_data.db")
 
-# ============================================================
-# PROJECT PATH
-# ============================================================
+tables = conn.execute(
+    "SELECT name FROM sqlite_master WHERE type='table' ORDER BY name"
+).fetchall()
 
-BASE_DIR = Path(__file__).resolve().parent
+print("DATABASE TABLES:")
+for table in tables:
+    print("-", table[0])
 
-DATABASE_PATH = (
-    BASE_DIR
-    / "database"
-    / "financial_data.db"
-)
-
-
-# ============================================================
-# CONNECT TO DATABASE
-# ============================================================
-
-connection = sqlite3.connect(
-    DATABASE_PATH
-)
-
-
-# ============================================================
-# FIND UNMAPPED COMPANIES
-# ============================================================
-
-unmapped = pd.read_sql_query(
-    """
-    SELECT DISTINCT
-        company_id
-    FROM financial_ratios
-    WHERE broad_sector IS NULL
-    ORDER BY company_id
-    """,
-    connection
-)
-
-
-# ============================================================
-# FIND ALL COMPANIES
-# ============================================================
-
-all_companies = pd.read_sql_query(
-    """
-    SELECT DISTINCT
-        company_id,
-        broad_sector,
-        sub_sector
-    FROM financial_ratios
-    ORDER BY company_id
-    """,
-    connection
-)
-
-
-# ============================================================
-# CLOSE DATABASE
-# ============================================================
-
-connection.close()
-
-
-# ============================================================
-# DISPLAY RESULTS
-# ============================================================
-
-print("=" * 70)
-
-print("UNMAPPED COMPANY IDs:")
-
-print(unmapped.to_string(index=False))
-
-print("\nTOTAL UNMAPPED COMPANIES:")
-
-print(
-    unmapped.shape[0]
-)
-
-print("\n" + "=" * 70)
-
-print("ALL COMPANY SECTOR STATUS:")
-
-print(
-    all_companies.to_string(
-        index=False
-    )
-)
-
-print("\n" + "=" * 70)
+conn.close()

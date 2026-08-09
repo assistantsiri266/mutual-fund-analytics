@@ -1,0 +1,94 @@
+rank,company_id,total_pros,total_cons,signal_balance,signal_class,leverage_class,growth_class,cashflow_signal,overall_class,risk_level,financial_score,cashflow_score,growth_score,risk_score,signal_score,overall_score,final_score,ranking_category
+1,BPCL,13,2,11,Strong Positive,Low Leverage,Moderate Growth,Positive Cash Flow Signals,Strong Positive,Low Risk,86.67,100,80,100,100,100,93.67,Top Tier
+2,LTIM,11,4,7,Strong Positive,Low Leverage,High Growth,Positive Cash Flow Signals,Strong Positive,Low Risk,73.33,100,100,100,100,100,93.33,Top Tier
+3,HCLTECH,10,3,7,Strong Positive,Low Leverage,Moderate Growth,Positive Cash Flow Signals,Strong Positive,Low Risk,76.92,100,80,100,100,100,91.23,Top Tier
+4,MOTHERSON,10,3,7,Strong Positive,Low Leverage,Moderate Growth,Positive Cash Flow Signals,Strong Positive,Low Risk,76.92,100,80,100,100,100,91.23,Top Tier
+5,SUNPHARMA,13,4,9,Strong Positive,Low Leverage,Moderate Growth,Positive Cash Flow Signals,Strong Positive,Low Risk,76.47,100,80,100,100,100,91.12,Top Tier
+6,BOSCHLTD,12,4,8,Strong Positive,Low Leverage,Moderate Growth,Positive Cash Flow Signals,Strong Positive,Low Risk,75.0,100,80,100,100,100,90.75,Top Tier
+7,DRREDDY,12,4,8,Strong Positive,Low Leverage,Moderate Growth,Positive Cash Flow Signals,Strong Positive,Low Risk,75.0,100,80,100,100,100,90.75,Top Tier
+8,ASIANPAINT,9,3,6,Strong Positive,Low Leverage,Moderate Growth,Positive Cash Flow Signals,Strong Positive,Low Risk,75.0,100,80,100,100,100,90.75,Top Tier
+9,COALINDIA,11,4,7,Strong Positive,Low Leverage,Moderate Growth,Positive Cash Flow Signals,Strong Positive,Low Risk,73.33,100,80,100,100,100,90.33,Top Tier
+10,APOLLOHOSP,10,4,6,Strong Positive,Low Leverage,Moderate Growth,Positive Cash Flow Signals,Strong Positive,Low Risk,71.43,100,80,100,100,100,89.86,Top Tier
+11,ONGC,10,4,6,Strong Positive,Low Leverage,Moderate Growth,Positive Cash Flow Signals,Strong Positive,Low Risk,71.43,100,80,100,100,100,89.86,Top Tier
+12,HINDALCO,12,5,7,Strong Positive,Low Leverage,Moderate Growth,Positive Cash Flow Signals,Strong Positive,Low Risk,70.59,100,80,100,100,100,89.65,Top Tier
+13,BAJAJ-AUTO,9,4,5,Strong Positive,Low Leverage,Moderate Growth,Positive Cash Flow Signals,Strong Positive,Low Risk,69.23,100,80,100,100,100,89.31,Top Tier
+14,MARUTI,11,5,6,Strong Positive,Low Leverage,Moderate Growth,Positive Cash Flow Signals,Strong Positive,Low Risk,68.75,100,80,100,100,100,89.19,Top Tier
+15,TATACONSUM,11,5,6,Strong Positive,Low Leverage,Moderate Growth,Positive Cash Flow Signals,Strong Positive,Low Risk,68.75,100,80,100,100,100,89.19,Top Tier
+16,TORNTPHARM,11,5,6,Strong Positive,Low Leverage,Moderate Growth,Positive Cash Flow Signals,Strong Positive,Low Risk,68.75,100,80,100,100,100,89.19,Top Tier
+17,ADANIPOWER,10,5,5,Strong Positive,Low Leverage,Moderate Growth,Positive Cash Flow Signals,Strong Positive,Low Risk,66.67,100,80,100,100,100,88.67,Top Tier
+18,ITC,11,3,8,Strong Positive,Low Leverage,Mixed Growth,Positive Cash Flow Signals,Strong Positive,Low Risk,78.57,100,60,100,100,100,88.64,Top Tier
+19,NESTLEIND,11,3,8,Strong Positive,Low Leverage,Mixed Growth,Positive Cash Flow Signals,Strong Positive,Low Risk,78.57,100,60,100,100,100,88.64,Top Tier
+20,IOC,10,3,7,Strong Positive,Low Leverage,Mixed Growth,Positive Cash Flow Signals,Strong Positive,Low Risk,76.92,100,60,100,100,100,88.23,Top Tier
+21,ABB,11,6,5,Strong Positive,Low Leverage,Moderate Growth,Positive Cash Flow Signals,Strong Positive,Low Risk,64.71,100,80,100,100,100,88.18,Top Tier
+22,TCS,9,3,6,Strong Positive,Low Leverage,Mixed Growth,Positive Cash Flow Signals,Strong Positive,Low Risk,75.0,100,60,100,100,100,87.75,Top Tier
+23,TECHM,9,3,6,Strong Positive,Low Leverage,Mixed Growth,Positive Cash Flow Signals,Strong Positive,Low Risk,75.0,100,60,100,100,100,87.75,Top Tier
+24,HINDUNILVR,11,4,7,Strong Positive,Low Leverage,Mixed Growth,Positive Cash Flow Signals,Strong Positive,Low Risk,73.33,100,60,100,100,100,87.33,Top Tier
+25,DABUR,8,3,5,Strong Positive,Low Leverage,Mixed Growth,Positive Cash Flow Signals,Strong Positive,Low Risk,72.73,100,60,100,100,100,87.18,Top Tier
+26,HEROMOTOCO,10,4,6,Strong Positive,Low Leverage,Mixed Growth,Positive Cash Flow Signals,Strong Positive,Low Risk,71.43,100,60,100,100,100,86.86,Top Tier
+27,DIVISLAB,9,4,5,Strong Positive,Low Leverage,Mixed Growth,Positive Cash Flow Signals,Strong Positive,Low Risk,69.23,100,60,100,100,100,86.31,Top Tier
+28,BRITANNIA,10,5,5,Strong Positive,Low Leverage,Mixed Growth,Positive Cash Flow Signals,Strong Positive,Low Risk,66.67,100,60,100,100,100,85.67,Top Tier
+29,ICICIGI,11,6,5,Strong Positive,Low Leverage,High Growth,Balanced Cash Flow Signals,Strong Positive,Low Risk,64.71,70,100,100,100,100,85.18,Top Tier
+30,GAIL,7,3,4,Positive,Low Leverage,Moderate Growth,Positive Cash Flow Signals,Positive,Low Risk,70.0,100,80,100,80,80,84.5,Strong
+31,EICHERMOT,10,4,6,Strong Positive,Low Leverage,Moderate Growth,Balanced Cash Flow Signals,Strong Positive,Low Risk,71.43,70,80,100,100,100,83.86,Strong
+32,ADANIPORTS,8,4,4,Positive,Low Leverage,Moderate Growth,Positive Cash Flow Signals,Positive,Low Risk,66.67,100,80,100,80,80,83.67,Strong
+33,INFY,8,4,4,Positive,Low Leverage,Moderate Growth,Positive Cash Flow Signals,Positive,Low Risk,66.67,100,80,100,80,80,83.67,Strong
+34,CIPLA,12,5,7,Strong Positive,Low Leverage,Moderate Growth,Balanced Cash Flow Signals,Strong Positive,Low Risk,70.59,70,80,100,100,100,83.65,Strong
+35,TATAPOWER,10,5,5,Strong Positive,Moderate Leverage,High Growth,Positive Cash Flow Signals,Positive,Moderate Risk,66.67,100,100,65,100,80,83.42,Strong
+36,IRCTC,11,5,6,Strong Positive,Low Leverage,Moderate Growth,Balanced Cash Flow Signals,Strong Positive,Low Risk,68.75,70,80,100,100,100,83.19,Strong
+37,LICI,11,5,6,Strong Positive,Low Leverage,Moderate Growth,Balanced Cash Flow Signals,Strong Positive,Low Risk,68.75,70,80,100,100,100,83.19,Strong
+38,PIDILITIND,9,5,4,Positive,Low Leverage,Moderate Growth,Positive Cash Flow Signals,Positive,Low Risk,64.29,100,80,100,80,80,83.07,Strong
+39,ULTRACEMCO,8,5,3,Positive,Low Leverage,Moderate Growth,Positive Cash Flow Signals,Positive,Low Risk,61.54,100,80,100,80,80,82.38,Strong
+40,TATAMOTORS,9,4,5,Strong Positive,Moderate Leverage,Moderate Growth,Positive Cash Flow Signals,Positive,Moderate Risk,69.23,100,80,65,100,80,81.06,Strong
+41,NHPC,9,5,4,Positive,Low Leverage,Low Growth,Positive Cash Flow Signals,Positive,Low Risk,64.29,100,45,100,80,80,77.82,Strong
+42,NTPC,7,4,3,Positive,Moderate Leverage,Moderate Growth,Positive Cash Flow Signals,Positive,Moderate Risk,63.64,100,80,65,80,80,77.66,Strong
+43,POWERGRID,10,5,5,Strong Positive,Moderate Leverage,Mixed Growth,Positive Cash Flow Signals,Positive,Moderate Risk,66.67,100,60,65,100,80,77.42,Strong
+44,SHREECEM,7,3,4,Positive,Low Leverage,Mixed Growth,Positive Cash Flow Signals,Positive,Moderate Risk,70.0,100,60,65,80,80,76.25,Strong
+45,UNIONBANK,8,6,2,Positive,High Leverage,Moderate Growth,Positive Cash Flow Signals,Positive,Moderate Risk,57.14,100,80,65,80,80,76.03,Strong
+46,DMART,7,4,3,Positive,Low Leverage,High Growth,Balanced Cash Flow Signals,Positive,Moderate Risk,63.64,70,100,65,80,80,74.66,Moderate
+47,ATGL,3,1,2,Positive,Low Leverage,Moderate Growth,Balanced Cash Flow Signals,Positive,Moderate Risk,75.0,70,80,65,80,80,74.5,Moderate
+48,TITAN,8,5,3,Positive,Moderate Leverage,High Growth,Balanced Cash Flow Signals,Positive,Moderate Risk,61.54,70,100,65,80,80,74.13,Moderate
+49,AMBUJACEM,7,5,2,Positive,Low Leverage,Mixed Growth,Positive Cash Flow Signals,Positive,Moderate Risk,58.33,100,60,65,80,80,73.33,Moderate
+50,SIEMENS,8,5,3,Positive,Low Leverage,Moderate Growth,Balanced Cash Flow Signals,Positive,Moderate Risk,61.54,70,80,65,80,80,71.13,Moderate
+51,HAVELLS,8,6,2,Positive,Low Leverage,Moderate Growth,Balanced Cash Flow Signals,Positive,Moderate Risk,57.14,70,80,65,80,80,70.03,Moderate
+52,HDFCLIFE,8,6,2,Positive,Low Leverage,Moderate Growth,Balanced Cash Flow Signals,Positive,Moderate Risk,57.14,70,80,65,80,80,70.03,Moderate
+53,SBILIFE,8,6,2,Positive,Low Leverage,Moderate Growth,Balanced Cash Flow Signals,Positive,Moderate Risk,57.14,70,80,65,80,80,70.03,Moderate
+54,HAL,11,6,5,Strong Positive,Low Leverage,Moderate Growth,Negative Cash Flow Signals,Strong Positive,Moderate Risk,64.71,35,80,65,100,100,69.93,Moderate
+55,JIOFIN,7,4,3,Positive,Low Leverage,Mixed Growth,Balanced Cash Flow Signals,Positive,Moderate Risk,63.64,70,60,65,80,80,68.66,Moderate
+56,TRENT,10,6,4,Positive,Low Leverage,High Growth,Negative Cash Flow Signals,Positive,Moderate Risk,62.5,35,100,65,80,80,67.38,Moderate
+57,ICICIBANK,11,9,2,Positive,High Leverage,High Growth,Balanced Cash Flow Signals,Positive,High Risk,55.0,70,100,30,80,80,67.25,Moderate
+58,BAJAJHLDNG,9,6,3,Positive,Low Leverage,High Growth,Negative Cash Flow Signals,Positive,Moderate Risk,60.0,35,100,65,80,80,66.75,Moderate
+59,CANBK,7,6,1,Balanced,High Leverage,Moderate Growth,Positive Cash Flow Signals,Balanced,High Risk,53.85,100,80,30,60,60,64.96,Watchlist
+60,RELIANCE,5,4,1,Balanced,Low Leverage,Moderate Growth,Balanced Cash Flow Signals,Balanced,Moderate Risk,55.56,70,80,65,60,60,64.64,Watchlist
+61,LT,7,7,0,Balanced,Low Leverage,Moderate Growth,Balanced Cash Flow Signals,Balanced,Moderate Risk,50.0,70,80,65,60,60,63.25,Watchlist
+62,ICICIPRULI,8,6,2,Positive,Low Leverage,Moderate Growth,Negative Cash Flow Signals,Positive,Moderate Risk,57.14,35,80,65,80,80,63.03,Watchlist
+63,INDIGO,8,6,2,Positive,Low Leverage,Moderate Growth,Negative Cash Flow Signals,Positive,Moderate Risk,57.14,35,80,65,80,80,63.03,Watchlist
+64,LODHA,10,8,2,Positive,Low Leverage,Moderate Growth,Negative Cash Flow Signals,Positive,Moderate Risk,55.56,35,80,65,80,80,62.64,Watchlist
+65,TATASTEEL,5,6,-1,Balanced,Low Leverage,Moderate Growth,Balanced Cash Flow Signals,Balanced,Moderate Risk,45.45,70,80,65,60,60,62.11,Watchlist
+66,ADANIENT,8,6,2,Positive,Moderate Leverage,High Growth,Negative Cash Flow Signals,Positive,High Risk,57.14,35,100,30,80,80,60.78,Watchlist
+67,BHARTIARTL,6,5,1,Balanced,High Leverage,Moderate Growth,Balanced Cash Flow Signals,Balanced,High Risk,54.55,70,80,30,60,60,59.14,Watchlist
+68,JSWENERGY,7,6,1,Balanced,Moderate Leverage,Moderate Growth,Balanced Cash Flow Signals,Balanced,High Risk,53.85,70,80,30,60,60,58.96,Watchlist
+69,IRFC,7,7,0,Balanced,High Leverage,Moderate Growth,Balanced Cash Flow Signals,Balanced,High Risk,50.0,70,80,30,60,60,58.0,Watchlist
+70,JINDALSTEL,6,6,0,Balanced,Low Leverage,Mixed Growth,Balanced Cash Flow Signals,Balanced,High Risk,50.0,70,60,30,60,60,55.0,Watchlist
+71,TVSMOTOR,7,6,1,Balanced,High Leverage,High Growth,Negative Cash Flow Signals,Balanced,High Risk,53.85,35,100,30,60,60,54.96,Watchlist
+72,HDFCBANK,7,7,0,Balanced,High Leverage,High Growth,Negative Cash Flow Signals,Balanced,High Risk,50.0,35,100,30,60,60,54.0,Watchlist
+73,PNB,8,9,-1,Balanced,High Leverage,High Growth,Negative Cash Flow Signals,Balanced,High Risk,47.06,35,100,30,60,60,53.27,Watchlist
+74,BEL,8,7,1,Balanced,Low Leverage,Moderate Growth,Negative Cash Flow Signals,Balanced,High Risk,53.33,35,80,30,60,60,51.83,Watchlist
+75,RECLTD,8,7,1,Balanced,High Leverage,Moderate Growth,Negative Cash Flow Signals,Balanced,High Risk,53.33,35,80,30,60,60,51.83,Watchlist
+76,BANKBARODA,8,8,0,Balanced,High Leverage,Moderate Growth,Negative Cash Flow Signals,Balanced,High Risk,50.0,35,80,30,60,60,51.0,Watchlist
+77,NAUKRI,7,7,0,Balanced,Low Leverage,Moderate Growth,Negative Cash Flow Signals,Balanced,High Risk,50.0,35,80,30,60,60,51.0,Watchlist
+78,KOTAKBANK,7,8,-1,Balanced,High Leverage,Moderate Growth,Negative Cash Flow Signals,Balanced,High Risk,46.67,35,80,30,60,60,50.17,Watchlist
+79,ADANIGREEN,5,6,-1,Balanced,High Leverage,Moderate Growth,Negative Cash Flow Signals,Balanced,High Risk,45.45,35,80,30,60,60,49.86,High Caution
+80,JSWSTEEL,5,6,-1,Balanced,Moderate Leverage,Moderate Growth,Negative Cash Flow Signals,Balanced,High Risk,45.45,35,80,30,60,60,49.86,High Caution
+81,DLF,7,8,-1,Balanced,Low Leverage,Mixed Growth,Negative Cash Flow Signals,Balanced,High Risk,46.67,35,60,30,60,60,47.17,High Caution
+82,BAJFINANCE,8,10,-2,Negative,High Leverage,High Growth,Negative Cash Flow Signals,Negative,High Risk,44.44,35,100,30,35,35,46.36,High Caution
+83,CHOLAFIN,8,10,-2,Negative,High Leverage,High Growth,Negative Cash Flow Signals,Negative,High Risk,44.44,35,100,30,35,35,46.36,High Caution
+84,BAJAJFINSV,7,10,-3,Negative,High Leverage,High Growth,Negative Cash Flow Signals,Negative,High Risk,41.18,35,100,30,35,35,45.55,High Caution
+85,SHRIRAMFIN,6,9,-3,Negative,High Leverage,High Growth,Negative Cash Flow Signals,Negative,High Risk,40.0,35,100,30,35,35,45.25,High Caution
+86,ADANIENSOL,4,6,-2,Negative,High Leverage,Moderate Growth,Negative Cash Flow Signals,Negative,High Risk,40.0,35,80,30,35,35,42.25,High Caution
+87,AXISBANK,6,9,-3,Negative,High Leverage,Moderate Growth,Negative Cash Flow Signals,Negative,High Risk,40.0,35,80,30,35,35,42.25,High Caution
+88,PFC,6,9,-3,Negative,High Leverage,Moderate Growth,Negative Cash Flow Signals,Negative,High Risk,40.0,35,80,30,35,35,42.25,High Caution
+89,INDUSINDBK,5,8,-3,Negative,High Leverage,Moderate Growth,Negative Cash Flow Signals,Negative,High Risk,38.46,35,80,30,35,35,41.87,High Caution
+90,M&M,3,6,-3,Negative,Moderate Leverage,Moderate Growth,Negative Cash Flow Signals,Negative,High Risk,33.33,35,80,30,35,35,40.58,High Caution
+91,GRASIM,4,8,-4,Negative,Moderate Leverage,Moderate Growth,Negative Cash Flow Signals,Negative,High Risk,33.33,35,80,30,35,35,40.58,High Caution
+92,GODREJCP,5,7,-2,Negative,Low Leverage,Mixed Growth,Negative Cash Flow Signals,Negative,High Risk,41.67,35,60,30,35,35,39.67,High Caution
+93,BHEL,5,8,-3,Negative,Low Leverage,Mixed Growth,Negative Cash Flow Signals,Negative,High Risk,38.46,35,60,30,35,35,38.87,High Caution
