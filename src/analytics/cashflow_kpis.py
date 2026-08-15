@@ -141,6 +141,68 @@ def safe_cagr(first_value, last_value, years):
     except Exception:
         return np.nan
 
+def free_cash_flow(cfo, cfi):
+    """Calculate Free Cash Flow = CFO + CFI."""
+    if pd.isna(cfo) or pd.isna(cfi):
+        return np.nan
+    return float(cfo) + float(cfi)
+
+
+def cfo_quality(cfo, pat):
+    """Classify CFO/PAT quality."""
+    if pd.isna(cfo) or pd.isna(pat) or pat == 0:
+        return "Accrual Risk"
+
+    score = float(cfo) / float(pat)
+
+    if score > 1.0:
+        return "High Quality"
+    elif score >= 0.5:
+        return "Moderate"
+    else:
+        return "Accrual Risk"
+
+
+def capex_intensity(investing_activity, sales):
+    """Calculate CapEx intensity and label."""
+    if pd.isna(investing_activity) or pd.isna(sales) or sales == 0:
+        return (np.nan, "Unknown")
+
+    value = abs(float(investing_activity)) / float(sales) * 100
+
+    if value < 3:
+        label = "Asset Light"
+    elif value <= 8:
+        label = "Moderate"
+    else:
+        label = "Capital Intensive"
+
+    return (value, label)
+
+
+def fcf_conversion(fcf, pat):
+    """Calculate FCF conversion percentage."""
+    if pd.isna(fcf) or pd.isna(pat) or pat == 0:
+        return np.nan
+
+    return float(fcf) / float(pat) * 100
+
+
+def capital_pattern(cfo, cfi, cff):
+    """Return the cash-flow sign pattern and its label."""
+    if pd.isna(cfo) or pd.isna(cfi) or pd.isna(cff):
+        return (sign(cfo), sign(cfi), sign(cff), "Unknown")
+
+    pattern = (
+        sign(cfo),
+        sign(cfi),
+        sign(cff)
+    )
+
+    label = capital_allocation_pattern(cfo, cfi, cff)
+
+    return (pattern[0], pattern[1], pattern[2], label)
+
 
 # ============================================================
 # START
@@ -654,14 +716,11 @@ for company_id, group in df.groupby(
             5
         )
 
-
     # --------------------------------------------------------
     # Latest FCF conversion
     # --------------------------------------------------------
 
-    fcf_conversion = latest[
-        "fcf_conversion_pct"
-    ]
+    fcf_conversion_value = latest["fcf_conversion_pct"]
 
 
     # --------------------------------------------------------
@@ -726,7 +785,7 @@ for company_id, group in df.groupby(
 
         "fcf_cagr_5yr": fcf_cagr,
 
-        "fcf_conversion_pct": fcf_conversion,
+        "fcf_conversion_pct": fcf_conversion_value,
 
         "distress_flag": distress_flag,
 
